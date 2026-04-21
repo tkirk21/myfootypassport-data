@@ -1,0 +1,452 @@
+[
+  {
+    "id": "sanfl_2026032701",
+    "league": "SANFL",
+    "team": "Norwood Redlegs",
+    "opponent": "Sturt Double Blues",
+    "arena": "Coopers Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-03-27T09:10:00Z"
+  },
+  {
+    "id": "sanfl_2026032801",
+    "league": "SANFL",
+    "team": "South Adelaide Panthers",
+    "opponent": "Woodville-West Torrens Eagles",
+    "arena": "Magain Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-03-28T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026032802",
+    "league": "SANFL",
+    "team": "West Adelaide Bloods",
+    "opponent": "Adelaide Crows",
+    "arena": "Richmond Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-03-28T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026032803",
+    "league": "SANFL",
+    "team": "Central District Bulldogs",
+    "opponent": "North Adelaide Roosters",
+    "arena": "X Convenience Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-03-28T06:40:00Z"
+  },
+  {
+    "id": "sanfl_2026032804",
+    "league": "SANFL",
+    "team": "Port Adelaide Magpies",
+    "opponent": "Glenelg Tigers",
+    "arena": "Alberton Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-03-28T06:40:00Z"
+  },
+  {
+    "id": "sanfl_2026040201",
+    "league": "SANFL",
+    "team": "Woodville-West Torrens Eagles",
+    "opponent": "Adelaide Crows",
+    "arena": "Maughan Thiem Kia Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-04-02T09:10:00Z"
+  },
+  {
+    "id": "sanfl_2026040301",
+    "league": "SANFL",
+    "team": "Glenelg Tigers",
+    "opponent": "Norwood Redlegs",
+    "arena": "Stratarama Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-04-03T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026040302",
+    "league": "SANFL",
+    "team": "West Adelaide Bloods",
+    "opponent": "Central District Bulldogs",
+    "arena": "Richmond Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-04-03T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026040303",
+    "league": "SANFL",
+    "team": "South Adelaide Panthers",
+    "opponent": "Port Adelaide Magpies",
+    "arena": "Magain Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-04-03T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026040304",
+    "league": "SANFL",
+    "team": "North Adelaide Roosters",
+    "opponent": "Sturt Double Blues",
+    "arena": "Revo Fitness Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-04-03T05:00:00Z"
+  },
+  {
+    "id": "sanfl_2026041701",
+    "league": "SANFL",
+    "team": "Norwood Redlegs",
+    "opponent": "South Adelaide Panthers",
+    "arena": "Coopers Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-04-17T10:10:00Z"
+  },
+  {
+    "id": "sanfl_2026041801",
+    "league": "SANFL",
+    "team": "Central District Bulldogs",
+    "opponent": "Adelaide Crows",
+    "arena": "X Convenience Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-04-18T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026041802",
+    "league": "SANFL",
+    "team": "Glenelg Tigers",
+    "opponent": "West Adelaide Bloods",
+    "arena": "Stratarama Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-04-18T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026041901",
+    "league": "SANFL",
+    "team": "Port Adelaide Magpies",
+    "opponent": "North Adelaide Roosters",
+    "arena": "Alberton Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-04-19T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026041902",
+    "league": "SANFL",
+    "team": "Sturt Double Blues",
+    "opponent": "Woodville-West Torrens Eagles",
+    "arena": "Thomas Farms Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-04-19T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026042401",
+    "league": "SANFL",
+    "team": "Norwood Redlegs",
+    "opponent": "Port Adelaide Magpies",
+    "arena": "Coopers Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-04-24T10:10:00Z"
+  },
+  {
+    "id": "sanfl_2026042402",
+    "league": "SANFL",
+    "team": "Woodville-West Torrens Eagles",
+    "opponent": "West Adelaide Bloods",
+    "arena": "Maughan Thiem Kia Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-04-24T10:10:00Z"
+  },
+  {
+    "id": "sanfl_2026042501",
+    "league": "SANFL",
+    "team": "North Adelaide Roosters",
+    "opponent": "Adelaide Crows",
+    "arena": "Revo Fitness Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-04-25T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026042502",
+    "league": "SANFL",
+    "team": "Sturt Double Blues",
+    "opponent": "Glenelg Tigers",
+    "arena": "Thomas Farms Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-04-25T05:00:00Z"
+  },
+  {
+    "id": "sanfl_2026042601",
+    "league": "SANFL",
+    "team": "South Adelaide Panthers",
+    "opponent": "Central District Bulldogs",
+    "arena": "Magain Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-04-26T03:40:00Z"
+  },
+  {
+    "id": "sanfl_2026050101",
+    "league": "SANFL",
+    "team": "Adelaide Crows",
+    "opponent": "Port Adelaide Magpies",
+    "arena": "Adelaide Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-01T07:00:00Z"
+  },
+  {
+    "id": "sanfl_2026050201",
+    "league": "SANFL",
+    "team": "Glenelg Tigers",
+    "opponent": "South Adelaide Panthers",
+    "arena": "Stratarama Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-05-02T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026050202",
+    "league": "SANFL",
+    "team": "Central District Bulldogs",
+    "opponent": "Norwood Redlegs",
+    "arena": "X Convenience Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-02T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026050301",
+    "league": "SANFL",
+    "team": "West Adelaide Bloods",
+    "opponent": "Sturt Double Blues",
+    "arena": "Richmond Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-03T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026050302",
+    "league": "SANFL",
+    "team": "North Adelaide Roosters",
+    "opponent": "Woodville-West Torrens Eagles",
+    "arena": "Revo Fitness Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-03T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026050901",
+    "league": "SANFL",
+    "team": "Port Adelaide Magpies",
+    "opponent": "Central District Bulldogs",
+    "arena": "Alberton Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-09T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026050902",
+    "league": "SANFL",
+    "team": "Norwood Redlegs",
+    "opponent": "West Adelaide Bloods",
+    "arena": "Centenary Oval",
+    "city": "Port Lincoln, SA",
+    "date": "2026-05-09T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026050903",
+    "league": "SANFL",
+    "team": "South Adelaide Panthers",
+    "opponent": "North Adelaide Roosters",
+    "arena": "Magain Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-05-09T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026050904",
+    "league": "SANFL",
+    "team": "Sturt Double Blues",
+    "opponent": "Adelaide Crows",
+    "arena": "Thomas Farms Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-09T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026050905",
+    "league": "SANFL",
+    "team": "Woodville-West Torrens Eagles",
+    "opponent": "Glenelg Tigers",
+    "arena": "Maughan Thiem Kia Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-09T06:40:00Z"
+  },
+  {
+    "id": "sanfl_2026052301",
+    "league": "SANFL",
+    "team": "North Adelaide Roosters",
+    "opponent": "Norwood Redlegs",
+    "arena": "Revo Fitness Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-23T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026052302",
+    "league": "SANFL",
+    "team": "Sturt Double Blues",
+    "opponent": "Central District Bulldogs",
+    "arena": "Thomas Farms Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-23T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026052303",
+    "league": "SANFL",
+    "team": "West Adelaide Bloods",
+    "opponent": "South Adelaide Panthers",
+    "arena": "Richmond Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-23T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026052304",
+    "league": "SANFL",
+    "team": "Glenelg Tigers",
+    "opponent": "Adelaide Crows",
+    "arena": "Stratarama Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-05-23T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026052305",
+    "league": "SANFL",
+    "team": "Woodville-West Torrens Eagles",
+    "opponent": "Port Adelaide Magpies",
+    "arena": "Maughan Thiem Kia Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-23T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026053001",
+    "league": "SANFL",
+    "team": "Central District Bulldogs",
+    "opponent": "West Adelaide Bloods",
+    "arena": "X Convenience Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-30T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026053101",
+    "league": "SANFL",
+    "team": "South Adelaide Panthers",
+    "opponent": "Sturt Double Blues",
+    "arena": "Magain Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-05-31T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026053102",
+    "league": "SANFL",
+    "team": "Norwood Redlegs",
+    "opponent": "Woodville-West Torrens Eagles",
+    "arena": "Coopers Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-05-31T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026053103",
+    "league": "SANFL",
+    "team": "North Adelaide Roosters",
+    "opponent": "Glenelg Tigers",
+    "arena": "Revo Fitness Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-05-31T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026060601",
+    "league": "SANFL",
+    "team": "Woodville-West Torrens Eagles",
+    "opponent": "Central District Bulldogs",
+    "arena": "Maughan Thiem Kia Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-06-06T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026060602",
+    "league": "SANFL",
+    "team": "West Adelaide Bloods",
+    "opponent": "North Adelaide Roosters",
+    "arena": "Richmond Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-06-06T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026060603",
+    "league": "SANFL",
+    "team": "South Adelaide Panthers",
+    "opponent": "Adelaide Crows",
+    "arena": "Magain Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-06-06T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026060604",
+    "league": "SANFL",
+    "team": "Glenelg Tigers",
+    "opponent": "Port Adelaide Magpies",
+    "arena": "Stratarama Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-06-06T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026060801",
+    "league": "SANFL",
+    "team": "Sturt Double Blues",
+    "opponent": "Norwood Redlegs",
+    "arena": "Thomas Farms Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-06-08T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026061301",
+    "league": "SANFL",
+    "team": "North Adelaide Roosters",
+    "opponent": "Adelaide Crows",
+    "arena": "Revo Fitness Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-06-13T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026061302",
+    "league": "SANFL",
+    "team": "Woodville-West Torrens Eagles",
+    "opponent": "South Adelaide Panthers",
+    "arena": "Maughan Thiem Kia Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-06-13T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026061401",
+    "league": "SANFL",
+    "team": "Port Adelaide Magpies",
+    "opponent": "West Adelaide Bloods",
+    "arena": "Alberton Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-06-14T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026062001",
+    "league": "SANFL",
+    "team": "Central District Bulldogs",
+    "opponent": "Glenelg Tigers",
+    "arena": "X Convenience Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-06-20T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026062101",
+    "league": "SANFL",
+    "team": "Sturt Double Blues",
+    "opponent": "Port Adelaide Magpies",
+    "arena": "Thomas Farms Oval",
+    "city": "Adelaide, SA",
+    "date": "2026-06-21T04:40:00Z"
+  },
+  {
+    "id": "sanfl_2026062102",
+    "league": "SANFL",
+    "team": "Norwood Redlegs",
+    "opponent": "Adelaide Crows",
+    "arena": "Coopers Stadium",
+    "city": "Adelaide, SA",
+    "date": "2026-06-21T04:40:00Z"
+  }
+]
