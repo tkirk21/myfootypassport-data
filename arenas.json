@@ -2214,7 +2214,7 @@
 	
   {
     "teamName": "Arizona Hawks",
-    "teamCode": "AHARFC",
+    "teamCode": "ARI",
     "arena": "Countryside Park",
     "arenaId": "countryside_park_mesa",
     "city": "Mesa, Arizona",
@@ -2232,7 +2232,7 @@
   },
   {
     "teamName": "Atlanta Kookaburras",
-    "teamCode": "AKFC",
+    "teamCode": "ATL",
     "arena": "Phoenix II Park",
     "arenaId": "phoenix_ii_park_atlanta",
     "city": "Atlanta, Georgia",
@@ -2249,7 +2249,7 @@
   },
   {
     "teamName": "Austin Crows",
-    "teamCode": "ACFC",
+    "teamCode": "AUS",
     "arena": "Zilker Metropolitan Park",
     "arenaId": "zilker_metropolitan_park_austin",
     "city": "Austin, Texas",
@@ -2261,15 +2261,15 @@
     "colorCode2": "#FFD700",
     "colorCode3": "#F30011",
     "league": "USAFL",
-    "timezone": "America/Dallas",
+    "timezone": "America/Chicago",
     "startDate": "2002-02-01",
     "endDate": null
   },
   {
     "teamName": "Baltimore Dockers",
-    "teamCode": "BDFC",
+    "teamCode": "BAL",
     "arena": "Herring Run Park",
-    "arenaId": "zilker_metropolitan_park_austin",
+    "arenaId": "herring_run_park_baltimore",
     "city": "Baltimore, Maryland",
     "address": "3700 Harford Rd, Baltimore, MD 21213",
     "website": "baltimoredockers.com",
@@ -2284,7 +2284,7 @@
   },
   {
     "teamName": "Baton Rouge Tigers",
-    "teamCode": "BRFC",
+    "teamCode": "BR",
     "arena": "Flanacher Park",
     "arenaId": "flanacher_park_baton_rouge",
     "city": "Baton Rouge, Louisiana",
@@ -2302,10 +2302,10 @@
   },
   {
     "teamName": "Bayou Brawlers",
-    "teamCode": "BFC",
+    "teamCode": "BAY",
     "arena": "Pelican Park",
     "arenaId": "pelican_park_baton_rouge",
-    "city": "Manderville, Louisiana",
+    "city": "Mandeville, Louisiana",
     "address": "63350 Pelican Dr, Mandeville, LA 70448",
     "website": null,
     "latitude": 30.357824377455447, 
@@ -2319,9 +2319,9 @@
   },
   {
     "teamName": "Birmingham Bushrangers",
-    "teamCode": "BBFC",
+    "teamCode": "BIR",
     "arena": "Heardmont Park",
-    "arenaId": "flanacher_park_baton_rouge",
+    "arenaId": "heardmont_park_birmingham",
     "city": "Birmingham, Alabama",
     "address": "5458 Cahaba Valley Rd, Birmingham, AL 35242",
     "website": "birminghamfooty.com",
@@ -2337,7 +2337,7 @@
   },
   {
     "teamName": "Boston Demons",
-    "teamCode": "BDFC",
+    "teamCode": "BOS",
     "arena": "Millennium Park",
     "arenaId": "millennium_park_west_roxbury",
     "city": "Boston, Massachusetts",
