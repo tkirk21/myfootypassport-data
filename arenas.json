@@ -2303,13 +2303,13 @@
   {
     "teamName": "Bayou Brawlers",
     "teamCode": "BFC",
-    "arena": "Flanacher Park",
-    "arenaId": "flanacher_park_baton_rouge",
+    "arena": "Pelican Park",
+    "arenaId": "pelican_park_baton_rouge",
     "city": "Manderville, Louisiana",
     "address": "63350 Pelican Dr, Mandeville, LA 70448",
     "website": null,
-    "latitude": 30.35761144874244,
-    "longitude": -90.02324674327404,
+    "latitude": 30.357824377455447, 
+    "longitude": -90.02262446912167.
     "colorCode": "#6D6D85",
     "colorCode2": "#FFFFFF",
     "league": "USAFL",
