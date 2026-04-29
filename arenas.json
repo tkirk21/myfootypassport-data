@@ -2385,7 +2385,43 @@
     "timezone": "America/New_York",
     "startDate": "1996-02-01",
     "endDate": null
+  }, 
+  {
+    "teamName": "Cleveland Cannons",
+    "teamCode": "CLE",
+    "arena": "Edgewater Park",
+    "arenaId": "edgewater_park_cleveland",
+    "city": "Cleveland, Ohio",
+    "address": "7600 Cleveland Memorial Shoreway, Cleveland, OH 44102",
+    "website": "playhq.com/afl/org/cleveland-cannons-club/f67beb63/usafl-club-2026/teams/cleveland-cannons-men/1f53e283/ladder",
+    "latitude": 41.49029363109129,
+    "longitude": -81.73515105863093, 
+    "colorCode": "#00004B",
+    "colorCode2": "#F7792A",
+	"colorCode3": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "2014-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Columbus Cats",
+    "teamCode": "COL",
+    "arena": "Three Creeks Park",
+    "arenaId": "three_creeks_park_groveport",
+    "city": "Groveport, Ohio",
+    "address": "3860 Bixby Rd, Groveport, OH 43125",
+    "website": "columbusafc.com/",
+    "latitude": 39.900359774210905, 
+    "longitude": -82.91095549314961, 
+    "colorCode": "#0E2D52",
+	"colorCode2": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "2008-02-01",
+    "endDate": null
   }			
+	
 
   	
 ]
