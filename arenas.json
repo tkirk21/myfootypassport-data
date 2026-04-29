@@ -2433,10 +2433,27 @@
     "longitude": -77.04632098970195, 
     "colorCode": "#012F8D",
 	"colorCode2": "#FEDB54",
-    "colorCode2": "#FFFFFF",
+    "colorCode3": "#FFFFFF",
     "league": "USAFL",
     "timezone": "America/New_York",
     "startDate": "2008-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "St. Louis Blues",
+    "teamCode": "STL",
+    "arena": "Forest Park Cricket Field",
+    "arenaId": "forest_park_cricket_field_st_louis",
+    "city": "St. Louis, Missouri",
+    "address": "5595 Grand Dr, St. Louis, MO 63112",
+    "website": "bluesfooty.com",
+    "latitude": 38.593692823057644,
+    "longitude": -90.22061883439824,
+    "colorCode": "#00064B",
+    "colorCode2": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "1997-02-01",
     "endDate": null
   }			
 	
