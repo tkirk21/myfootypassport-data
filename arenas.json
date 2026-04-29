@@ -2420,6 +2420,24 @@
     "timezone": "America/New_York",
     "startDate": "2008-02-01",
     "endDate": null
+  },
+  {
+    "teamName": "DC Eagles",
+    "teamCode": "DC",
+    "arena": "West Potomac Park",
+    "arenaId": "west_potomac_park_washington",
+    "city": "Washington, DC",
+    "address": "2912 Independence Ave SW, Washington, DC 20004",
+    "website": "dceaglesfc.com",
+    "latitude": 38.885876105938834, 
+    "longitude": -77.04632098970195, 
+    "colorCode": "#012F8D",
+	"colorCode2": "#FEDB54",
+    "colorCode2": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "2008-02-01",
+    "endDate": null
   }			
 	
 
