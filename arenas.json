@@ -2366,9 +2366,26 @@
     "colorCode2": "#FFFFFF",
     "league": "USAFL",
     "timezone": "America/Chicago",
-    "startDate": "1997-02-01",
+    "startDate": "1998-02-01",
     "endDate": null
-  }		
+  },
+  {
+    "teamName": "Cincinnati Dockers",
+    "teamCode": "CIN",
+    "arena": "Sheakley Lawn",
+    "arenaId": "sheakley_lawn_cincinnati",
+    "city": "Cincinnati, Ohio",
+    "address": "Champions Avenue, Cincinnati, OH 45219",
+    "website": "cincinnatifooty.com/",
+    "latitude": 39.130229180897125, 
+    "longitude": -84.5147691597688, 
+    "colorCode": "#1E0D54",
+    "colorCode2": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "1996-02-01",
+    "endDate": null
+  }			
 
   	
 ]
