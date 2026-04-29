@@ -2351,7 +2351,24 @@
     "timezone": "America/New_York",
     "startDate": "1997-02-01",
     "endDate": null
-  }	
+  },
+  {
+    "teamName": "Chicago Swans",
+    "teamCode": "CHI",
+    "arena": "Waveland Softball Fields",
+    "arenaId": "waveland_softball_fields_chicago",
+    "city": "Chicago, Illinois",
+    "address": "3650 N Recreation Dr, Chicago, IL 60613",
+    "website": "chicagofooty.com/",
+    "latitude": 41.95172673443001, 
+    "longitude": -87.64249047416627,
+    "colorCode": "#C42732",
+    "colorCode2": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "1997-02-01",
+    "endDate": null
+  }		
 
   	
 ]
