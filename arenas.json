@@ -2038,23 +2038,6 @@
   {
     "teamName": "St George Dragons",
     "teamCode": "SG",
-    "arena": "Olds Park",
-    "arenaId": "olds_park_penshurst",
-    "city": "Penshurst, NSW",
-    "address": "624 Forest Rd, Penshurst NSW 2222, Australia",
-    "website": "stgeorgeafc.com.au",
-    "latitude": -33.958615733338966,   
-    "longitude": 151.07455609187363,
-    "colorCode": "#FF0000",
-	"colorCode2": "#FFFFFF",
-    "league": "AFLS",
-    "timezone": "Australia/Sydney",
-    "startDate": "2010-02-01",
-    "endDate": null
-  },
-  {
-    "teamName": "St George Dragons",
-    "teamCode": "SG",
     "arena": "Kelso Oval",
     "arenaId": "kelso_oval_panania",
     "city": "Panania, NSW",
