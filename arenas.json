@@ -2025,7 +2025,7 @@
     "arenaId": "bob_prenter_reserve_macquarie_fields",
     "city": "Macquarie Fields, NSW",
     "address": "Fields Rd, Macquarie Fields NSW 2564, Australia",
-    "website": "phafl.com.au",
+    "website": "southwestsydneyblues.com.au/",
     "latitude": -33.99724769471465,  
     "longitude": 150.88221038265633,
     "colorCode": "#031829",
@@ -2035,6 +2035,23 @@
     "startDate": "2022-02-01",
     "endDate": null
   },
+{
+    "teamName": "South West Sydney Blues",
+    "teamCode": "SWS",
+    "arena": "Rosedale Oval",
+    "arenaId": "rosedale_oval_warwick_farm",
+    "city": "Warwick Farm, NSW",
+    "address": "16 Stroud Ave, Warwick Farm NSW 2170, Australia",
+    "website": "southwestsydneyblues.com.au/",
+    "latitude": -33.916136929278196, 
+    "longitude": 150.9395830383505,
+    "colorCode": "#031829",
+	"colorCode2": "#FFFFFF",
+    "league": "AFLS",
+    "timezone": "Australia/Sydney",
+    "startDate": "2022-02-01",
+    "endDate": null
+  },	
   {
     "teamName": "St George Dragons",
     "teamCode": "SG",
