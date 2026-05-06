@@ -2053,6 +2053,23 @@
     "endDate": null
   },
   {
+    "teamName": "St George Dragons",
+    "teamCode": "SG",
+    "arena": "Kelso Oval",
+    "arenaId": "kelso_oval_panania",
+    "city": "Panania, NSW",
+    "address": "Bransgrove Rd, Panania NSW 2213, Australia",
+    "website": "stgeorgeafc.com.au",
+    "latitude": -33.94926334871145,  
+    "longitude": 150.98397826152768,
+    "colorCode": "#FF0000",
+	"colorCode2": "#FFFFFF",
+    "league": "AFLS",
+    "timezone": "Australia/Sydney",
+    "startDate": "2010-02-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Sydney University Students",
     "teamCode": "SU",
     "arena": "University Oval",
