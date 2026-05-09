@@ -1,1 +1,332 @@
-[]
+[
+  {
+    "id": "ntfa_2026051601",
+    "league": "NTFA",
+    "team": "Launceston Blues",
+    "opponent": "North Launceston Bombers",
+    "arena": "Windsor Park",
+    "date": "2026-05-16T04:00:00Z"
+  },
+  {
+    "id": "ntfa_2026051602",
+    "league": "NTFA",
+    "team": "Longford Tigers",
+    "opponent": "South Launceston Bulldogs",
+    "arena": "Longford Recreation Ground",
+    "date": "2026-05-16T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026051603",
+    "league": "NTFA",
+    "team": "Deloraine Kangaroos",
+    "opponent": "Scottsdale Magpies",
+    "arena": "Deloraine Recreation Ground",
+    "date": "2026-05-16T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026052301",
+    "league": "NTFA",
+    "team": "Launceston Blues",
+    "opponent": "Deloraine Kangaroos",
+    "arena": "Windsor Park",
+    "date": "2026-05-23T04:00:00Z"
+  },
+  {
+    "id": "ntfa_2026052302",
+    "league": "NTFA",
+    "team": "Longford Tigers",
+    "opponent": "North Launceston Bombers",
+    "arena": "Longford Recreation Ground",
+    "date": "2026-05-23T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026052303",
+    "league": "NTFA",
+    "team": "South Launceston Bulldogs",
+    "opponent": "Scottsdale Magpies",
+    "arena": "Youngtown Memorial Oval",
+    "date": "2026-05-23T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026053001",
+    "league": "NTFA",
+    "team": "Scottsdale Magpies",
+    "opponent": "North Launceston Bombers",
+    "arena": "Scottsdale Recreation Ground",
+    "date": "2026-05-30T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026053002",
+    "league": "NTFA",
+    "team": "Longford Tigers",
+    "opponent": "Launceston Blues",
+    "arena": "Longford Recreation Ground",
+    "date": "2026-05-30T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026053003",
+    "league": "NTFA",
+    "team": "Deloraine Kangaroos",
+    "opponent": "South Launceston Bulldogs",
+    "arena": "Deloraine Recreation Ground",
+    "date": "2026-05-30T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026061301",
+    "league": "NTFA",
+    "team": "Launceston Blues",
+    "opponent": "Scottsdale Magpies",
+    "arena": "Windsor Park",
+    "date": "2026-06-13T04:00:00Z"
+  },
+  {
+    "id": "ntfa_2026061302",
+    "league": "NTFA",
+    "team": "North Launceston Bombers",
+    "opponent": "South Launceston Bulldogs",
+    "arena": "University of Tasmania Stadium",
+    "date": "2026-06-13T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026061303",
+    "league": "NTFA",
+    "team": "Longford Tigers",
+    "opponent": "Deloraine Kangaroos",
+    "arena": "Longford Recreation Ground",
+    "date": "2026-06-13T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026062001",
+    "league": "NTFA",
+    "team": "Scottsdale Magpies",
+    "opponent": "Longford Tigers",
+    "arena": "Scottsdale Recreation Ground",
+    "date": "2026-06-20T04:00:00Z"
+  },
+  {
+    "id": "ntfa_2026062002",
+    "league": "NTFA",
+    "team": "North Launceston Bombers",
+    "opponent": "Deloraine Kangaroos",
+    "arena": "University of Tasmania Stadium",
+    "date": "2026-06-20T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026062003",
+    "league": "NTFA",
+    "team": "South Launceston Bulldogs",
+    "opponent": "Launceston Blues",
+    "arena": "Youngtown Memorial Oval",
+    "date": "2026-06-20T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026062701",
+    "league": "NTFA",
+    "team": "North Launceston Bombers",
+    "opponent": "Launceston Blues",
+    "arena": "University of Tasmania Stadium",
+    "date": "2026-06-27T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026062702",
+    "league": "NTFA",
+    "team": "South Launceston Bulldogs",
+    "opponent": "Longford Tigers",
+    "arena": "Youngtown Memorial Oval",
+    "date": "2026-06-27T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026062703",
+    "league": "NTFA",
+    "team": "Deloraine Kangaroos",
+    "opponent": "Scottsdale Magpies",
+    "arena": "Deloraine Recreation Ground",
+    "date": "2026-06-27T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026070401",
+    "league": "NTFA",
+    "team": "Launceston Blues",
+    "opponent": "Deloraine Kangaroos",
+    "arena": "Windsor Park",
+    "date": "2026-07-04T04:00:00Z"
+  },
+  {
+    "id": "ntfa_2026070402",
+    "league": "NTFA",
+    "team": "Longford Tigers",
+    "opponent": "North Launceston Bombers",
+    "arena": "Longford Recreation Ground",
+    "date": "2026-07-04T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026070403",
+    "league": "NTFA",
+    "team": "Scottsdale Magpies",
+    "opponent": "South Launceston Bulldogs",
+    "arena": "Scottsdale Recreation Ground",
+    "date": "2026-07-04T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026071101",
+    "league": "NTFA",
+    "team": "South Launceston Bulldogs",
+    "opponent": "North Launceston Bombers",
+    "arena": "Youngtown Memorial Oval",
+    "date": "2026-07-11T04:00:00Z"
+  },
+  {
+    "id": "ntfa_2026071102",
+    "league": "NTFA",
+    "team": "Deloraine Kangaroos",
+    "opponent": "Longford Tigers",
+    "arena": "Deloraine Recreation Ground",
+    "date": "2026-07-11T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026071103",
+    "league": "NTFA",
+    "team": "Scottsdale Magpies",
+    "opponent": "Launceston Blues",
+    "arena": "Scottsdale Recreation Ground",
+    "date": "2026-07-11T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026072501",
+    "league": "NTFA",
+    "team": "Launceston Blues",
+    "opponent": "Longford Tigers",
+    "arena": "Windsor Park",
+    "date": "2026-07-25T04:00:00Z"
+  },
+  {
+    "id": "ntfa_2026072502",
+    "league": "NTFA",
+    "team": "North Launceston Bombers",
+    "opponent": "Scottsdale Magpies",
+    "arena": "University of Tasmania Stadium",
+    "date": "2026-07-25T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026072503",
+    "league": "NTFA",
+    "team": "South Launceston Bulldogs",
+    "opponent": "Deloraine Kangaroos",
+    "arena": "Youngtown Memorial Oval",
+    "date": "2026-07-25T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026080101",
+    "league": "NTFA",
+    "team": "Launceston Blues",
+    "opponent": "South Launceston Bulldogs",
+    "arena": "Windsor Park",
+    "date": "2026-08-01T04:00:00Z"
+  },
+  {
+    "id": "ntfa_2026080102",
+    "league": "NTFA",
+    "team": "Deloraine Kangaroos",
+    "opponent": "North Launceston Bombers",
+    "arena": "Deloraine Recreation Ground",
+    "date": "2026-08-01T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026080103",
+    "league": "NTFA",
+    "team": "Longford Tigers",
+    "opponent": "Scottsdale Magpies",
+    "arena": "Longford Recreation Ground",
+    "date": "2026-08-01T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026080801",
+    "league": "NTFA",
+    "team": "Longford Tigers",
+    "opponent": "South Launceston Bulldogs",
+    "arena": "Longford Recreation Ground",
+    "date": "2026-08-08T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026080802",
+    "league": "NTFA",
+    "team": "Scottsdale Magpies",
+    "opponent": "Deloraine Kangaroos",
+    "arena": "Scottsdale Recreation Ground",
+    "date": "2026-08-08T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026081501",
+    "league": "NTFA",
+    "team": "North Launceston Bombers",
+    "opponent": "Longford Tigers",
+    "arena": "University of Tasmania Stadium",
+    "date": "2026-08-15T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026081502",
+    "league": "NTFA",
+    "team": "South Launceston Bulldogs",
+    "opponent": "Scottsdale Magpies",
+    "arena": "Youngtown Memorial Oval",
+    "date": "2026-08-15T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026081503",
+    "league": "NTFA",
+    "team": "Deloraine Kangaroos",
+    "opponent": "Launceston Blues",
+    "arena": "Deloraine Recreation Ground",
+    "date": "2026-08-15T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026082201",
+    "league": "NTFA",
+    "team": "South Launceston Bulldogs",
+    "opponent": "North Launceston Bombers",
+    "arena": "Youngtown Memorial Oval",
+    "date": "2026-08-22T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026082202",
+    "league": "NTFA",
+    "team": "Longford Tigers",
+    "opponent": "Deloraine Kangaroos",
+    "arena": "Longford Recreation Ground",
+    "date": "2026-08-22T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026082203",
+    "league": "NTFA",
+    "team": "Scottsdale Magpies",
+    "opponent": "Launceston Blues",
+    "arena": "Scottsdale Recreation Ground",
+    "date": "2026-08-22T04:30:00Z"
+  },
+  {
+    "id": "ntfa_2026082901",
+    "league": "NTFA",
+    "team": "Scottsdale Magpies",
+    "opponent": "North Launceston Bombers",
+    "arena": "Scottsdale Recreation Ground",
+    "date": "2026-08-29T04:00:00Z"
+  },
+  {
+    "id": "ntfa_2026082902",
+    "league": "NTFA",
+    "team": "Launceston Blues",
+    "opponent": "Longford Tigers",
+    "arena": "Windsor Park",
+    "date": "2026-08-29T04:00:00Z"
+  },
+  {
+    "id": "ntfa_2026082903",
+    "league": "NTFA",
+    "team": "Deloraine Kangaroos",
+    "opponent": "South Launceston Bulldogs",
+    "arena": "Deloraine Recreation Ground",
+    "date": "2026-08-29T04:00:00Z"
+  }
+
+  
+]
