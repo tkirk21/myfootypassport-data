@@ -2211,7 +2211,7 @@
     "teamName": "North Hobart Demons",
     "teamCode": "NH",
     "arena": "North Hobart Oval",
-    "arenaId": "north_hobart_oval_north_Hobart_oval,",
+    "arenaId": "north_hobart_oval_north_Hobart_oval",
     "city": "North Hobart, TAS",
     "address": "1-5 Ryde St, North Hobart TAS 7000",
     "website": "lfsc.org.au",
@@ -2224,8 +2224,109 @@
     "startDate": "2025-02-01",
     "endDate": null
   },
-
-
+  {
+    "teamName": "Deloraine Kangaroos",
+    "teamCode": "DFC",
+    "arena": "Deloraine Recreation Ground",
+    "arenaId": "deloraine_recreation_ground_deloraine",
+    "city": "Deloraine, TAS",
+    "address": "6 Racecourse Dr, Deloraine TAS 7304, Australia",
+    "website": "https://delorainefc.org/",
+    "latitude": -41.5198229348716, 
+    "longitude": 146.663356717429,
+    "colorCode": "#053DBE",
+    "colorCode2": "#ffffff",
+    "league": "NTFA",
+    "timezone": "Australia/Tasmania",
+    "startDate": "2004-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Launceston Blues",
+    "teamCode": "LFC",
+    "arena": "Windsor Park",
+    "arenaId": "windsor_park_riverside",
+    "city": "Riverside, TAS",
+    "address": "432 W Tamar Rd, Riverside TAS 7250, Australia",
+    "website": "launcestonfc.com.au",
+    "latitude": -41.40333338498388, 
+    "longitude": 147.091947697879,
+    "colorCode": "#0F1C2D",
+    "colorCode2": "#ffffff",
+    "league": "NTFA"
+    "timezone": "Australia/Tasmania",
+    "startDate": "2025-02-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Longford Tigers",
+    "teamCode": "LFC",
+    "arena": "Longford Recreation Ground",
+    "arenaId": "longford_recreation_ground_longford",
+    "city": "Longford, TAS",
+    "address": "Smith St, Longford TAS 7301, Australia",
+    "website": "launcestonfc.com.au",
+    "latitude": -41.59590087605888, 
+    "longitude": 147.1125599967819,
+    "colorCode": "#FDD526",
+    "colorCode2": "#000000",
+    "league": "NTFA"
+    "timezone": "Australia/Tasmania",
+    "startDate": "1996-02-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "North Launceston Bombers",
+    "teamCode": "NLFC",
+    "arena": "University of Tasmania Stadium",
+    "arenaId": "university_of_tasmania_stadium_invermay",
+    "city": "Invermay, TAS",
+    "address": "2 Invermay Rd, Invermay TAS 7248, Australia",
+    "website": "https://www.playhq.com/afl/org/north-launceston-ntfa/6635f77c",
+    "latitude": -41.42593414533484,  
+    "longitude": 147.13891558457894,
+    "colorCode": "#F20011",
+    "colorCode2": "#000000",
+    "league": "NTFA"
+    "timezone": "Australia/Tasmania",
+    "startDate": "2025-02-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Scottsdale Magpies",
+    "teamCode": "SFC",
+    "arena": "Scottsdale Recreation Ground",
+    "arenaId": "scottsdale_recreation_ground_scottsdale",
+    "city": "Scottsdale, TAS",
+    "address": "55 George St, Scottsdale TAS 7260, Australia",
+    "website": "https://scottsdalefc.com.au/",
+    "latitude": -41.15715896225907, 
+    "longitude": 147.51256747610972,
+    "colorCode": "#000000",
+    "colorCode2": "#FFFFFF",
+    "league": "NTFA"
+    "timezone": "Australia/Tasmania",
+    "startDate": "2000-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "South Launceston Bulldogs",
+    "teamCode": "SLFC",
+    "arena": "Youngtown Memorial Oval",
+    "arenaId": "youngtown_memorial_oval_youngtown",
+    "city": "Youngtown, TAS",
+    "address": "21 Highgate St, Youngtown TAS 7249, Australia",
+    "website": "southlaunceston.com",
+    "latitude": -41.477507842690756,
+    "longitude": 147.16999188772837,
+    "colorCode": "#0036A8",
+    "colorCode2": "#F20010",
+    "colorCode3": "#FFFFFF",
+    "league": "NTFA"
+    "timezone": "Australia/Tasmania",
+    "startDate": "2014-02-01",
+    "endDate": null
+  },	
 
 
 	
