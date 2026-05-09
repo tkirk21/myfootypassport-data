@@ -133,6 +133,398 @@
     "arena": "Mineral Resources Park",
     "city": "Perth, WA",
     "date": "2026-04-19T03:10:00Z"
+  },
+  {
+    "id": "wafl_2026052301",
+    "league": "WAFL",
+    "team": "East Fremantle Sharks",
+    "opponent": "West Coast Eagles",
+    "arena": "The Good Grocer Park",
+    "date": "2026-05-23T05:10:00Z"
+  },
+  {
+    "id": "wafl_2026052302",
+    "league": "WAFL",
+    "team": "Peel Thunder",
+    "opponent": "South Fremantle Bulldogs",
+    "arena": "Lane Group Stadium",
+    "date": "2026-05-23T05:10:00Z"
+  },
+  {
+    "id": "wafl_2026052303",
+    "league": "WAFL",
+    "team": "Perth Demons",
+    "opponent": "West Perth Falcons",
+    "arena": "Mineral Resources Park",
+    "date": "2026-05-23T06:10:00Z"
+  },
+  {
+    "id": "wafl_2026052304",
+    "league": "WAFL",
+    "team": "Swan Districts Swans",
+    "opponent": "Subiaco Lions",
+    "arena": "Steel Blue Oval",
+    "date": "2026-05-23T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026052305",
+    "league": "WAFL",
+    "team": "Claremont Tigers",
+    "opponent": "East Perth Royals",
+    "arena": "Revo Fitness Stadium",
+    "date": "2026-05-23T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026053001",
+    "league": "WAFL",
+    "team": "Subiaco Lions",
+    "opponent": "Claremont Tigers",
+    "arena": "Sullivan Logistics Stadium",
+    "date": "2026-05-30T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026053002",
+    "league": "WAFL",
+    "team": "Swan Districts Swans",
+    "opponent": "Perth Demons",
+    "arena": "Steel Blue Oval",
+    "date": "2026-05-30T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026053101",
+    "league": "WAFL",
+    "team": "West Coast Eagles",
+    "opponent": "Peel Thunder",
+    "arena": "Mineral Resources Park",
+    "date": "2026-05-31T05:10:00Z"
+  },
+  {
+    "id": "wafl_2026060101",
+    "league": "WAFL",
+    "team": "South Fremantle Bulldogs",
+    "opponent": "East Fremantle Sharks",
+    "arena": "Fremantle Community Bank Oval",
+    "date": "2026-06-01T05:10:00Z"
+  },
+  {
+    "id": "wafl_2026060102",
+    "league": "WAFL",
+    "team": "West Perth Falcons",
+    "opponent": "East Perth Royals",
+    "arena": "Arena Joondalup",
+    "date": "2026-06-01T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026060601",
+    "league": "WAFL",
+    "team": "Claremont Tigers",
+    "opponent": "West Coast Eagles",
+    "arena": "Revo Fitness Stadium",
+    "date": "2026-06-06T05:10:00Z"
+  },
+  {
+    "id": "wafl_2026060602",
+    "league": "WAFL",
+    "team": "Peel Thunder",
+    "opponent": "Swan Districts Swans",
+    "arena": "Lane Group Stadium",
+    "date": "2026-06-06T05:30:00Z"
+  },
+  {
+    "id": "wafl_2026060603",
+    "league": "WAFL",
+    "team": "Perth Demons",
+    "opponent": "Subiaco Lions",
+    "arena": "Mineral Resources Park",
+    "date": "2026-06-06T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026060701",
+    "league": "WAFL",
+    "team": "East Perth Royals",
+    "opponent": "South Fremantle Bulldogs",
+    "arena": "Sullivan Logistics Stadium",
+    "date": "2026-06-07T06:10:00Z"
+  },
+  {
+    "id": "wafl_2026061301",
+    "league": "WAFL",
+    "team": "East Fremantle Sharks",
+    "opponent": "West Perth Falcons",
+    "arena": "The Good Grocer Park",
+    "date": "2026-06-13T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026061302",
+    "league": "WAFL",
+    "team": "Claremont Tigers",
+    "opponent": "Perth Demons",
+    "arena": "Revo Fitness Stadium",
+    "date": "2026-06-13T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026061303",
+    "league": "WAFL",
+    "team": "Swan Districts Swans",
+    "opponent": "West Coast Eagles",
+    "arena": "Steel Blue Oval",
+    "date": "2026-06-13T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026062001",
+    "league": "WAFL",
+    "team": "Subiaco Lions",
+    "opponent": "East Fremantle Sharks",
+    "arena": "Sullivan Logistics Stadium",
+    "date": "2026-06-20T06:10:00Z"
+  },
+  {
+    "id": "wafl_2026062002",
+    "league": "WAFL",
+    "team": "South Fremantle Bulldogs",
+    "opponent": "West Perth Falcons",
+    "arena": "Fremantle Community Bank Oval",
+    "date": "2026-06-20T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026062003",
+    "league": "WAFL",
+    "team": "Peel Thunder",
+    "opponent": "East Perth Royals",
+    "arena": "Lane Group Stadium",
+    "date": "2026-06-20T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026062601",
+    "league": "WAFL",
+    "team": "East Perth Royals",
+    "opponent": "West Coast Eagles",
+    "arena": "Sullivan Logistics Stadium",
+    "date": "2026-06-26T11:10:00Z"
+  },
+  {
+    "id": "wafl_2026062701",
+    "league": "WAFL",
+    "team": "Perth Demons",
+    "opponent": "South Fremantle Bulldogs",
+    "arena": "Mineral Resources Park",
+    "date": "2026-06-27T06:10:00Z"
+  },
+  {
+    "id": "wafl_2026062702",
+    "league": "WAFL",
+    "team": "East Fremantle Sharks",
+    "opponent": "Claremont Tigers",
+    "arena": "The Good Grocer Park",
+    "date": "2026-06-27T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026062703",
+    "league": "WAFL",
+    "team": "Subiaco Lions",
+    "opponent": "Swan Districts Swans",
+    "arena": "Sullivan Logistics Stadium",
+    "date": "2026-06-27T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026062704",
+    "league": "WAFL",
+    "team": "West Perth Falcons",
+    "opponent": "Peel Thunder",
+    "arena": "Arena Joondalup",
+    "date": "2026-06-27T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026070401",
+    "league": "WAFL",
+    "team": "Peel Thunder",
+    "opponent": "Claremont Tigers",
+    "arena": "Lane Group Stadium",
+    "date": "2026-07-04T05:10:00Z"
+  },
+  {
+    "id": "wafl_2026070402",
+    "league": "WAFL",
+    "team": "West Coast Eagles",
+    "opponent": "East Fremantle Sharks",
+    "arena": "Mineral Resources Park",
+    "date": "2026-07-04T05:10:00Z"
+  },
+  {
+    "id": "wafl_2026070403",
+    "league": "WAFL",
+    "team": "East Perth Royals",
+    "opponent": "Perth Demons",
+    "arena": "Sullivan Logistics Stadium",
+    "date": "2026-07-04T06:10:00Z"
+  },
+  {
+    "id": "wafl_2026070404",
+    "league": "WAFL",
+    "team": "South Fremantle Bulldogs",
+    "opponent": "Subiaco Lions",
+    "arena": "Fremantle Community Bank Oval",
+    "date": "2026-07-04T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026070405",
+    "league": "WAFL",
+    "team": "West Perth Falcons",
+    "opponent": "Swan Districts Swans",
+    "arena": "Arena Joondalup",
+    "date": "2026-07-04T07:10:00Z"
+  },
+  {
+    "id": "wafl_2026071101",
+    "league": "WAFL",
+    "team": "West Coast Eagles",
+    "opponent": "Perth Demons",
+    "arena": "Mineral Resources Park",
+    "date": "2026-07-11T06:10:00Z"
+  },
+  {
+    "id": "wafl_2026071102",
+    "league": "WAFL",
+    "team": "Claremont Tigers",
+    "opponent": "South Fremantle Bulldogs",
+    "arena": "Revo Fitness Stadium",
+    "date": "2026-07-11T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026071103",
+    "league": "WAFL",
+    "team": "East Fremantle Sharks",
+    "opponent": "Peel Thunder",
+    "arena": "The Good Grocer Park",
+    "date": "2026-07-11T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026071104",
+    "league": "WAFL",
+    "team": "Swan Districts Swans",
+    "opponent": "East Perth Royals",
+    "arena": "Steel Blue Oval",
+    "date": "2026-07-11T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026071801",
+    "league": "WAFL",
+    "team": "Perth Demons",
+    "opponent": "East Fremantle Sharks",
+    "arena": "Mineral Resources Park",
+    "date": "2026-07-18T06:10:00Z"
+  },
+  {
+    "id": "wafl_2026071802",
+    "league": "WAFL",
+    "team": "Subiaco Lions",
+    "opponent": "West Perth Falcons",
+    "arena": "Sullivan Logistics Stadium",
+    "date": "2026-07-18T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026071803",
+    "league": "WAFL",
+    "team": "South Fremantle Bulldogs",
+    "opponent": "Swan Districts Swans",
+    "arena": "Fremantle Community Bank Oval",
+    "date": "2026-07-18T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026070401",
+    "league": "WAFL",
+    "team": "Peel Thunder",
+    "opponent": "Claremont Tigers",
+    "arena": "Lane Group Stadium",
+    "date": "2026-07-04T05:10:00Z"
+  },
+  {
+    "id": "wafl_2026070402",
+    "league": "WAFL",
+    "team": "West Coast Eagles",
+    "opponent": "East Fremantle Sharks",
+    "arena": "Mineral Resources Park",
+    "date": "2026-07-04T05:10:00Z"
+  },
+  {
+    "id": "wafl_2026070403",
+    "league": "WAFL",
+    "team": "East Perth Royals",
+    "opponent": "Perth Demons",
+    "arena": "Sullivan Logistics Stadium",
+    "date": "2026-07-04T06:10:00Z"
+  },
+  {
+    "id": "wafl_2026070404",
+    "league": "WAFL",
+    "team": "South Fremantle Bulldogs",
+    "opponent": "Subiaco Lions",
+    "arena": "Fremantle Community Bank Oval",
+    "date": "2026-07-04T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026070405",
+    "league": "WAFL",
+    "team": "West Perth Falcons",
+    "opponent": "Swan Districts Swans",
+    "arena": "Arena Joondalup",
+    "date": "2026-07-04T07:10:00Z"
+  },
+  {
+    "id": "wafl_2026071101",
+    "league": "WAFL",
+    "team": "West Coast Eagles",
+    "opponent": "Perth Demons",
+    "arena": "Mineral Resources Park",
+    "date": "2026-07-11T06:10:00Z"
+  },
+  {
+    "id": "wafl_2026071102",
+    "league": "WAFL",
+    "team": "Claremont Tigers",
+    "opponent": "South Fremantle Bulldogs",
+    "arena": "Revo Fitness Stadium",
+    "date": "2026-07-11T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026071103",
+    "league": "WAFL",
+    "team": "East Fremantle Sharks",
+    "opponent": "Peel Thunder",
+    "arena": "The Good Grocer Park",
+    "date": "2026-07-11T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026071104",
+    "league": "WAFL",
+    "team": "Swan Districts Swans",
+    "opponent": "East Perth Royals",
+    "arena": "Steel Blue Oval",
+    "date": "2026-07-11T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026071801",
+    "league": "WAFL",
+    "team": "Perth Demons",
+    "opponent": "East Fremantle Sharks",
+    "arena": "Mineral Resources Park",
+    "date": "2026-07-18T06:10:00Z"
+  },
+  {
+    "id": "wafl_2026071802",
+    "league": "WAFL",
+    "team": "Subiaco Lions",
+    "opponent": "West Perth Falcons",
+    "arena": "Sullivan Logistics Stadium",
+    "date": "2026-07-18T06:30:00Z"
+  },
+  {
+    "id": "wafl_2026071803",
+    "league": "WAFL",
+    "team": "South Fremantle Bulldogs",
+    "opponent": "Swan Districts Swans",
+    "arena": "Fremantle Community Bank Oval",
+    "date": "2026-07-18T06:30:00Z"
   }
 
 ]
