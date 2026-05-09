@@ -2578,7 +2578,7 @@
     "startDate": "2000-02-01",
     "endDate": null
   },
-	{
+  {
     "teamName": "Oakleigh Chargers",
     "teamCode": "OCFC",
     "arena": "Warrawee Park",
@@ -2595,8 +2595,75 @@
     "startDate": "1995-02-01",
     "endDate": null
   },
-
-
+  {
+    "teamName": "Sandringham Dragons",
+    "teamCode": "SDFC",
+    "arena": "Trevor Barker Beach Oval",
+    "arenaId": "trevor_barker_beach_oval_sandringham",
+    "city": "Sandringham, VIC",
+    "address": "Beach Rd, Sandringham VIC 3191, Australia",
+    "website": "https://www.sandringhamdragons.com.au/",
+    "latitude": -37.944981426383066,  
+    "longitude": 145.00018804087654,
+    "colorCode": "#000080",
+	"colorCode2": "#800000",
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "2000-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Sydney Swans Academy",
+    "teamCode": "SWA",
+    "arena": "SCG",
+    "arenaId": "scg_moore_park",
+    "city": "Moore Park, NSW",
+    "address": "4 Driver Ave, Moore Park NSW 2021",
+    "website": "sydneyswans.com.au",
+    "latitude": -33.89166809937038, 
+    "longitude": 151.22482700200376,
+    "colorCode": "#ED0F05",
+	"colorCode2": "#ffffff",
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "2019-02-01",
+    "endDate": null
+  },	
+	{
+    "teamName": "Tasmania Devils Academy",
+    "teamCode": "TDA",
+    "arena": "University of Tasmania Stadium",
+    "arenaId": "university_of_tasmania_stadium_invermay",
+    "city": "Invermay, TAS",
+    "address": "2 Invermay Rd, Invermay TAS 7248",
+    "website": "devilsfc.com.au",
+    "latitude": -41.425898734905445, 
+    "longitude": 147.13892443218472,
+    "colorCode": "#006A4E",
+	"colorCode2": "#DDDD87",
+	"colorCode3": "#800000",
+    "league": "TL",
+    "timezone": "Australia/Tasmania",
+    "startDate": "2019-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Western Jets",
+    "teamCode": "WJFC",
+    "arena": "DSV Stadium",
+    "arenaId": "dsv_stadium_williamstown",
+    "city": "Williamstown, VIC",
+    "address": "71 Morris St, Williamstown VIC 3016",
+    "website": "https://www.afl.com.au/talent-league/clubs/western-jets",
+    "latitude": -37.87123032812276, 
+    "longitude": 144.903514478803,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFF00",
+    "league": "TL",
+    "timezone": "Australia/Tasmania",
+    "startDate": "1992-02-01",
+    "endDate": null
+  },
 
 	
 
