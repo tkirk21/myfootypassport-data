@@ -435,7 +435,7 @@
     "endDate": null
   },
   {
-    "teamName": "Adelaide Crows",
+    "teamName": "Adelaide Crows Women",
     "teamCode": "ADE",
     "arena": "Coopers Stadium",
     "arenaId": "coopers_stadium_norwood",
@@ -453,7 +453,7 @@
     "endDate": null
   },
   {
-    "teamName": "Brisbane Lions",
+    "teamName": "Brisbane Lions Women",
     "teamCode": "BL",
     "arena": "Brighton Homes Arena",
     "arenaId": "brighton_homes_arena_springfield",
@@ -471,7 +471,7 @@
     "endDate": null
   },
   {
-    "teamName": "Carlton Blues",
+    "teamName": "Carlton Blues Women",
     "teamCode": "CAR",
     "arena": "IKON Park",
     "arenaId": "ikon_park_carlton_north",
@@ -488,7 +488,7 @@
     "endDate": null
   },
   {
-    "teamName": "Collingwood Magpies",
+    "teamName": "Collingwood Magpies Women",
     "teamCode": "COLL",
     "arena": "Victoria Park",
     "arenaId": "victoria_park_abbotsford",
@@ -505,7 +505,7 @@
     "endDate": null
   },
   {
-    "teamName": "Essendon Bombers",
+    "teamName": "Essendon Bombers Women",
     "teamCode": "ESS",
     "arena": "Windy Hill",
     "arenaId": "windy_hill_essendon",
@@ -522,7 +522,7 @@
     "endDate": null
   },
   {
-    "teamName": "Fremantle Dockers",
+    "teamName": "Fremantle Dockers Women",
     "teamCode": "FRE",
     "arena": "Fremantle Community Bank Oval",
     "arenaId": "fremantle_community_bank_oval_fremantle",
@@ -539,7 +539,7 @@
     "endDate": null
   },
   {
-    "teamName": "Geelong Cats",
+    "teamName": "Geelong Cats Women",
     "teamCode": "GEEL",
     "arena": "GMHBA Stadium",
     "arenaId": "gmhba_stadium_south_geelong",
@@ -556,7 +556,7 @@
     "endDate": null
   },
   {
-    "teamName": "Gold Coast Suns",
+    "teamName": "Gold Coast Suns Women",
     "teamCode": "GC",
     "arena": "People First Stadium",
     "arenaId": "people_first_stadium_carrara",
@@ -574,7 +574,7 @@
     "endDate": null
   },
   {
-    "teamName": "GWS Giants",
+    "teamName": "GWS Giants Women",
     "teamCode": "GWS",
     "arena": "Blacktown ISP Oval",
     "arenaId": "blacktown_isp_oval_rooty_hill",
@@ -592,7 +592,7 @@
     "endDate": null
   },
   {
-    "teamName": "Hawthorn Hawks",
+    "teamName": "Hawthorn Hawks Women",
     "teamCode": "HAW",
     "arena": "Kinetic Stadium",
     "arenaId": "kinetic_stadium",
@@ -610,7 +610,7 @@
     "endDate": null
   },
   {
-    "teamName": "Melbourne Demons",
+    "teamName": "Melbourne Demons Women",
     "teamCode": "MELB",
     "arena": "Casey Fields",
     "arenaId": "casey_fields_cranbourne_east",
@@ -627,7 +627,7 @@
     "endDate": null
   },
   {
-    "teamName": "North Melbourne Kangaroos",
+    "teamName": "North Melbourne Kangaroos Women",
     "teamCode": "NM",
     "arena": "Arden Street Oval",
     "arenaId": "arden_street_oval_north_melbourne",
@@ -644,7 +644,7 @@
     "endDate": null
   },
   {
-    "teamName": "Port Adelaide Power",
+    "teamName": "Port Adelaide Power Women",
     "teamCode": "PORT",
     "arena": "Alberton Oval",
     "arenaId": "alberton_oval_alberton",
@@ -663,7 +663,7 @@
     "endDate": null
   },
   {
-    "teamName": "Richmond Tigers",
+    "teamName": "Richmond Tigers Women",
     "teamCode": "RICH",
     "arena": "Swinburne Centre",
     "arenaId": "swinburne_centre_east_melbourne",
@@ -680,7 +680,7 @@
     "endDate": null
   },
   {
-    "teamName": "St Kilda Saints",
+    "teamName": "St Kilda Saints Women",
     "teamCode": "STK",
     "arena": "RSEA Park",
     "arenaId": "rsea_park_moorabbin",
@@ -698,7 +698,7 @@
     "endDate": null
   },
   {
-    "teamName": "Sydney Swans",
+    "teamName": "Sydney Swans Women",
     "teamCode": "SYD",
     "arena": "Henson Park",
     "arenaId": "henson_park_marrickville",
@@ -715,7 +715,7 @@
     "endDate": null
   },
   {
-    "teamName": "West Coast Eagles",
+    "teamName": "West Coast Eagles Women",
     "teamCode": "WCE",
     "arena": "Mineral Resources Park",
     "arenaId": "mineral_resources_park_lathlain",
@@ -732,7 +732,7 @@
     "endDate": null
   },
   {
-    "teamName": "Western Bulldogs",
+    "teamName": "Western Bulldogs Women",
     "teamCode": "WB",
     "arena": "Mission Whitten Oval",
     "arenaId": "mission_whitten_oval_footscray",
@@ -767,7 +767,7 @@
     "endDate": null
   },
   {
-    "teamName": "Brisbane Lions",
+    "teamName": "Brisbane Lions Reserves",
     "teamCode": "BL",
     "arena": "Brighton Homes Arena",
     "arenaId": "brighton_homes_arena_springfield",
@@ -785,7 +785,7 @@
     "endDate": null
   },
   {
-    "teamName": "Carlton Blues",
+    "teamName": "Carlton Blues Reserves",
     "teamCode": "CAR",
     "arena": "IKON Park",
     "arenaId": "ikon_park_carlton_north",
@@ -834,7 +834,7 @@
     "endDate": null
   },
   {
-    "teamName": "Collingwood Magpies",
+    "teamName": "Collingwood Magpies Reserves",
     "teamCode": "COLL",
     "arena": "KMG Centre",
     "arenaId": "kmg_centre_olympic_park",
@@ -851,7 +851,7 @@
     "endDate": null
   },
   {
-    "teamName": "Collingwood Magpies",
+    "teamName": "Collingwood Magpies Reserves",
     "teamCode": "COLL",
     "arena": "Victoria Park",
     "arenaId": "victoria_park_abbotsford",
@@ -868,7 +868,7 @@
     "endDate": null
   },
   {
-    "teamName": "Essendon Bombers",
+    "teamName": "Essendon Bombers Reserves",
     "teamCode": "ESS",
     "arena": "Windy Hill",
     "arenaId": "windy_hill_essendon",
@@ -885,7 +885,7 @@
     "endDate": null
   },
   {
-    "teamName": "Essendon Bombers",
+    "teamName": "Essendon Bombers Reserves",
     "teamCode": "ESS",
     "arena": "NEC Hangar",
     "arenaId": "nec_hanger_essendon",
@@ -938,7 +938,7 @@
     "endDate": null
   },
   {
-    "teamName": "Geelong Cats",
+    "teamName": "Geelong Cats Reserves",
     "teamCode": "GEEL",
     "arena": "GMHBA Stadium",
     "arenaId": "gmhba_stadium_south_geelong",
@@ -954,7 +954,7 @@
     "endDate": null
   },
   {
-    "teamName": "Gold Coast Suns",
+    "teamName": "Gold Coast Suns Reserves",
     "teamCode": "GC",
     "arena": "People First Stadium",
     "arenaId": "people_first_stadium_carrara",
@@ -962,7 +962,7 @@
     "address": "296 Nerang Broadbeach Rd, Carrara QLD 4211",
     "website": "goldcoastfc.com.au",
     "latitude": -28.00631869554092, 
-    "longitude": 153.36709488962387,
+    "longitude": 153.36709488962387, 
     "colorCode": "#BD0102",
 	"colorCode2": "#FFDB60",
 	"colorCode3": "#004677",
@@ -972,7 +972,7 @@
     "endDate": null
   },
   {
-    "teamName": "GWS Giants",
+    "teamName": "GWS Giants Reserves",
     "teamCode": "GWS",
     "arena": "Blacktown ISP Oval",
     "arenaId": "blacktown_isp_oval_rooty_hill",
@@ -990,7 +990,7 @@
     "endDate": null
   },
   {
-    "teamName": "North Melbourne Kangaroos",
+    "teamName": "North Melbourne Kangaroos Reserves",
     "teamCode": "NM",
     "arena": "Arden Street Oval",
     "arenaId": "arden_street_oval_north_melbourne",
@@ -1024,7 +1024,7 @@
     "endDate": null
   },
   {
-    "teamName": "Richmond Tigers",
+    "teamName": "Richmond Tigers Reserves",
     "teamCode": "RICH",
     "arena": "Swinburne Centre",
     "arenaId": "swinburne_centre_east_melbourne",
@@ -1059,7 +1059,7 @@
     "endDate": null
   },
   {
-    "teamName": "St Kilda Saints",
+    "teamName": "St Kilda Saints Reserves",
     "teamCode": "STK",
     "arena": "RSEA Park",
     "arenaId": "rsea_park_moorabbin",
@@ -1094,7 +1094,7 @@
     "endDate": null
   },
   {
-    "teamName": "Sydney Swans",
+    "teamName": "Sydney Swans Reserves",
     "teamCode": "SYD",
     "arena": "Tramway Oval",
     "arenaId": "tramway_oval_moore_park",
@@ -1300,7 +1300,7 @@
     "endDate": null
   },
   {
-    "teamName": "West Coast Eagles",
+    "teamName": "West Coast Eagles Reserves",
     "teamCode": "WCE",
     "arena": "Mineral Resources Park",
     "arenaId": "mineral_resources_park_lathlain",
@@ -1334,7 +1334,7 @@
     "endDate": null
   },
    {
-    "teamName": "Adelaide Crows",
+    "teamName": "Adelaide Crows Reserves",
     "teamCode": "ADE",
     "arena": "Adelaide Oval",
     "city": "North Adelaide, SA",
@@ -2327,6 +2327,278 @@
     "startDate": "2014-02-01",
     "endDate": null
   },	
+  {
+    "teamName": "Bachar Houli Foundation Academy",
+    "teamCode": "BHF",
+    "arena": "Swinburne Centre",
+    "arenaId": "swinburne_centre_east_melbourne",
+    "city": "East Melbourne, VIC",
+    "address": "120 Brunton Ave, Richmond VIC 3002",
+    "website": "bacharhoulifoundation.com.au/academies/",
+    "latitude": -37.82218607396073, 
+    "longitude": 144.98800570468785,
+    "colorCode": "#000000",
+    "colorCode2": "#B8B61D",
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "2026-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Bendigo Pioneers",
+    "teamCode": "BPFC",
+    "arena": "Queen Elizabeth Oval",
+    "arenaId": "queen_elizabeth_oval_bendigo",
+    "city": "Bendigo, VIC",
+    "address": "30 Gaol Rd, Bendigo VIC 3550, Australia",
+    "website": "https://bendigopioneers.teamapp.com/",
+    "latitude": -36.75568581967154, 
+    "longitude": 144.27574988515462,
+    "colorCode": "#000080",
+    "colorCode2": "#87CEEB",
+	"colorCode2": "#FFFF00",  
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "1993-02-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Brisbane Lions Academy",
+    "teamCode": "BLA",
+    "arena": "Brighton Homes Arena",
+    "arenaId": "brighton_homes_arena_springfield",
+    "city": "Springfield, QLD",
+    "address": "16 Eden Station Dr, Springfield Central QLD 4300",
+    "website": "lions.com.au",
+    "latitude": -27.672214803201413, 
+    "longitude": 152.90418820746058,
+    "colorCode": "#78184A",
+	"colorCode2": "#000099",
+	"colorCode3": "#FDBE57",  
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "2019-02-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Calder Cannons",
+    "teamCode": "CCFF",
+    "arena": "Highgate Recreation Reserve",
+    "arenaId": "highgate_recreation_reserve_craigieburn",
+    "city": "Craigieburn, VIC",
+    "address": "229-275 Grand Blvd, Craigieburn VIC 3064, Australia",
+    "website": "https://www.playhq.com/afl/org/calder-cannons-coates-talent-league/220947b8",
+    "latitude": -37.576796873475104,
+    "longitude": 144.9233657901935,
+    "colorCode": "#FF914C",
+	"colorCode2": "#FD1817",
+	"colorCode3": "#000000",  
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "1995-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Dandenong Stingrays",
+    "teamCode": "DSSFC",
+    "arena": "Shepley Oval",
+    "arenaId": "shepley_oval_dandenong",
+    "city": "Dandenong, VIC",
+    "address": "Pultney St, Dandenong VIC 3175, Australia",
+    "website": "https://southernstingrays.com/",
+    "latitude": -37.99575160268722, 
+    "longitude": 145.22176773472543,
+    "colorCode": "#000000",
+	"colorCode2": "#FFDF00",
+	"colorCode3": "#FF0000",  
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "1992-02-01",
+    "endDate": null
+  },		
+  {
+    "teamName": "Eastern Ranges",
+    "teamCode": "FRFC",
+    "arena": "Kennedy Community Centre",
+    "arenaId": "kennedy_community_centre_dingley_village",
+    "city": "Dingley Village, VIC",
+    "address": "94 Tootal Rd, Dingley Village VIC 3172, Australia",
+    "website": "easternranges.aflvic.com.au",
+    "latitude": -37.96567957449728,
+    "longitude": 145.1245505458261,
+    "colorCode": "#0000FF",
+	"colorCode2": "#FFFF00",
+	"colorCode3": "#FF0000",  
+	"colorCode3": "#FFFFFF",    
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "1995-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Geelong Falcons",
+    "teamCode": "GFFC",
+    "arena": "Chirnside Park",
+    "arenaId": "chirnside_park_werribee",
+    "city": "Werribee, VIC",
+    "address": "220 Watton St, Werribee VIC 3030, Australia",
+    "website": "https://www.playhq.com/afl/org/geelong-falcons-talent-league/3f9e13be",
+    "latitude": -37.90487437723, 
+    "longitude": 144.6530130846562,
+    "colorCode": "#000080",
+	"colorCode2": "#FFFFFF",  
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "1992-02-01",
+    "endDate": null
+  },	 
+  {
+    "teamName": "Gippsland Power",
+    "teamCode": "GPFC",
+    "arena": "Morwell Recreation Reserve",
+    "arenaId": "morewell_recreation_reserve_morewell",
+    "city": "Morewell, VIC",
+    "address": "Travers St, Morwell VIC 3840, Australia",
+    "website": "https://www.playhq.com/afl/org/gippsland-power-talent-league/7806a477",
+    "latitude": -38.24063770337546, 
+    "longitude": 146.39004849253908,
+    "colorCode": "#FF0000",
+	"colorCode2": "#0000FF", 
+	"colorCode3": "#FFFFFF",    
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "1993-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Gold Coast Suns Academy",
+    "teamCode": "CGA",
+    "arena": "People First Stadium",
+    "arenaId": "people_first_stadium_carrara",
+    "city": "Carrara, QLD",
+    "address": "296 Nerang Broadbeach Rd, Carrara QLD 4211",
+    "website": "goldcoastfc.com.au",
+    "latitude": -28.00631869554092, 
+    "longitude": 153.36709488962387,
+    "colorCode": "#BD0102",
+	"colorCode2": "#FFDB60",
+	"colorCode3": "#004677",   
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "2019-02-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "GWS Giants Academy",
+    "teamCode": "GWSA",
+    "arena": "Engie Stadium",
+    "arenaId": "engie_stadium_sydney_olympic_park",
+    "city": "Sydney Olympic Park, NSW",
+    "address": "Grand Parade, Sydney Olympic Park NSW 2127",
+    "website": "gwsgiants.com.au",
+    "latitude": -33.84309965194385, 
+    "longitude": 151.06767662425887,
+    "colorCode": "#F15C22",
+	"colorCode2": "#343433",
+	"colorCode3": "#FFFFFF",   
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "2019-02-01",
+    "endDate": null
+  },		
+  {
+    "teamName": "Greater Western Victoria Rebels",
+    "teamCode": "GWVRFC",
+    "arena": "Eureka Stadium",
+    "arenaId": "eureka_stadium_wendouree",
+    "city": "Wendouree, VIC",
+    "address": "725 Creswick Rd, Wendouree VIC 3355",
+    "website": "http://www.therebels.com.au/",
+    "latitude": -37.53934413327071, 
+    "longitude": 143.84810322148346,
+    "colorCode": "#000000",
+	"colorCode2": "#A9A9A9",
+	"colorCode3": "#FFFFFF",   
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "2017-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Murray Bushrangers",
+    "teamCode": "MBFC",
+    "arena": "Norm Minns Oval",
+    "arenaId": "norm_minns_oval_wangaratta",
+    "city": "Wangaratta, VIC",
+    "address": "Evans St, Wangaratta VIC 3677, Australia",
+    "website": "https://www.afl.com.au/talent-league/clubs/murray-bushrangers",
+    "latitude": -36.34694548962793, 
+    "longitude": 146.3171575371786,
+    "colorCode": "#000000",
+	"colorCode2": "#4B0082",
+	"colorCode3": "#FCC200",   
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "2017-02-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Northern Knights",
+    "teamCode": "NKFC",
+    "arena": "Preston City Oval",
+    "arenaId": "preston_city_oval_preston",
+    "city": "Preston, VIC",
+    "address": "Cramer St, Preston VIC 3072, Australia",
+    "website": "https://www.afl.com.au/talent-league/clubs/northern-knights",
+    "latitude": -37.741261319735564, 
+    "longitude": 145.0011785842856,
+    "colorCode": "#000080",
+	"colorCode2": "#FFFFFF",  
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "1992-02-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Northern Territory Thunder Academy",
+    "teamCode": "NTTA",
+    "arena": "Tio Stadium",
+    "arenaId": "tio_stadium_marrara",
+    "city": "Marrara, NT",
+    "address": "70 Abala Rd, Marrara NT 0812",
+    "website": null,
+    "latitude": -12.399154364189215, 
+    "longitude": 130.88728070925876,
+    "colorCode": "#000000",
+	"colorCode2": "#D5793B",
+	"colorCode3": "#FFFF00",
+	"colorCode3": "#FFFFFF",
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "2000-02-01",
+    "endDate": null
+  },
+	{
+    "teamName": "Oakleigh Chargers",
+    "teamCode": "OCFC",
+    "arena": "Warrawee Park",
+    "arenaId": "warrawee_park_oakleigh",
+    "city": "Oakleigh, VIC",
+    "address": "1 Atherton Rd, Oakleigh VIC 3166, Australia",
+    "website": "https://www.afl.com.au/talent-league/clubs/oakleigh-chargers",
+    "latitude": -37.89605846679465, 
+    "longitude": 145.08894338637737,
+    "colorCode": "#0000FF",
+	"colorCode2": "#FF0000",
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "1995-02-01",
+    "endDate": null
+  },
+
+
+
+	
 
 
 	
