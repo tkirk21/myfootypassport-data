@@ -2253,7 +2253,7 @@
     "longitude": 147.091947697879,
     "colorCode": "#0F1C2D",
     "colorCode2": "#ffffff",
-    "league": "NTFA"
+    "league": "NTFA",
     "timezone": "Australia/Tasmania",
     "startDate": "2025-02-01",
     "endDate": null
@@ -2270,7 +2270,7 @@
     "longitude": 147.1125599967819,
     "colorCode": "#FDD526",
     "colorCode2": "#000000",
-    "league": "NTFA"
+    "league": "NTFA",
     "timezone": "Australia/Tasmania",
     "startDate": "1996-02-01",
     "endDate": null
@@ -2287,7 +2287,7 @@
     "longitude": 147.13891558457894,
     "colorCode": "#F20011",
     "colorCode2": "#000000",
-    "league": "NTFA"
+    "league": "NTFA",
     "timezone": "Australia/Tasmania",
     "startDate": "2025-02-01",
     "endDate": null
@@ -2304,7 +2304,7 @@
     "longitude": 147.51256747610972,
     "colorCode": "#000000",
     "colorCode2": "#FFFFFF",
-    "league": "NTFA"
+    "league": "NTFA",
     "timezone": "Australia/Tasmania",
     "startDate": "2000-02-01",
     "endDate": null
@@ -2322,7 +2322,7 @@
     "colorCode": "#0036A8",
     "colorCode2": "#F20010",
     "colorCode3": "#FFFFFF",
-    "league": "NTFA"
+    "league": "NTFA",
     "timezone": "Australia/Tasmania",
     "startDate": "2014-02-01",
     "endDate": null
