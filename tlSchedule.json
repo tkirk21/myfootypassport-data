@@ -1,0 +1,532 @@
+[
+  {
+    "id": "tl_2026051001",
+    "league": "TL",
+    "team": "Gold Coast Suns Academy",
+    "opponent": "Northern Knights",
+    "arena": "People First Stadium",
+    "date": "2026-05-10T00:00:00Z"
+  },
+  {
+    "id": "tl_2026051002",
+    "league": "TL",
+    "team": "Western Jets",
+    "opponent": "Murray Bushrangers",
+    "arena": "DSV Stadium",
+    "date": "2026-05-10T01:30:00Z"
+  },
+  {
+    "id": "tl_2026051003",
+    "league": "TL",
+    "team": "Bendigo Pioneers",
+    "opponent": "Dandenong Stingrays",
+    "arena": "Queen Elizabeth Oval",
+    "date": "2026-05-10T03:10:00Z"
+  },
+  {
+    "id": "tl_2026051004",
+    "league": "TL",
+    "team": "Gippsland Power",
+    "opponent": "Brisbane Lions Academy",
+    "arena": "Morwell Recreation Reserve",
+    "date": "2026-05-10T04:10:00Z"
+  },
+  {
+    "id": "tl_2026051601",
+    "league": "TL",
+    "team": "Sydney Swans Academy",
+    "opponent": "Geelong Falcons",
+    "arena": "SCG",
+    "date": "2026-05-15T14:00:00Z"
+  },
+  {
+    "id": "tl_2026051602",
+    "league": "TL",
+    "team": "Northern Territory Thunder Academy",
+    "opponent": "Western Jets",
+    "arena": "Tio Stadium",
+    "date": "2026-05-16T01:30:00Z"
+  },
+  {
+    "id": "tl_2026051603",
+    "league": "TL",
+    "team": "Greater Western Victoria Rebels",
+    "opponent": "Tasmania Devils Academy",
+    "arena": "Eureka Stadium",
+    "date": "2026-05-16T02:00:00Z"
+  },
+  {
+    "id": "tl_2026051604",
+    "league": "TL",
+    "team": "Dandenong Stingrays",
+    "opponent": "GWS Giants Academy",
+    "arena": "Shepley Oval",
+    "date": "2026-05-16T02:10:00Z"
+  },
+  {
+    "id": "tl_2026051605",
+    "league": "TL",
+    "team": "Bendigo Pioneers",
+    "opponent": "Northern Knights",
+    "arena": "Queen Elizabeth Oval",
+    "date": "2026-05-16T03:10:00Z"
+  },
+  {
+    "id": "tl_2026051701",
+    "league": "TL",
+    "team": "Brisbane Lions Academy",
+    "opponent": "Eastern Ranges",
+    "arena": "Brighton Homes Arena",
+    "date": "2026-05-17T02:10:00Z"
+  },
+  {
+    "id": "tl_2026051702",
+    "league": "TL",
+    "team": "Gippsland Power",
+    "opponent": "Gold Coast Suns Academy",
+    "arena": "Morwell Recreation Reserve",
+    "date": "2026-05-17T03:10:00Z"
+  },
+  {
+    "id": "tl_2026052301",
+    "league": "TL",
+    "team": "Northern Knights",
+    "opponent": "Sandringham Dragons",
+    "arena": "Preston City Oval",
+    "date": "2026-05-23T00:30:00Z"
+  },
+  {
+    "id": "tl_2026052302",
+    "league": "TL",
+    "team": "Greater Western Victoria Rebels",
+    "opponent": "Oakleigh Chargers",
+    "arena": "Eureka Stadium",
+    "date": "2026-05-23T04:15:00Z"
+  },
+  {
+    "id": "tl_2026052401",
+    "league": "TL",
+    "team": "Bendigo Pioneers",
+    "opponent": "Eastern Ranges",
+    "arena": "Queen Elizabeth Oval",
+    "date": "2026-05-24T02:00:00Z"
+  },
+  {
+    "id": "tl_2026052402",
+    "league": "TL",
+    "team": "Calder Cannons",
+    "opponent": "Murray Bushrangers",
+    "arena": "Highgate Recreation Reserve",
+    "date": "2026-05-24T03:10:00Z"
+  },
+
+
+
+
+  {
+    "id": "tl_2026053001",
+    "league": "TL",
+    "team": "Bendigo Pioneers",
+    "opponent": "Calder Cannons",
+    "arena": "Queen Elizabeth Oval",
+    "date": "2026-05-30T03:10:00Z"
+  },
+  {
+    "id": "tl_2026053002",
+    "league": "TL",
+    "team": "Western Jets",
+    "opponent": "Geelong Falcons",
+    "arena": "DSV Stadium",
+    "date": "2026-05-30T03:30:00Z"
+  },
+  {
+    "id": "tl_2026053003",
+    "league": "TL",
+    "team": "Murray Bushrangers",
+    "opponent": "Oakleigh Chargers",
+    "arena": "Wangaratta Showgrounds",
+    "date": "2026-05-30T04:10:00Z"
+  },
+  {
+    "id": "tl_2026053004",
+    "league": "TL",
+    "team": "Dandenong Stingrays",
+    "opponent": "Eastern Ranges",
+    "arena": "Kinetic Stadium",
+    "date": "2026-05-30T08:40:00Z"
+  },
+  {
+    "id": "tl_2026053101",
+    "league": "TL",
+    "team": "Gippsland Power",
+    "opponent": "Tasmania Devils Academy",
+    "arena": "Morwell Recreation Reserve",
+    "date": "2026-05-31T03:10:00Z"
+  },
+  {
+    "id": "tl_2026060701",
+    "league": "TL",
+    "team": "Sandringham Dragons",
+    "opponent": "Oakleigh Chargers",
+    "arena": "RSEA Park",
+    "date": "2026-06-07T01:00:00Z"
+  },
+
+
+
+
+
+  {
+    "id": "tl_2026061301",
+    "league": "TL",
+    "team": "Northern Knights",
+    "opponent": "Calder Cannons",
+    "arena": "Preston City Oval",
+    "date": "2026-06-13T01:00:00Z"
+  },
+  {
+    "id": "tl_2026061302",
+    "league": "TL",
+    "team": "Eastern Ranges",
+    "opponent": "Sandringham Dragons",
+    "arena": "Box Hill City Oval",
+    "date": "2026-06-13T04:00:00Z"
+  },
+  {
+    "id": "tl_2026061401",
+    "league": "TL",
+    "team": "Western Jets",
+    "opponent": "Oakleigh Chargers",
+    "arena": "DSV Stadium",
+    "date": "2026-06-14T01:00:00Z"
+  },
+  {
+    "id": "tl_2026062001",
+    "league": "TL",
+    "team": "Dandenong Stingrays",
+    "opponent": "Geelong Falcons",
+    "arena": "Shepley Oval",
+    "date": "2026-06-19T14:00:00Z"
+  },
+  {
+    "id": "tl_2026062002",
+    "league": "TL",
+    "team": "Murray Bushrangers",
+    "opponent": "Greater Western Victoria Rebels",
+    "arena": "Highgate Recreation Reserve",
+    "date": "2026-06-20T03:40:00Z"
+  },
+  {
+    "id": "tl_2026062101",
+    "league": "TL",
+    "team": "Gippsland Power",
+    "opponent": "Bendigo Pioneers",
+    "arena": "Morwell Recreation Reserve",
+    "date": "2026-06-21T04:00:00Z"
+  },
+  {
+    "id": "tl_2026062701",
+    "league": "TL",
+    "team": "Murray Bushrangers",
+    "opponent": "Bendigo Pioneers",
+    "arena": "Rumbalara Recreation Reserve",
+    "date": "2026-06-27T01:30:00Z"
+  },
+  {
+    "id": "tl_2026062702",
+    "league": "TL",
+    "team": "Oakleigh Chargers",
+    "opponent": "Eastern Ranges",
+    "arena": "Warrawee Park",
+    "date": "2026-06-27T01:30:00Z"
+  },
+  {
+    "id": "tl_2026062703",
+    "league": "TL",
+    "team": "Dandenong Stingrays",
+    "opponent": "Greater Western Victoria Rebels",
+    "arena": "Shepley Oval",
+    "date": "2026-06-27T04:00:00Z"
+  },
+  {
+    "id": "tl_2026062801",
+    "league": "TL",
+    "team": "Northern Knights",
+    "opponent": "Western Jets",
+    "arena": "Preston City Oval",
+    "date": "2026-06-28T01:00:00Z"
+  },
+  {
+    "id": "tl_2026062802",
+    "league": "TL",
+    "team": "Calder Cannons",
+    "opponent": "Sandringham Dragons",
+    "arena": "Highgate Recreation Reserve",
+    "date": "2026-06-28T03:00:00Z"
+  },
+  {
+    "id": "tl_2026062803",
+    "league": "TL",
+    "team": "Geelong Falcons",
+    "opponent": "Gippsland Power",
+    "arena": "GMHBA Stadium",
+    "date": "2026-06-28T03:45:00Z"
+  },
+  {
+    "id": "tl_2026070401",
+    "league": "TL",
+    "team": "Bendigo Pioneers",
+    "opponent": "Geelong Falcons",
+    "arena": "Queen Elizabeth Oval",
+    "date": "2026-07-04T01:00:00Z"
+  },
+  {
+    "id": "tl_2026070501",
+    "league": "TL",
+    "team": "Tasmania Devils Academy",
+    "opponent": "Bachar Houli Foundation",
+    "arena": "North Hobart Oval",
+    "date": "2026-07-04T14:00:00Z"
+  },
+  {
+    "id": "tl_2026071101",
+    "league": "TL",
+    "team": "Calder Cannons",
+    "opponent": "Eastern Ranges",
+    "arena": "Highgate Recreation Reserve",
+    "date": "2026-07-11T01:00:00Z"
+  },
+  {
+    "id": "tl_2026071102",
+    "league": "TL",
+    "team": "Northern Knights",
+    "opponent": "Oakleigh Chargers",
+    "arena": "Preston City Oval",
+    "date": "2026-07-11T03:45:00Z"
+  },
+  {
+    "id": "tl_2026071103",
+    "league": "TL",
+    "team": "Murray Bushrangers",
+    "opponent": "Dandenong Stingrays",
+    "arena": "Deakin Reserve",
+    "date": "2026-07-11T04:10:00Z"
+  },
+  {
+    "id": "tl_2026071201",
+    "league": "TL",
+    "team": "Western Jets",
+    "opponent": "Sandringham Dragons",
+    "arena": "DSV Stadium",
+    "date": "2026-07-12T01:00:00Z"
+  },
+  {
+    "id": "tl_2026071202",
+    "league": "TL",
+    "team": "Gippsland Power",
+    "opponent": "Greater Western Victoria Rebels",
+    "arena": "Morwell Recreation Reserve",
+    "date": "2026-07-12T03:45:00Z"
+  },
+  {
+    "id": "tl_2026071901",
+    "league": "TL",
+    "team": "Tasmania Devils Academy",
+    "opponent": "Sandringham Dragons",
+    "arena": "North Hobart Oval",
+    "date": "2026-07-19T02:10:00Z"
+  },
+  {
+    "id": "tl_2026072601",
+    "league": "TL",
+    "team": "Tasmania Devils Academy",
+    "opponent": "Calder Cannons",
+    "arena": "North Hobart Oval",
+    "date": "2026-07-26T02:30:00Z"
+  },
+  {
+    "id": "tl_2026080101",
+    "league": "TL",
+    "team": "Geelong Falcons",
+    "opponent": "Western Jets",
+    "arena": "Central Reserve",
+    "date": "2026-07-31T14:00:00Z"
+  },
+  {
+    "id": "tl_2026080102",
+    "league": "TL",
+    "team": "Gippsland Power",
+    "opponent": "Sandringham Dragons",
+    "arena": "Morwell Recreation Reserve",
+    "date": "2026-08-01T03:00:00Z"
+  },
+  {
+    "id": "tl_2026080103",
+    "league": "TL",
+    "team": "Calder Cannons",
+    "opponent": "Eastern Ranges",
+    "arena": "Highgate Recreation Reserve",
+    "date": "2026-08-01T03:00:00Z"
+  },
+  {
+    "id": "tl_2026080201",
+    "league": "TL",
+    "team": "Murray Bushrangers",
+    "opponent": "Tasmania Devils Academy",
+    "arena": "Highgate Recreation Reserve",
+    "date": "2026-08-01T14:00:00Z"
+  },
+  {
+    "id": "tl_2026080202",
+    "league": "TL",
+    "team": "Greater Western Victoria Rebels",
+    "opponent": "Bendigo Pioneers",
+    "arena": "Eureka Stadium",
+    "date": "2026-08-01T14:00:00Z"
+  },
+  {
+    "id": "tl_2026080203",
+    "league": "TL",
+    "team": "Dandenong Stingrays",
+    "opponent": "Northern Knights",
+    "arena": "Shepley Oval",
+    "date": "2026-08-02T01:00:00Z"
+  },
+  {
+    "id": "tl_2026080801",
+    "league": "TL",
+    "team": "Northern Knights",
+    "opponent": "Sandringham Dragons",
+    "arena": "Preston City Oval",
+    "date": "2026-08-07T14:00:00Z"
+  },
+  {
+    "id": "tl_2026080802",
+    "league": "TL",
+    "team": "Dandenong Stingrays",
+    "opponent": "Bendigo Pioneers",
+    "arena": "Shepley Oval",
+    "date": "2026-08-07T14:00:00Z"
+  },
+  {
+    "id": "tl_2026080803",
+    "league": "TL",
+    "team": "Western Jets",
+    "opponent": "Eastern Ranges",
+    "arena": "DSV Stadium",
+    "date": "2026-08-08T03:30:00Z"
+  },
+  {
+    "id": "tl_2026080901",
+    "league": "TL",
+    "team": "Murray Bushrangers",
+    "opponent": "Gippsland Power",
+    "arena": "Wangaratta Showgrounds",
+    "date": "2026-08-08T14:00:00Z"
+  },
+  {
+    "id": "tl_2026080902",
+    "league": "TL",
+    "team": "Geelong Falcons",
+    "opponent": "Greater Western Victoria Rebels",
+    "arena": "Leopold Memorial Park",
+    "date": "2026-08-08T14:00:00Z"
+  },
+  {
+    "id": "tl_2026081501",
+    "league": "TL",
+    "team": "Northern Knights",
+    "opponent": "Eastern Ranges",
+    "arena": "Preston City Oval",
+    "date": "2026-08-14T14:00:00Z"
+  },
+  {
+    "id": "tl_2026081502",
+    "league": "TL",
+    "team": "Gippsland Power",
+    "opponent": "Oakleigh Chargers",
+    "arena": "Morwell Recreation Reserve",
+    "date": "2026-08-15T03:00:00Z"
+  },
+  {
+    "id": "tl_2026081503",
+    "league": "TL",
+    "team": "Calder Cannons",
+    "opponent": "Greater Western Victoria Rebels",
+    "arena": "Highgate Recreation Reserve",
+    "date": "2026-08-15T04:00:00Z"
+  },
+  {
+    "id": "tl_2026081601",
+    "league": "TL",
+    "team": "Tasmania Devils Academy",
+    "opponent": "Dandenong Stingrays",
+    "arena": "North Hobart Oval",
+    "date": "2026-08-15T14:00:00Z"
+  },
+  {
+    "id": "tl_2026081602",
+    "league": "TL",
+    "team": "Sandringham Dragons",
+    "opponent": "Geelong Falcons",
+    "arena": "Trevor Barker Oval",
+    "date": "2026-08-16T01:00:00Z"
+  },
+  {
+    "id": "tl_2026081603",
+    "league": "TL",
+    "team": "Bendigo Pioneers",
+    "opponent": "Western Jets",
+    "arena": "Queen Elizabeth Oval",
+    "date": "2026-08-16T03:10:00Z"
+  },
+  {
+    "id": "tl_2026082201",
+    "league": "TL",
+    "team": "Eastern Ranges",
+    "opponent": "Dandenong Stingrays",
+    "arena": "Box Hill City Oval",
+    "date": "2026-08-21T14:00:00Z"
+  },
+  {
+    "id": "tl_2026082202",
+    "league": "TL",
+    "team": "Oakleigh Chargers",
+    "opponent": "Sandringham Dragons",
+    "arena": "Warrawee Park",
+    "date": "2026-08-21T14:00:00Z"
+  },
+  {
+    "id": "tl_2026082203",
+    "league": "TL",
+    "team": "Western Jets",
+    "opponent": "Greater Western Victoria Rebels",
+    "arena": "Mars Stadium",
+    "date": "2026-08-21T14:00:00Z"
+  },
+  {
+    "id": "tl_2026082204",
+    "league": "TL",
+    "team": "Tasmania Devils Academy",
+    "opponent": "Geelong Falcons",
+    "arena": "Windsor Park",
+    "date": "2026-08-21T14:00:00Z"
+  },
+  {
+    "id": "tl_2026082301",
+    "league": "TL",
+    "team": "Gippsland Power",
+    "opponent": "Northern Knights",
+    "arena": "Morwell Recreation Reserve",
+    "date": "2026-08-23T03:00:00Z"
+  },
+  {
+    "id": "tl_2026082302",
+    "league": "TL",
+    "team": "Murray Bushrangers",
+    "opponent": "Calder Cannons",
+    "arena": "Wangaratta Showgrounds",
+    "date": "2026-08-23T04:10:00Z"
+  }  
+
+]
