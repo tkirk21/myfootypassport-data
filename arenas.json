@@ -3111,6 +3111,45 @@
     "endDate": null
   },
   {
+    "teamName": "Denver Bulldogs",
+    "teamCode": "DEN",
+    "arena": "Central Park",
+    "arenaId": "central_park_denver",
+    "city": "Denver, Colorado",
+    "address": "9196 M.L.K. Jr Blvd, Denver, CO 80238",
+    "website": "denverbulldogs.com",
+    "latitude": 39.76138044939192, 
+    "longitude": -104.8801527116322, 
+    "colorCode": "#0000FF",
+	"colorCode2": "#FF0000",
+    "colorCode3": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/Denver",
+    "startDate": "1997-02-01",
+    "endDate": null
+  },
+
+
+
+  {
+    "teamName": "Des Moines Roosters",
+    "teamCode": "DMR",
+    "arena": "Valley Southwoods Freshman High School",
+    "arenaId": "valley_southwoods_freshman_high_school_des_moines",
+    "city": "Des Moines, Iowa",
+    "address": "625 S 35th St, West Des Moines, IA 50265",
+    "website": "desmoinesroosters.com",
+    "latitude": 41.56084170456014, 
+    "longitude": -93.75305495608755, 
+    "colorCode": "#FF0000",
+	"colorCode2": "#000000",
+    "colorCode3": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "2009-02-01",
+    "endDate": null
+  },	
+  {
     "teamName": "St. Louis Blues",
     "teamCode": "STL",
     "arena": "Forest Park Cricket Field",
