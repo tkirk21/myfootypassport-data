@@ -3324,6 +3324,23 @@
     "endDate": null
   },	
   {
+    "teamName": "Maine Cats",
+    "teamCode": "MAI",
+    "arena": "Wainwright Sports Complex",
+    "arenaId": "wainwright_sports_complex_portland",
+    "city": "Portland, Maine",
+    "address": "125 Gary L Maietta Way, South Portland, ME 04106",
+    "website": null,
+    "latitude": 43.610691152345666, 
+    "longitude": -70.29343852261698, 
+    "colorCode": "#FFFFFF",
+	"colorCode2": "#091341", 
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "2018-02-01",
+    "endDate": null
+  },		
+  {
     "teamName": "St. Louis Blues",
     "teamCode": "STL",
     "arena": "Forest Park Cricket Field",
