@@ -3388,7 +3388,7 @@
     "colorCode2": "#ffffff",
     "colorCode": "#000000",
     "league": "USAFL",
-    "timezone": "America/new_york",
+    "timezone": "America/New_York",
     "startDate": "1998-02-01",
     "endDate": null
   },
@@ -3405,10 +3405,27 @@
     "colorCode": "#FFEC00",
     "colorCode2": "#000000",
     "league": "USAFL",
-    "timezone": "America/chicago",
+    "timezone": "America/Chicago",
     "startDate": "1997-02-01",
     "endDate": null
-  },	
+  },
+  {
+    "teamName": "North Star Blue Ox",
+    "teamCode": "NSBO",
+    "arena": "BF Nelson Park",
+    "arenaId": "bf_nelson_park_minneapolis",
+    "city": "Minneapolis, Minnesota",
+    "address": "434 NE Main St, Minneapolis, MN 55413",
+    "website": "http://nctigers.com",
+    "latitude": 44.991785501123495, 
+    "longitude": -93.26465542145931 ,
+    "colorCode": "#43ACFF",
+    "colorCode2": "#FFF240",
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "2017-02-01",
+    "endDate": null
+  },		
   {
     "teamName": "St. Louis Blues",
     "teamCode": "STL",
