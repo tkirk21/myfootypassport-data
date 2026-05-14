@@ -3374,6 +3374,23 @@
     "timezone": "America/Chicago",
     "startDate": "1997-02-01",
     "endDate": null
+  },
+	{
+    "teamName": "New York Magpies",
+    "teamCode": "NY",
+    "arena": "Tibbetts Brook Park",
+    "arenaId": "tibbetts_brook_park_yonkers",
+    "city": "Yonkers, New York",
+    "address": "355 Midland Ave, Yonkers, NY 10704",
+    "website": "http://newyorkmagpies.com",
+    "latitude": 40.92820535648888,  
+    "longitude": -73.87613479129453,
+    "colorCode": "#ffffff",
+    "colorCode2": "#000000",
+    "league": "USAFL",
+    "timezone": "America/new_york",
+    "startDate": "1998-02-01",
+    "endDate": null
   },	
   {
     "teamName": "St. Louis Blues",
