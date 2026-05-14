@@ -3175,7 +3175,7 @@
     "longitude": -80.19879531104421, 
     "colorCode": "#142A88",
 	"colorCode2": "#ffffff",
-	"colorCode2": "#000000",  
+	"colorCode3": "#000000",  
     "league": "USAFL",
     "timezone": "America/New_York",
     "startDate": "2005-02-01",
