@@ -3250,7 +3250,26 @@
     "league": "USAFL",
     "timezone": "America/New_York",
     "startDate": "2018-02-01",
-    "end	
+    "endDate": null
+  },	
+  {
+    "teamName": "Kansas City Power",
+    "teamCode": "KC",
+    "arena": "Liberty Memorial",
+    "arenaId": "liberty_memorial_kansas_city",
+    "city": "Kansas City, Missouri",
+    "address": "2 Memorial Dr, Kansas City, MO 64108",
+    "website": null,
+    "latitude": 39.08252779066582, 
+    "longitude": -94.58545206632886, 
+    "colorCode": "#B2B3B7",
+	"colorCode2": "#14A7AE",
+	"colorCode3": "#000000",  
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "1998-02-01",
+    "endDate": null
+  },		
   {
     "teamName": "St. Louis Blues",
     "teamCode": "STL",
