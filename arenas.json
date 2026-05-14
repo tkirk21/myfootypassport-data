@@ -3128,9 +3128,6 @@
     "startDate": "1997-02-01",
     "endDate": null
   },
-
-
-
   {
     "teamName": "Des Moines Roosters",
     "teamCode": "DMR",
@@ -3149,6 +3146,41 @@
     "startDate": "2009-02-01",
     "endDate": null
   },	
+  {
+    "teamName": "Finger Lakes Blue Herons",
+    "teamCode": "FLBH",
+    "arena": "Burnet Park",
+    "arenaId": "burnet_park_syracuse",
+    "city": "Syracuse, New York",
+    "address": "301 Coleridge Ave, Syracuse, NY 13204",
+    "website": null,
+    "latitude": 43.042271056855355, 
+    "longitude": -76.18339198290653, 
+    "colorCode": "#222397",
+	"colorCode2": "#ffffff",
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "2024-02-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Fort Lauderdale Fighting Squids",
+    "teamCode": "FLFS",
+    "arena": "Broward County Stadium",
+    "arenaId": "broward_county_stadium_lauderhill",
+    "city": "Lauderhill, Florida",
+    "address": "3700 NW 11th Pl, Lauderhill, FL 33311",
+    "website": null,
+    "latitude": 26.139978409194434, 
+    "longitude": -80.19879531104421, 
+    "colorCode": "#142A88",
+	"colorCode2": "#ffffff",
+	"colorCode2": "#000000",  
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "2005-02-01",
+    "endDate": null
+  },		
   {
     "teamName": "St. Louis Blues",
     "teamCode": "STL",
