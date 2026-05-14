@@ -3341,6 +3341,41 @@
     "endDate": null
   },		
   {
+    "teamName": "Minnesota Freeze",
+    "teamCode": "MIN",
+    "arena": "Eagan Community Center",
+    "arenaId": "eagan_community_center_Eagan",
+    "city": "Eagan, Minnesota",
+    "address": "1507 Central Pkwy, Eagan, MN 55121",
+    "website": "mnfreeze.com",
+    "latitude": 44.83942714409494, 
+    "longitude": -93.17575456222076,
+    "colorCode": "#ffffff",
+    "colorCode2": "#012556",
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "2005-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Nashville Kangaroos",
+    "teamCode": "NAS",
+    "arena": "Elmington Park",
+    "arenaId": "elmington_park_nashville",
+    "city": "Nashville, Tennessee",
+    "address": "3531 West End Ave, Nashville, TN 37205",
+    "website": "nashvillekangaroos.org",
+    "latitude": 36.133582740626544, 
+    "longitude": -86.82407575529784,
+    "colorCode": "#022555",
+    "colorCode2": "#ffffff",
+	"colorCode3": "#FF0102",
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "1997-02-01",
+    "endDate": null
+  },	
+  {
     "teamName": "St. Louis Blues",
     "teamCode": "STL",
     "arena": "Forest Park Cricket Field",
@@ -3350,13 +3385,13 @@
     "website": "bluesfooty.com",
     "latitude": 38.64327544975057, 
     "longitude": -90.28037531593498,
-    "colorCode": "#00064B",
-    "colorCode2": "#FFFFFF",
+    "colorCode": "#ffffff",
+    "colorCode2": "#00064B",
     "league": "USAFL",
     "timezone": "America/Chicago",
     "startDate": "1997-02-01",
     "endDate": null
-  }			
+  }		
 	
 
   	
