@@ -12,7 +12,7 @@
     "id": "wafl_2026040302",
     "league": "WAFL",
     "team": "Perth Demons",
-    "opponent": "West Coast Eagles",
+    "opponent": "West Coast Eagles Reserves",
     "arena": "Mineral Resources Park",
     "city": "Perth, WA",
     "date": "2026-04-03T06:10:00Z"
@@ -83,7 +83,7 @@
   {
     "id": "wafl_2026041201",
     "league": "WAFL",
-    "team": "West Coast Eagles",
+    "team": "West Coast Eagles Reserves",
     "opponent": "West Perth Falcons",
     "arena": "Mineral Resources Park",
     "city": "Perth, WA",
@@ -128,7 +128,7 @@
   {
     "id": "wafl_2026041901",
     "league": "WAFL",
-    "team": "West Coast Eagles",
+    "team": "West Coast Eagles Reserves",
     "opponent": "Subiaco Lions",
     "arena": "Mineral Resources Park",
     "city": "Perth, WA",
@@ -138,7 +138,7 @@
     "id": "wafl_2026052301",
     "league": "WAFL",
     "team": "East Fremantle Sharks",
-    "opponent": "West Coast Eagles",
+    "opponent": "West Coast Eagles Reserves",
     "arena": "The Good Grocer Park",
     "date": "2026-05-23T05:10:00Z"
   },
@@ -193,7 +193,7 @@
   {
     "id": "wafl_2026053101",
     "league": "WAFL",
-    "team": "West Coast Eagles",
+    "team": "West Coast Eagles Reserves",
     "opponent": "Peel Thunder",
     "arena": "Mineral Resources Park",
     "date": "2026-05-31T05:10:00Z"
@@ -218,7 +218,7 @@
     "id": "wafl_2026060601",
     "league": "WAFL",
     "team": "Claremont Tigers",
-    "opponent": "West Coast Eagles",
+    "opponent": "West Coast Eagles Reserves",
     "arena": "Revo Fitness Stadium",
     "date": "2026-06-06T05:10:00Z"
   },
@@ -266,7 +266,7 @@
     "id": "wafl_2026061303",
     "league": "WAFL",
     "team": "Swan Districts Swans",
-    "opponent": "West Coast Eagles",
+    "opponent": "West Coast Eagles Reserves",
     "arena": "Steel Blue Oval",
     "date": "2026-06-13T06:30:00Z"
   },
@@ -298,7 +298,7 @@
     "id": "wafl_2026062601",
     "league": "WAFL",
     "team": "East Perth Royals",
-    "opponent": "West Coast Eagles",
+    "opponent": "West Coast Eagles Reserves",
     "arena": "Sullivan Logistics Stadium",
     "date": "2026-06-26T11:10:00Z"
   },
@@ -345,7 +345,7 @@
   {
     "id": "wafl_2026070402",
     "league": "WAFL",
-    "team": "West Coast Eagles",
+    "team": "West Coast Eagles Reserves",
     "opponent": "East Fremantle Sharks",
     "arena": "Mineral Resources Park",
     "date": "2026-07-04T05:10:00Z"
@@ -377,7 +377,7 @@
   {
     "id": "wafl_2026071101",
     "league": "WAFL",
-    "team": "West Coast Eagles",
+    "team": "West Coast Eagles Reserves",
     "opponent": "Perth Demons",
     "arena": "Mineral Resources Park",
     "date": "2026-07-11T06:10:00Z"
@@ -441,7 +441,7 @@
   {
     "id": "wafl_2026070402",
     "league": "WAFL",
-    "team": "West Coast Eagles",
+    "team": "West Coast Eagles Reserves",
     "opponent": "East Fremantle Sharks",
     "arena": "Mineral Resources Park",
     "date": "2026-07-04T05:10:00Z"
@@ -473,7 +473,7 @@
   {
     "id": "wafl_2026071101",
     "league": "WAFL",
-    "team": "West Coast Eagles",
+    "team": "West Coast Eagles Reserves",
     "opponent": "Perth Demons",
     "arena": "Mineral Resources Park",
     "date": "2026-07-11T06:10:00Z"
