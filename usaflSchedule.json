@@ -70,5 +70,93 @@
     "opponent": "Cincinnati Dockers",
     "arena": "Three Creeks Park",
     "date": "2026-05-16T16:00:00Z"
+  },
+  {
+    "id": "usafl_2026051610",
+    "league": "USAFL",
+    "team": "Des Moines Roosters",
+    "opponent": "Minnesota Freeze",
+    "arena": "Rails Field",
+    "date": "2026-05-16T16:00:00Z"
+  },
+  {
+    "id": "usafl_2026051611",
+    "league": "USAFL",
+    "team": "Kansas City Power",
+    "opponent": "Chicago Swans",
+    "arena": "Rails Field",
+    "date": "2026-05-16T17:00:00Z"
+  },
+  {
+    "id": "usafl_2026051612",
+    "league": "USAFL",
+    "team": "Kansas City Power",
+    "opponent": "Wisconsin Wombats",
+    "arena": "Rails Field",
+    "date": "2026-05-16T17:00:00Z"
+  },
+  {
+    "id": "usafl_2026051613",
+    "league": "USAFL",
+    "team": "Des Moines Roosters",
+    "opponent": "Minnesota Freeze",
+    "arena": "Rails Field",
+    "date": "2026-05-16T18:00:00Z"
+  },
+  {
+    "id": "usafl_2026051614",
+    "league": "USAFL",
+    "team": "Kansas City Power",
+    "opponent": "Minnesota Freeze",
+    "arena": "Rails Field",
+    "date": "2026-05-16T19:00:00Z"
+  },
+  {
+    "id": "usafl_2026051615",
+    "league": "USAFL",
+    "team": "Des Moines Roosters",
+    "opponent": "Chicago Swans",
+    "arena": "Rails Field",
+    "date": "2026-05-16T20:00:00Z"
+  },
+  {
+    "id": "usafl_2026051616",
+    "league": "USAFL",
+    "team": "Des Moines Roosters",
+    "opponent": "Wisconsin Wombats",
+    "arena": "Rails Field",
+    "date": "2026-05-16T20:00:00Z"
+  },
+  {
+    "id": "usafl_2026051617",
+    "league": "USAFL",
+    "team": "Kansas City Power",
+    "opponent": "Minnesota Freeze",
+    "arena": "Rails Field",
+    "date": "2026-05-16T21:00:00Z"
+  },
+  {
+    "id": "usafl_2026051618",
+    "league": "USAFL",
+    "team": "Minnesota Freeze",
+    "opponent": "Chicago Swans",
+    "arena": "Rails Field",
+    "date": "2026-05-16T22:00:00Z"
+  },
+  {
+    "id": "usafl_2026051619",
+    "league": "USAFL",
+    "team": "Minnesota Freeze",
+    "opponent": "Wisconsin Wombats",
+    "arena": "Rails Field",
+    "date": "2026-05-16T22:00:00Z"
+  },
+  {
+    "id": "usafl_2026051620",
+    "league": "USAFL",
+    "team": "Minnesota Freeze",
+    "opponent": "Des Moines Roosters",
+    "arena": "Rails Field",
+    "date": "2026-05-16T23:00:00Z"
   }
 ]
