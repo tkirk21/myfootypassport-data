@@ -54,5 +54,21 @@
     "opponent": "North Carolina Tigers",
     "arena": "Roseland Farm",
     "date": "2026-05-16T19:00:00Z"
+  },
+  {
+    "id": "usafl_2026051608",
+    "league": "USAFL",
+    "team": "Columbus Cats",
+    "opponent": "Cleveland Cannons",
+    "arena": "Three Creeks Park",
+    "date": "2026-05-16T16:00:00Z"
+  },
+  {
+    "id": "usafl_2026051609",
+    "league": "USAFL",
+    "team": "Columbus Cats",
+    "opponent": "Cincinnati Dockers",
+    "arena": "Three Creeks Park",
+    "date": "2026-05-16T16:00:00Z"
   }
 ]
