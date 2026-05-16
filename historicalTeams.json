@@ -1456,5 +1456,86 @@
     "timezone": "Australia/Tasmania",
     "startDate": "2001-02-01",
     "endDate": "2008-10-01"
-  }
+  },
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "teamName": "DC Eagles",
+    "teamCode": "DC",
+    "arena": "Roseland Farm",
+    "arenaId": "roseland_farm_crozet",
+    "city": "Crozet, Virginia",
+    "address": "6550 Roseland Farm, Crozet, VA 22932",
+    "website": "dceaglesfc.com",
+    "latitude": 38.05798569546845, 
+    "longitude": -78.73549996801037,
+    "colorCode": "#012F8D",
+	"colorCode2": "#FEDB54",
+    "colorCode3": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "2026-05-15",
+    "endDate": "2026-05-17"
+  },
+  {
+    "teamName": "Charlotte Blue Heelers",
+    "teamCode": "CHA",
+    "arena": "Roseland Farm",
+    "arenaId": "roseland_farm_crozet",
+    "city": "Crozet, Virginia",
+    "address": "6550 Roseland Farm, Crozet, VA 22932",
+    "website": null,
+    "latitude": 38.05798569546845, 
+    "longitude": -78.73549996801037,
+     "colorCode": "#7AAED5",
+    "colorCode2": "#1F2944",
+	"colorCode3": "#FFCA18",
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "2026-05-15",
+    "endDate": "2026-05-17"
+  },
+  {
+    "teamName": "Wilmington Bombers",
+    "teamCode": "WIL",
+    "arena": "Roseland Farm",
+    "arenaId": "roseland_farm_crozet",
+    "city": "Crozet, Virginia",
+    "address": "6550 Roseland Farm, Crozet, VA 22932",
+    "website": null,
+    "latitude": 38.05798569546845, 
+    "longitude": -78.73549996801037,
+    "colorCode": "#F20010",
+    "colorCode2": "#000000",
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "2026-05-15",
+    "endDate": "2026-05-17"
+  },
+  {
+    "teamName": "North Carolina Tigers",
+    "teamCode": "NC",
+    "arena": "Roseland Farm",
+    "arenaId": "roseland_farm_crozet",
+    "city": "Crozet, Virginia",
+    "address": "6550 Roseland Farm, Crozet, VA 22932",
+    "website": "http://nctigers.com",
+    "latitude": 38.05798569546845, 
+    "longitude": -78.73549996801037,
+    "colorCode": "#FFEC00",
+    "colorCode2": "#000000",
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "2026-05-15",
+    "endDate": "2026-05-17"
+  },
 ]
