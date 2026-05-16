@@ -1,3 +1,58 @@
 [
-
+  {
+    "id": "usafl_2026051601",
+    "league": "USAFL",
+    "team": "DC Eagles",
+    "opponent": "Virginia Lions",
+    "arena": "Roseland Farm",
+    "date": "2026-05-16T15:00:00Z"
+  },
+  {
+    "id": "usafl_2026051602",
+    "league": "USAFL",
+    "team": "DC Eagles",
+    "opponent": "Wilmington Bombers",
+    "arena": "Roseland Farm",
+    "date": "2026-05-16T17:00:00Z"
+  },
+  {
+    "id": "usafl_2026051603",
+    "league": "USAFL",
+    "team": "DC Eagles",
+    "opponent": "Charlotte Blue Heelers",
+    "arena": "Roseland Farm",
+    "date": "2026-05-16T17:00:00Z"
+  },
+  {
+    "id": "usafl_2026051604",
+    "league": "USAFL",
+    "team": "DC Eagles",
+    "opponent": "North Carolina Tigers",
+    "arena": "Roseland Farm",
+    "date": "2026-05-16T17:00:00Z"
+  },
+  {
+    "id": "usafl_2026051605",
+    "league": "USAFL",
+    "team": "Virginia Lions",
+    "opponent": "Wilmington Bombers",
+    "arena": "Roseland Farm",
+    "date": "2026-05-16T19:00:00Z"
+  },
+  {
+    "id": "usafl_2026051606",
+    "league": "USAFL",
+    "team": "Virginia Lions",
+    "opponent": "Charlotte Blue Heelers",
+    "arena": "Roseland Farm",
+    "date": "2026-05-16T19:00:00Z"
+  },
+  {
+    "id": "usafl_2026051607",
+    "league": "USAFL",
+    "team": "Virginia Lions",
+    "opponent": "North Carolina Tigers",
+    "arena": "Roseland Farm",
+    "date": "2026-05-16T19:00:00Z"
+  }
 ]
