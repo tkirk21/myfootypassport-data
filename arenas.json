@@ -2542,6 +2542,24 @@
     "endDate": null
   },
   {
+    "teamName": "Gippsland Power",
+    "teamCode": "GPFC",
+    "arena": "Morwell Recreation Reserve",
+    "arenaId": "morwell_recreation_reserve_morwell",
+    "city": "Morwell, VIC",
+    "address": "Travers St, Morwell VIC 3840, Australia",
+    "website": "https://www.playhq.com/afl/org/gippsland-power-talent-league/7806a477",
+    "latitude": -38.240717636356834, 
+    "longitude": 146.3899623769243,
+    "colorCode": "#FF0000",
+	"colorCode2": "#0000FF", 
+	"colorCode3": "#FFFFFF",    
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "1993-02-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Gold Coast Suns Academy",
     "teamCode": "CGA",
     "arena": "People First Stadium",
