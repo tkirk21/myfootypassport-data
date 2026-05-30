@@ -158,5 +158,53 @@
     "opponent": "Des Moines Roosters",
     "arena": "Rails Field",
     "date": "2026-05-16T23:00:00Z"
+  },
+  {
+    "id": "usafl_2026053012",
+    "league": "USAFL",
+    "team": "Cincinnati Dockers",
+    "opponent": "Columbus Cats",
+    "arena": "Indianapolis World Sports Park",
+    "date": "2026-05-30T12:00:00-04:00"
+  },
+  {
+    "id": "usafl_2026053013",
+    "league": "USAFL",
+    "team": "St Louis Blues",
+    "opponent": "Chicago Swans",
+    "arena": "Indianapolis World Sports Park",
+    "date": "2026-05-30T13:00:00-04:00"
+  },
+  {
+    "id": "usafl_2026053014",
+    "league": "USAFL",
+    "team": "St Louis Blues",
+    "opponent": "Cincinnati Dockers",
+    "arena": "Indianapolis World Sports Park",
+    "date": "2026-05-30T14:00:00-04:00"
+  },
+  {
+    "id": "usafl_2026053015",
+    "league": "USAFL",
+    "team": "Columbus Cats",
+    "opponent": "Chicago Swans",
+    "arena": "Indianapolis World Sports Park",
+    "date": "2026-05-30T15:00:00-04:00"
+  },
+  {
+    "id": "usafl_2026053016",
+    "league": "USAFL",
+    "team": "Cincinnati Dockers",
+    "opponent": "Chicago Swans",
+    "arena": "Indianapolis World Sports Park",
+    "date": "2026-05-30T16:00:00-04:00"
+  },
+  {
+    "id": "usafl_2026053017",
+    "league": "USAFL",
+    "team": "Columbus Cats",
+    "opponent": "St Louis Blues",
+    "arena": "Indianapolis World Sports Park",
+    "date": "2026-05-30T17:00:00-04:00"
   }
 ]
