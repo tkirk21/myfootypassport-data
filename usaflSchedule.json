@@ -34,5 +34,14 @@
     "arena": "University of New Orleans",
     "city": "New Orleans, LA",
     "date": "2026-06-27T16:00:00Z"
+  },
+  {
+    "id": "usafl_2026062706",
+    "league": "USAFL",
+    "team": "Baltimore Dockers",
+    "opponent": "Virginia Lions",
+    "arena": "Herring Run Park",
+    "city": "Baltimore, MD",
+    "date": "2026-06-27T16:00:00Z"
   }
 ]
