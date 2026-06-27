@@ -106,5 +106,50 @@
     "arena": "Merrick-Moore Park",
     "city": "Durham, NC",
     "date": "2026-06-27T18:00:00Z"
+  },
+  {
+    "id": "usafl_2026062714",
+    "league": "USAFL",
+    "team": "Sacramento Suns",
+    "opponent": "Golden Gate Roos",
+    "arena": "Oak Valley Middle School",
+    "city": "San Diego, CA",
+    "date": "2026-06-27T19:00:00Z"
+  },
+  {
+    "id": "usafl_2026062715",
+    "league": "USAFL",
+    "team": "San Diego Lions",
+    "opponent": "Sacramento Suns",
+    "arena": "Oak Valley Middle School",
+    "city": "San Diego, CA",
+    "date": "2026-06-27T21:00:00Z"
+  },
+  {
+    "id": "usafl_2026062716",
+    "league": "USAFL",
+    "team": "Los Angeles Dragons",
+    "opponent": "Golden Gate Roos",
+    "arena": "Oak Valley Middle School",
+    "city": "San Diego, CA",
+    "date": "2026-06-27T22:00:00Z"
+  },
+  {
+    "id": "usafl_2026062717",
+    "league": "USAFL",
+    "team": "San Diego Lions",
+    "opponent": "Golden Gate Roos",
+    "arena": "Oak Valley Middle School",
+    "city": "San Diego, CA",
+    "date": "2026-06-28T00:00:00Z"
+  },
+  {
+    "id": "usafl_2026062718",
+    "league": "USAFL",
+    "team": "Los Angeles Dragons",
+    "opponent": "Sacramento Suns",
+    "arena": "Oak Valley Middle School",
+    "city": "San Diego, CA",
+    "date": "2026-06-28T01:00:00Z"
   }
 ]
