@@ -25,5 +25,14 @@
     "arena": "Onion Creek Soccer Complex",
     "city": "Austin, TX",
     "date": "2026-06-27T17:00:00Z"
+  },
+  {
+    "id": "usafl_2026062705",
+    "league": "USAFL",
+    "team": "Bayou Brawlers",
+    "opponent": "Baton Rouge Tigers",
+    "arena": "University of New Orleans",
+    "city": "New Orleans, LA",
+    "date": "2026-06-27T16:00:00Z"
   }
 ]
