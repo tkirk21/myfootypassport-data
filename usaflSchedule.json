@@ -1,258 +1,29 @@
 [
   {
-    "id": "usafl_2026051601",
+    "id": "usafl_2026062701",
     "league": "USAFL",
-    "team": "DC Eagles",
-    "opponent": "Virginia Lions",
-    "arena": "Roseland Farm",
-    "date": "2026-05-16T15:00:00Z"
+    "team": "Austin Crows",
+    "opponent": "North Texas Devils",
+    "arena": "Onion Creek Soccer Complex",
+    "city": "Austin, TX",
+    "date": "2026-06-27T15:00:00Z"
   },
   {
-    "id": "usafl_2026051602",
-    "league": "USAFL",
-    "team": "DC Eagles",
-    "opponent": "Wilmington Bombers",
-    "arena": "Roseland Farm",
-    "date": "2026-05-16T17:00:00Z"
-  },
-  {
-    "id": "usafl_2026051603",
-    "league": "USAFL",
-    "team": "DC Eagles",
-    "opponent": "Charlotte Blue Heelers",
-    "arena": "Roseland Farm",
-    "date": "2026-05-16T17:00:00Z"
-  },
-  {
-    "id": "usafl_2026051604",
-    "league": "USAFL",
-    "team": "DC Eagles",
-    "opponent": "North Carolina Tigers",
-    "arena": "Roseland Farm",
-    "date": "2026-05-16T17:00:00Z"
-  },
-  {
-    "id": "usafl_2026051605",
-    "league": "USAFL",
-    "team": "Virginia Lions",
-    "opponent": "Wilmington Bombers",
-    "arena": "Roseland Farm",
-    "date": "2026-05-16T19:00:00Z"
-  },
-  {
-    "id": "usafl_2026051606",
-    "league": "USAFL",
-    "team": "Virginia Lions",
-    "opponent": "Charlotte Blue Heelers",
-    "arena": "Roseland Farm",
-    "date": "2026-05-16T19:00:00Z"
-  },
-  {
-    "id": "usafl_2026051607",
-    "league": "USAFL",
-    "team": "Virginia Lions",
-    "opponent": "North Carolina Tigers",
-    "arena": "Roseland Farm",
-    "date": "2026-05-16T19:00:00Z"
-  },
-  {
-    "id": "usafl_2026051608",
-    "league": "USAFL",
-    "team": "Columbus Cats",
-    "opponent": "Cleveland Cannons",
-    "arena": "Three Creeks Park",
-    "date": "2026-05-16T16:00:00Z"
-  },
-  {
-    "id": "usafl_2026051609",
-    "league": "USAFL",
-    "team": "Columbus Cats",
-    "opponent": "Cincinnati Dockers",
-    "arena": "Three Creeks Park",
-    "date": "2026-05-16T16:00:00Z"
-  },
-  {
-    "id": "usafl_2026051610",
-    "league": "USAFL",
-    "team": "Des Moines Roosters",
-    "opponent": "Minnesota Freeze",
-    "arena": "Rails Field",
-    "date": "2026-05-16T16:00:00Z"
-  },
-  {
-    "id": "usafl_2026051611",
-    "league": "USAFL",
-    "team": "Kansas City Power",
-    "opponent": "Chicago Swans",
-    "arena": "Rails Field",
-    "date": "2026-05-16T17:00:00Z"
-  },
-  {
-    "id": "usafl_2026051612",
-    "league": "USAFL",
-    "team": "Kansas City Power",
-    "opponent": "Wisconsin Wombats",
-    "arena": "Rails Field",
-    "date": "2026-05-16T17:00:00Z"
-  },
-  {
-    "id": "usafl_2026051613",
-    "league": "USAFL",
-    "team": "Des Moines Roosters",
-    "opponent": "Minnesota Freeze",
-    "arena": "Rails Field",
-    "date": "2026-05-16T18:00:00Z"
-  },
-  {
-    "id": "usafl_2026051614",
-    "league": "USAFL",
-    "team": "Kansas City Power",
-    "opponent": "Minnesota Freeze",
-    "arena": "Rails Field",
-    "date": "2026-05-16T19:00:00Z"
-  },
-  {
-    "id": "usafl_2026051615",
-    "league": "USAFL",
-    "team": "Des Moines Roosters",
-    "opponent": "Chicago Swans",
-    "arena": "Rails Field",
-    "date": "2026-05-16T20:00:00Z"
-  },
-  {
-    "id": "usafl_2026051616",
-    "league": "USAFL",
-    "team": "Des Moines Roosters",
-    "opponent": "Wisconsin Wombats",
-    "arena": "Rails Field",
-    "date": "2026-05-16T20:00:00Z"
-  },
-  {
-    "id": "usafl_2026051617",
-    "league": "USAFL",
-    "team": "Kansas City Power",
-    "opponent": "Minnesota Freeze",
-    "arena": "Rails Field",
-    "date": "2026-05-16T21:00:00Z"
-  },
-  {
-    "id": "usafl_2026051618",
-    "league": "USAFL",
-    "team": "Minnesota Freeze",
-    "opponent": "Chicago Swans",
-    "arena": "Rails Field",
-    "date": "2026-05-16T22:00:00Z"
-  },
-  {
-    "id": "usafl_2026051619",
-    "league": "USAFL",
-    "team": "Minnesota Freeze",
-    "opponent": "Wisconsin Wombats",
-    "arena": "Rails Field",
-    "date": "2026-05-16T22:00:00Z"
-  },
-  {
-    "id": "usafl_2026051620",
-    "league": "USAFL",
-    "team": "Minnesota Freeze",
-    "opponent": "Des Moines Roosters",
-    "arena": "Rails Field",
-    "date": "2026-05-16T23:00:00Z"
-  },
-  {
-    "id": "usafl_2026053012",
-    "league": "USAFL",
-    "team": "Cincinnati Dockers",
-    "opponent": "Columbus Cats",
-    "arena": "Indianapolis World Sports Park",
-    "date": "2026-05-30T12:00:00-04:00"
-  },
-  {
-    "id": "usafl_2026053013",
-    "league": "USAFL",
-    "team": "St Louis Blues",
-    "opponent": "Chicago Swans",
-    "arena": "Indianapolis World Sports Park",
-    "date": "2026-05-30T13:00:00-04:00"
-  },
-  {
-    "id": "usafl_2026053014",
-    "league": "USAFL",
-    "team": "St Louis Blues",
-    "opponent": "Cincinnati Dockers",
-    "arena": "Indianapolis World Sports Park",
-    "date": "2026-05-30T14:00:00-04:00"
-  },
-  {
-    "id": "usafl_2026053015",
-    "league": "USAFL",
-    "team": "Columbus Cats",
-    "opponent": "Chicago Swans",
-    "arena": "Indianapolis World Sports Park",
-    "date": "2026-05-30T15:00:00-04:00"
-  },
-  {
-    "id": "usafl_2026053016",
-    "league": "USAFL",
-    "team": "Cincinnati Dockers",
-    "opponent": "Chicago Swans",
-    "arena": "Indianapolis World Sports Park",
-    "date": "2026-05-30T16:00:00-04:00"
-  },
-  {
-    "id": "usafl_2026053017",
-    "league": "USAFL",
-    "team": "Columbus Cats",
-    "opponent": "St Louis Blues",
-    "arena": "Indianapolis World Sports Park",
-    "date": "2026-05-30T17:00:00-04:00"
-  },
-  {
-    "id": "usafl_2026053012",
-    "league": "USAFL",
-    "team": "Baltimore Dockers",
-    "opponent": "DC Eagles",
-    "arena": "Herring Run Park",
-    "date": "2026-05-30T12:00:00-04:00"
-  },
-  {
-    "id": "usafl_202605311530",
-    "league": "USAFL",
-    "team": "North Carolina Tigers",
-    "opponent": "Wilmington Bombers",
-    "arena": "Merrick Moore Park",
-    "date": "2026-05-30T15:30:00-04:00"
-  },
-  {
-    "id": "usafl_202605311300",
-    "league": "USAFL",
-    "team": "Portland Steelheads",
-    "opponent": "Seattle Grizzlies",
-    "arena": "Glinton City Park",
-    "date": "2026-05-31T13:00:00-07:00"
-  },
-  {
-    "id": "usafl_202605311030",
-    "league": "USAFL",
-    "team": "North Texas Devils",
-    "opponent": "Austin Crows",
-    "arena": "Brickenridge Reserve",
-    "date": "2026-05-30T10:30:00-05:00"
-  },
-  {
-    "id": "usafl_202605311130",
+    "id": "usafl_2026062702",
     "league": "USAFL",
     "team": "Austin Crows",
     "opponent": "Houston Lonestars",
-    "arena": "Brickenridge Reserve",
-    "date": "2026-05-30T11:30:00-05:00"
+    "arena": "Onion Creek Soccer Complex",
+    "city": "Austin, TX",
+    "date": "2026-06-27T16:00:00Z"
   },
   {
-    "id": "usafl_202605311230",
+    "id": "usafl_2026062703",
     "league": "USAFL",
     "team": "North Texas Devils",
     "opponent": "Houston Lonestars",
-    "arena": "Brickenridge Reserve",
-    "date": "2026-05-30T12:30:00-05:00"
+    "arena": "Onion Creek Soccer Complex",
+    "city": "Austin, TX",
+    "date": "2026-06-27T17:00:00Z"
   }
 ]
