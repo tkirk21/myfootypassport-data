@@ -52,5 +52,32 @@
     "arena": "Lower Perkiomen Valley Park",
     "city": "Oaks, Pennsylvania",
     "date": "2026-06-27T16:00:00Z"
+  },
+  {
+    "id": "usafl_2026062708",
+    "league": "USAFL",
+    "team": "Cleveland Cannons",
+    "opponent": "Columbus Cats",
+    "arena": "Cleveland Metroparks",
+    "city": "Cleveland, OH",
+    "date": "2026-06-27T16:00:00Z"
+  },
+  {
+    "id": "usafl_2026062709",
+    "league": "USAFL",
+    "team": "Cincinnati Dockers",
+    "opponent": "Cleveland Cannons",
+    "arena": "Cleveland Metroparks",
+    "city": "Cleveland, OH",
+    "date": "2026-06-27T17:00:00Z"
+  },
+  {
+    "id": "usafl_2026062710",
+    "league": "USAFL",
+    "team": "Columbus Cats",
+    "opponent": "Cincinnati Dockers",
+    "arena": "Cleveland Metroparks",
+    "city": "Cleveland, OH",
+    "date": "2026-06-27T18:00:00Z"
   }
 ]
