@@ -79,5 +79,32 @@
     "arena": "Cleveland Metroparks",
     "city": "Cleveland, OH",
     "date": "2026-06-27T18:00:00Z"
+  },
+  {
+    "id": "usafl_2026062711",
+    "league": "USAFL",
+    "team": "North Carolina Tigers",
+    "opponent": "Charlotte Blue Heelers",
+    "arena": "Merrick-Moore Park",
+    "city": "Durham, NC",
+    "date": "2026-06-27T16:00:00Z"
+  },
+  {
+    "id": "usafl_2026062712",
+    "league": "USAFL",
+    "team": "Wilmington Bombers",
+    "opponent": "North Carolina Tigers",
+    "arena": "Merrick-Moore Park",
+    "city": "Durham, NC",
+    "date": "2026-06-27T17:00:00Z"
+  },
+  {
+    "id": "usafl_2026062713",
+    "league": "USAFL",
+    "team": "Charlotte Blue Heelers",
+    "opponent": "Wilmington Bombers",
+    "arena": "Merrick-Moore Park",
+    "city": "Durham, NC",
+    "date": "2026-06-27T18:00:00Z"
   }
 ]
