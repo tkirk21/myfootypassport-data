@@ -43,5 +43,14 @@
     "arena": "Herring Run Park",
     "city": "Baltimore, MD",
     "date": "2026-06-27T16:00:00Z"
+  },
+  {
+    "id": "usafl_2026062707",
+    "league": "USAFL",
+    "team": "Philadelphia Hawks",
+    "opponent": "New York Magpies",
+    "arena": "Lower Perkiomen Valley Park",
+    "city": "Oaks, PA",
+    "date": "2026-06-27T16:00:00Z"
   }
 ]
