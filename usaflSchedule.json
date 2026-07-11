@@ -151,5 +151,32 @@
     "arena": "Oak Valley Middle School",
     "city": "San Diego, CA",
     "date": "2026-06-28T01:00:00Z"
+  },
+   {
+    "id": "usafl_2026071101",
+    "league": "USAFL",
+    "team": "Chicago Swans",
+    "opponent": "D.C. Eagles",
+    "arena": "M Health Fairview Sports Center Red Fields",
+    "city": "Woodbury, MN",
+    "date": "2026-07-11T15:00:00Z"
+  },
+  {
+    "id": "usafl_2026071102",
+    "league": "USAFL",
+    "team": "St. Louis Blues",
+    "opponent": "Wisconsin Wombats",
+    "arena": "M Health Fairview Sports Center Red Fields",
+    "city": "Woodbury, MN",
+    "date": "2026-07-11T15:00:00Z"
+  },
+  {
+    "id": "usafl_2026071103",
+    "league": "USAFL",
+    "team": "Minnesota Freeze",
+    "opponent": "D.C. Eagles",
+    "arena": "M Health Fairview Sports Center Red Fields",
+    "city": "Woodbury, MN",
+    "date": "2026-07-11T16:15:00Z"
   }
 ]
