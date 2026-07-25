@@ -178,5 +178,60 @@
     "arena": "M Health Fairview Sports Center Red Fields",
     "city": "Woodbury, MN",
     "date": "2026-07-11T16:15:00Z"
+  },
+  [
+  {
+    "id": "usafl_2026072501",
+    "league": "USAFL",
+    "team": "Denver Bulldogs",
+    "opponent": "Seattle Grizzlies",
+    "arena": "Pioneer Sports Park",
+    "city": "Salem, Oregon",
+    "date": "2026-07-25T16:00:00Z"
+  },
+  {
+    "id": "usafl_2026072502",
+    "league": "USAFL",
+    "team": "Portland Sockeyes",
+    "opponent": "Wasatch Wargulls",
+    "arena": "Pioneer Sports Park",
+    "city": "Salem, Oregon",
+    "date": "2026-07-25T16:00:00Z"
+  },
+  {
+    "id": "usafl_2026072503",
+    "league": "USAFL",
+    "team": "Arizona Hawks",
+    "opponent": "Wasatch Wargulls",
+    "arena": "Pioneer Sports Park",
+    "city": "Salem, Oregon",
+    "date": "2026-07-25T18:00:00Z"
+  },
+  {
+    "id": "usafl_2026072504",
+    "league": "USAFL",
+    "team": "Golden Gate Roos",
+    "opponent": "Seattle Grizzlies",
+    "arena": "Pioneer Sports Park",
+    "city": "Salem, Oregon",
+    "date": "2026-07-25T18:30:00Z"
+  },
+  {
+    "id": "usafl_2026072505",
+    "league": "USAFL",
+    "team": "Golden Gate Roos",
+    "opponent": "Denver Bulldogs",
+    "arena": "Pioneer Sports Park",
+    "city": "Salem, Oregon",
+    "date": "2026-07-25T21:15:00Z"
+  },
+  {
+    "id": "usafl_2026072506",
+    "league": "USAFL",
+    "team": "Arizona Hawks",
+    "opponent": "Portland Sockeyes",
+    "arena": "Pioneer Sports Park",
+    "city": "Salem, Oregon",
+    "date": "2026-07-25T21:15:00Z"
   }
 ]
