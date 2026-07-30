@@ -1,3 +1,271 @@
 [
+  {
+  "id": "aflw_2026080901",
+  "league": "AFLW",
+  "team": "St Kilda Saints Women",
+  "opponent": "Carlton Blues Women",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-09T06:35:00Z"
+},
 
+{
+  "id": "aflw_2026081002",
+  "league": "AFLW",
+  "team": "GWS GIANTS",
+  "opponent": "West Coast Eagles Women",
+  "arena": "Engie Stadium",
+  "city": "Sydney Olympic Park, NSW",
+  "date": "2026-08-10T02:00:00Z"
+},
+
+{
+  "id": "aflw_2026081003",
+  "league": "AFLW",
+  "team": "North Melbourne Kangaroos Women",
+  "opponent": "Geelong Cats Women",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-10T02:00:00Z"
+},
+
+{
+  "id": "aflw_2026081304",
+  "league": "AFLW",
+  "team": "Hawthorn Hawks Women",
+  "opponent": "Melbourne Demons Women",
+  "arena": "IKON Park",
+  "city": "Carlton North, VIC",
+  "date": "2026-08-13T09:15:00Z"
+},
+
+{
+  "id": "aflw_2026081505",
+  "league": "AFLW",
+  "team": "Gold Coast Suns Women",
+  "opponent": "Western Bulldogs Women",
+  "arena": "People First Stadium",
+  "city": "Carrara, QLD",
+  "date": "2026-08-15T04:05:00Z"
+},
+
+{
+  "id": "aflw_2026081506",
+  "league": "AFLW",
+  "team": "Richmond Tigers Women",
+  "opponent": "Collingwood Magpies Women",
+  "arena": "IKON Park",
+  "city": "Carlton North, VIC",
+  "date": "2026-08-15T09:15:00Z"
+},
+
+{
+  "id": "aflw_2026081607",
+  "league": "AFLW",
+  "team": "Essendon Bombers Women",
+  "opponent": "Brisbane Lions Women",
+  "arena": "Windy Hill",
+  "city": "Essendon, VIC",
+  "date": "2026-08-16T02:35:00Z"
+},
+
+{
+  "id": "aflw_2026081608",
+  "league": "AFLW",
+  "team": "Adelaide Crows Women",
+  "opponent": "Sydney Swans Women",
+  "arena": "Unley Oval",
+  "city": "Unley, SA",
+  "date": "2026-08-16T04:35:00Z"
+},
+
+{
+  "id": "aflw_2026081609",
+  "league": "AFLW",
+  "team": "Fremantle Dockers Women",
+  "opponent": "Port Adelaide Power Women",
+  "arena": "Victor George Kailis Oval",
+  "city": "Cockburn, WA",
+  "date": "2026-08-16T06:35:00Z"
+},
+
+{
+  "id": "aflw_2026081710",
+  "league": "AFLW",
+  "team": "Sydney Swans Women",
+  "opponent": "Essendon Bombers Women",
+  "arena": "SCG",
+  "city": "Moore Park, NSW",
+  "date": "2026-08-17T02:00:00Z"
+},
+
+{
+  "id": "aflw_2026082211",
+  "league": "AFLW",
+  "team": "Geelong Cats Women",
+  "opponent": "St Kilda Saints Women",
+  "arena": "GMHBA Stadium",
+  "city": "South Geelong, VIC",
+  "date": "2026-08-22T04:05:00Z"
+},
+
+{
+  "id": "aflw_2026082212",
+  "league": "AFLW",
+  "team": "Western Bulldogs Women",
+  "opponent": "Richmond Tigers Women",
+  "arena": "Mission Whitten Oval",
+  "city": "Footscray, VIC",
+  "date": "2026-08-22T07:05:00Z"
+},
+
+{
+  "id": "aflw_2026082213",
+  "league": "AFLW",
+  "team": "Brisbane Lions Women",
+  "opponent": "North Melbourne Kangaroos Women",
+  "arena": "Brighton Homes Arena",
+  "city": "Springfield, QLD",
+  "date": "2026-08-22T09:15:00Z"
+},
+
+{
+  "id": "aflw_2026082314",
+  "league": "AFLW",
+  "team": "Collingwood Magpies Women",
+  "opponent": "Fremantle Dockers Women",
+  "arena": "Victoria Park",
+  "city": "Abbotsford, VIC",
+  "date": "2026-08-23T02:35:00Z"
+},
+
+{
+  "id": "aflw_2026082315",
+  "league": "AFLW",
+  "team": "Carlton Blues Women",
+  "opponent": "Adelaide Crows Women",
+  "arena": "IKON Park",
+  "city": "Carlton North, VIC",
+  "date": "2026-08-23T03:05:00Z"
+},
+
+{
+  "id": "aflw_2026082316",
+  "league": "AFLW",
+  "team": "Melbourne Demons Women",
+  "opponent": "GWS GIANTS",
+  "arena": "Casey Fields",
+  "city": "Cranbourne East, VIC",
+  "date": "2026-08-23T04:35:00Z"
+},
+
+{
+  "id": "aflw_2026082317",
+  "league": "AFLW",
+  "team": "Port Adelaide Power Women",
+  "opponent": "Hawthorn Hawks Women",
+  "arena": "Alberton Oval",
+  "city": "Alberton, SA",
+  "date": "2026-08-23T05:05:00Z"
+},
+
+{
+  "id": "aflw_2026082318",
+  "league": "AFLW",
+  "team": "West Coast Eagles Women",
+  "opponent": "Gold Coast Suns Women",
+  "arena": "Mineral Resources Park",
+  "city": "Lathlain, WA",
+  "date": "2026-08-23T07:05:00Z"
+},
+
+{
+  "id": "aflw_2026082919",
+  "league": "AFLW",
+  "team": "North Melbourne Kangaroos Women",
+  "opponent": "Western Bulldogs Women",
+  "arena": "University of Tasmania Stadium",
+  "city": "Invermay, TAS",
+  "date": "2026-08-29T02:35:00Z"
+},
+
+{
+  "id": "aflw_2026082920",
+  "league": "AFLW",
+  "team": "Adelaide Crows Women",
+  "opponent": "West Coast Eagles Women",
+  "arena": "Unley Oval",
+  "city": "Unley, SA",
+  "date": "2026-08-29T04:35:00Z"
+},
+
+{
+  "id": "aflw_2026082921",
+  "league": "AFLW",
+  "team": "Sydney Swans Women",
+  "opponent": "St Kilda Saints Women",
+  "arena": "C.ex Coffs International Stadium",
+  "city": "Coffs Harbour, NSW",
+  "date": "2026-08-29T06:35:00Z"
+},
+
+{
+  "id": "aflw_2026083022",
+  "league": "AFLW",
+  "team": "GWS GIANTS",
+  "opponent": "Port Adelaide Power Women",
+  "arena": "Corroboree Group Oval Manuka",
+  "city": "Griffith, ACT",
+  "date": "2026-08-30T02:35:00Z"
+},
+
+{
+  "id": "aflw_2026083023",
+  "league": "AFLW",
+  "team": "Melbourne Demons Women",
+  "opponent": "Brisbane Lions Women",
+  "arena": "Casey Fields",
+  "city": "Cranbourne East, VIC",
+  "date": "2026-08-30T03:05:00Z"
+},
+
+{
+  "id": "aflw_2026083024",
+  "league": "AFLW",
+  "team": "Gold Coast Suns Women",
+  "opponent": "Geelong Cats Women",
+  "arena": "People First Stadium",
+  "city": "Carrara, QLD",
+  "date": "2026-08-30T05:05:00Z"
+},
+
+{
+  "id": "aflw_2026083025",
+  "league": "AFLW",
+  "team": "Collingwood Magpies Women",
+  "opponent": "Hawthorn Hawks Women",
+  "arena": "Victoria Park",
+  "city": "Abbotsford, VIC",
+  "date": "2026-08-30T05:05:00Z"
+},
+
+{
+  "id": "aflw_2026083026",
+  "league": "AFLW",
+  "team": "Fremantle Dockers Women",
+  "opponent": "Carlton Blues Women",
+  "arena": "Victor George Kailis Oval",
+  "city": "Cockburn, WA",
+  "date": "2026-08-30T07:05:00Z"
+},
+
+{
+  "id": "aflw_2026083027",
+  "league": "AFLW",
+  "team": "Essendon Bombers Women",
+  "opponent": "Richmond Tigers Women",
+  "arena": "TIO Stadium",
+  "city": "Marrara, NT",
+  "date": "2026-08-30T09:20:00Z"
+}
 ]
