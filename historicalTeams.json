@@ -889,6 +889,24 @@
     "timezone": "Australia/Melbourne",
 	"startDate": "2017-02-01",
     "endDate": null
+  },
+  {
+    "teamName": "Adelaide Crows Women",
+    "teamCode": "ADE",
+    "arena": "Coopers Stadium",
+    "arenaId": "coopers_stadium_norwood",
+    "city": "Norwood, SA",
+    "address": "Cnr The Parade, and, 4 Woods St, Norwood SA 5067",
+    "website": "afc.com.au",
+    "latitude": -34.919848213447864,  
+    "longitude": 138.63043799899563,
+    "colorCode": "#0F1432",
+	"colorCode2": "#FF001E",
+	"colorCode3": "#FFAA00",
+    "league": "AFLW",
+    "timezone": "Australia/Adelaide",
+	"startDate": "2017-02-01",
+    "endDate": "2026-05-31"
   },	
   {
     "teamName": "Brisbane Lions",
