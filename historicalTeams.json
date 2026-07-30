@@ -1085,6 +1085,34 @@
     "endDate": "2026-09-19"
   },	
   {
+    "teamName": "Hawthorn Hawks Women",
+    "teamCode": "HAW",
+    "arena": "IKON Park",
+    "arenaId": "ikon_park_carlton_north",
+    "city": "Carlton North, VIC",
+    "address": "400 Royal Parade, Carlton North VIC 3054",
+    "website": "hawthornfc.com.au",
+    "latitude": -37.78299535472717, 
+    "longitude": 144.96221523663868,
+    "colorCode": "#000000",
+	"colorCode2": "#FF0000",
+    "colorCode3": "#FFFFFF",
+    "league": "AFLW",
+    "timezone": "Australia/Melbourne",
+	"startDate": "2022-08-13",
+    "endDate": "2026-08-14"
+  },
+
+
+
+
+
+
+
+
+
+	
+  {
     "teamName": "Sydney Swans Women",
     "teamCode": "SYD",
     "arena": "C.ex Coffs International Stadium",
