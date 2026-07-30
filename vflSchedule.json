@@ -1105,5 +1105,154 @@
     "arena": "ETU Stadium",
     "city": "Melbourne, VIC",
     "date": "2026-06-21T04:15:00Z"
-  }
+  },
+  {
+  "id": "vfl_2026080101",
+  "league": "VFL",
+  "team": "Carlton Blues Reserves",
+  "opponent": "Brisbane Lions Reserves",
+  "arena": "IKON Park",
+  "city": "Carlton North, VIC",
+  "date": "2026-08-01T01:00:00Z"
+},
+
+{
+  "id": "vfl_2026080102",
+  "league": "VFL",
+  "team": "Sydney Swans Reserves",
+  "opponent": "Tasmania Devils",
+  "arena": "Tramway Oval",
+  "city": "Moore Park, NSW",
+  "date": "2026-08-01T01:05:00Z"
+},
+
+{
+  "id": "vfl_2026080103",
+  "league": "VFL",
+  "team": "Southport Sharks",
+  "opponent": "GWS Giants Reserves",
+  "arena": "Fankhauser Reserve",
+  "city": "Southport, QLD",
+  "date": "2026-08-01T01:05:00Z"
+},
+
+{
+  "id": "vfl_2026080104",
+  "league": "VFL",
+  "team": "Werribee Tigers",
+  "opponent": "Footscray Bulldogs",
+  "arena": "Avalon Airport Oval",
+  "city": "Werribee, VIC",
+  "date": "2026-08-01T02:05:00Z"
+},
+
+{
+  "id": "vfl_2026080105",
+  "league": "VFL",
+  "team": "Box Hill Hawks",
+  "opponent": "North Melbourne Kangaroos Reserves",
+  "arena": "Box Hill City Oval",
+  "city": "Box Hill, VIC",
+  "date": "2026-08-01T04:05:00Z"
+},
+
+{
+  "id": "vfl_2026080206",
+  "league": "VFL",
+  "team": "Gold Coast Suns Reserves",
+  "opponent": "Casey Demons",
+  "arena": "People First Stadium",
+  "city": "Carrara, QLD",
+  "date": "2026-08-02T00:00:00Z"
+},
+
+{
+  "id": "vfl_2026080207",
+  "league": "VFL",
+  "team": "Sandringham Zebras",
+  "opponent": "Williamstown Seagulls",
+  "arena": "Trevor Barker Beach Oval",
+  "city": "Sandringham, VIC",
+  "date": "2026-08-02T04:05:00Z"
+},
+
+{
+  "id": "vfl_2026080708",
+  "league": "VFL",
+  "team": "North Melbourne Kangaroos Reserves",
+  "opponent": "Footscray Bulldogs",
+  "arena": "Arden Street Oval",
+  "city": "North Melbourne, VIC",
+  "date": "2026-08-07T04:05:00Z"
+},
+
+{
+  "id": "vfl_2026080809",
+  "league": "VFL",
+  "team": "Tasmania Devils",
+  "opponent": "Werribee Tigers",
+  "arena": "North Hobart Oval",
+  "city": "North Hobart, TAS",
+  "date": "2026-08-08T01:05:00Z"
+},
+
+{
+  "id": "vfl_2026080810",
+  "league": "VFL",
+  "team": "Essendon Bombers Reserves",
+  "opponent": "Collingwood Magpies Reserves",
+  "arena": "Windy Hill",
+  "city": "Essendon, VIC",
+  "date": "2026-08-08T02:05:00Z"
+},
+
+{
+  "id": "vfl_2026080811",
+  "league": "VFL",
+  "team": "Southport Sharks",
+  "opponent": "Brisbane Lions Reserves",
+  "arena": "Fankhauser Reserve",
+  "city": "Southport, QLD",
+  "date": "2026-08-08T02:05:00Z"
+},
+
+{
+  "id": "vfl_2026080812",
+  "league": "VFL",
+  "team": "Port Melbourne Borough",
+  "opponent": "Richmond Tigers Reserves",
+  "arena": "ETU Stadium",
+  "city": "Port Melbourne, VIC",
+  "date": "2026-08-08T04:00:00Z"
+},
+
+{
+  "id": "vfl_2026080913",
+  "league": "VFL",
+  "team": "St Kilda Saints Reserves",
+  "opponent": "Carlton Blues Reserves",
+  "arena": "RSEA Park",
+  "city": "Moorabbin, VIC",
+  "date": "2026-08-09T00:05:00Z"
+},
+
+{
+  "id": "vfl_2026080914",
+  "league": "VFL",
+  "team": "GWS Giants Reserves",
+  "opponent": "Gold Coast Suns Reserves",
+  "arena": "Blacktown ISP Oval",
+  "city": "Rooty Hill, NSW",
+  "date": "2026-08-09T01:00:00Z"
+},
+
+{
+  "id": "vfl_2026080915",
+  "league": "VFL",
+  "team": "Williamstown Seagulls",
+  "opponent": "Coburg Lions",
+  "arena": "DSV Stadium",
+  "city": "Williamstown, VIC",
+  "date": "2026-08-09T04:35:00Z"
+}
 ]
