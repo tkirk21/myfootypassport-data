@@ -927,6 +927,23 @@
     "endDate": "2022-10-01"
   },
   {
+    "teamName": "Fremantle Dockers Women",
+    "teamCode": "FRE",
+    "arena": "Fremantle Community Bank Oval",
+    "arenaId": "fremantle_community_bank_oval_fremantle",
+    "city": "Fremantle, WA",
+    "address": "Parry St, Fremantle WA 6160",
+    "website": "fremantlefc.com.au",
+    "latitude": -32.05621845233744, 
+    "longitude": 115.75128575736566,
+    "colorCode": "#2A0D54",
+	"colorCode2": "#FFFFFF",
+    "league": "AFLW",
+    "timezone": "Australia/Perth",
+	"startDate": "2017-02-01",
+    "endDate": "2026-05-31"
+  },	
+  {
     "teamName": "Box Hill Mustangs",
     "teamCode": "BHFC",
     "arena": "Box Hill City Oval",
