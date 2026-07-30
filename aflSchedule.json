@@ -108,168 +108,364 @@
     "date": "2026-07-26T05:15:00Z"
   },
   {
-    "id": "afl_2026073001",
-    "league": "AFL",
-    "team": "Collingwood Magpies",
-    "opponent": "Geelong Cats",
-    "arena": "MCG",
-    "city": "East Melbourne, VIC",
-    "date": "2026-07-30T09:30:00Z"
-  },
-  {
-    "id": "afl_2026073101",
-    "league": "AFL",
-    "team": "Fremantle Dockers",
-    "opponent": "Western Bulldogs",
-    "arena": "Optus Stadium",
-    "city": "Burswood, WA",
-    "date": "2026-07-31T10:10:00Z"
-  },
-  {
-    "id": "afl_2026080101",
-    "league": "AFL",
-    "team": "St Kilda Saints",
-    "opponent": "Sydney Swans",
-    "arena": "Marvel Stadium",
-    "city": "Docklands, VIC",
-    "date": "2026-08-01T03:05:00Z"
-  },
-  {
-    "id": "afl_2026080102",
-    "league": "AFL",
-    "team": "Hawthorn Hawks",
-    "opponent": "North Melbourne Kangaroos",
-    "arena": "UTAS Stadium",
-    "city": "Launceston, TAS",
-    "date": "2026-08-01T03:35:00Z"
-  },
-  {
-    "id": "afl_2026080103",
-    "league": "AFL",
-    "team": "Port Adelaide Power",
-    "opponent": "GWS Giants",
-    "arena": "Adelaide Oval",
-    "city": "North Adelaide, SA",
-    "date": "2026-08-01T08:35:00Z"
-  },
-  {
-    "id": "afl_2026080104",
-    "league": "AFL",
-    "team": "Carlton Blues",
-    "opponent": "Brisbane Lions",
-    "arena": "Marvel Stadium",
-    "city": "Docklands, VIC",
-    "date": "2026-08-01T09:40:00Z"
-  },
-  {
-    "id": "afl_2026080201",
-    "league": "AFL",
-    "team": "Richmond Tigers",
-    "opponent": "West Coast Eagles",
-    "arena": "MCG",
-    "city": "East Melbourne, VIC",
-    "date": "2026-08-02T03:10:00Z"
-  },
-  {
-    "id": "afl_2026080202",
-    "league": "AFL",
-    "team": "Gold Coast Suns",
-    "opponent": "Melbourne Demons",
-    "arena": "People First Stadium",
-    "city": "Carrara, QLD",
-    "date": "2026-08-02T05:15:00Z"
-  },
-  {
-    "id": "afl_2026080203",
-    "league": "AFL",
-    "team": "Essendon Bombers",
-    "opponent": "Adelaide Crows",
-    "arena": "Marvel Stadium",
-    "city": "Docklands, VIC",
-    "date": "2026-08-02T06:40:00Z"
-  },
+  "id": "afl_2026073037",
+  "league": "AFL",
+  "team": "Collingwood Magpies",
+  "opponent": "Geelong Cats",
+  "arena": "MCG",
+  "city": "East Melbourne, VIC",
+  "date": "2026-07-30T09:30:00Z"
+},
 
-  {
-    "id": "afl_2026080601",
-    "league": "AFL",
-    "team": "Western Bulldogs",
-    "opponent": "North Melbourne Kangaroos",
-    "arena": "Marvel Stadium",
-    "city": "Docklands, VIC",
-    "date": "2026-08-06T09:30:00Z"
-  },
-  {
-    "id": "afl_2026080701",
-    "league": "AFL",
-    "team": "Brisbane Lions",
-    "opponent": "Hawthorn Hawks",
-    "arena": "The Gabba",
-    "city": "Woolloongabba, QLD",
-    "date": "2026-08-07T09:40:00Z"
-  },
-  {
-    "id": "afl_2026080801",
-    "league": "AFL",
-    "team": "Melbourne Demons",
-    "opponent": "Fremantle Dockers",
-    "arena": "MCG",
-    "city": "East Melbourne, VIC",
-    "date": "2026-08-08T03:15:00Z"
-  },
-  {
-    "id": "afl_2026080802",
-    "league": "AFL",
-    "team": "Sydney Swans",
-    "opponent": "Port Adelaide Power",
-    "arena": "SCG",
-    "city": "Moore Park, NSW",
-    "date": "2026-08-08T06:15:00Z"
-  },
-  {
-    "id": "afl_2026080803",
-    "league": "AFL",
-    "team": "Geelong Cats",
-    "opponent": "Essendon Bombers",
-    "arena": "GMHBA Stadium",
-    "city": "South Geelong, VIC",
-    "date": "2026-08-08T06:35:00Z"
-  },
-  {
-    "id": "afl_2026080804",
-    "league": "AFL",
-    "team": "Adelaide Crows",
-    "opponent": "Richmond Tigers",
-    "arena": "Adelaide Oval",
-    "city": "North Adelaide, SA",
-    "date": "2026-08-08T09:35:00Z"
-  },
-  {
-    "id": "afl_2026080901",
-    "league": "AFL",
-    "team": "GWS Giants",
-    "opponent": "Gold Coast Suns",
-    "arena": "Corroboree Group Oval Manuka",
-    "city": "Griffith, ACT",
-    "date": "2026-08-09T03:10:00Z"
-  },
-  {
-    "id": "afl_2026080902",
-    "league": "AFL",
-    "team": "West Coast Eagles",
-    "opponent": "Collingwood Magpies",
-    "arena": "Optus Stadium",
-    "city": "Burswood, WA",
-    "date": "2026-08-09T06:10:00Z"
-  },
-  {
-    "id": "afl_2026080903",
-    "league": "AFL",
-    "team": "St Kilda Saints",
-    "opponent": "Carlton Blues",
-    "arena": "Marvel Stadium",
-    "city": "Docklands, VIC",
-    "date": "2026-08-09T09:20:00Z"
-  }
+{
+  "id": "afl_2026073138",
+  "league": "AFL",
+  "team": "Fremantle Dockers",
+  "opponent": "Western Bulldogs",
+  "arena": "Optus Stadium",
+  "city": "Burswood, WA",
+  "date": "2026-07-31T10:10:00Z"
+},
+
+ {
+  "id": "afl_2026080101",
+  "league": "AFL",
+  "team": "St Kilda Saints",
+  "opponent": "Sydney Swans",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-01T03:05:00Z"
+},
+
+{
+  "id": "afl_2026080102",
+  "league": "AFL",
+  "team": "Hawthorn Hawks",
+  "opponent": "North Melbourne Kangaroos",
+  "arena": "UTAS Stadium",
+  "city": "Invermay, TAS",
+  "date": "2026-08-01T03:35:00Z"
+},
+
+{
+  "id": "afl_2026080103",
+  "league": "AFL",
+  "team": "Port Adelaide Power",
+  "opponent": "GWS Giants",
+  "arena": "Adelaide Oval",
+  "city": "North Adelaide, SA",
+  "date": "2026-08-01T08:35:00Z"
+},
+
+{
+  "id": "afl_2026080104",
+  "league": "AFL",
+  "team": "Carlton Blues",
+  "opponent": "Brisbane Lions",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-01T09:40:00Z"
+},
+
+{
+  "id": "afl_2026080205",
+  "league": "AFL",
+  "team": "Richmond Tigers",
+  "opponent": "West Coast Eagles",
+  "arena": "MCG",
+  "city": "East Melbourne, VIC",
+  "date": "2026-08-02T03:10:00Z"
+},
+
+{
+  "id": "afl_2026080206",
+  "league": "AFL",
+  "team": "Gold Coast Suns",
+  "opponent": "Melbourne Demons",
+  "arena": "People First Stadium",
+  "city": "Carrara, QLD",
+  "date": "2026-08-02T05:15:00Z"
+},
+
+{
+  "id": "afl_2026080207",
+  "league": "AFL",
+  "team": "Essendon Bombers",
+  "opponent": "Adelaide Crows",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-02T06:40:00Z"
+},
+
+{
+  "id": "afl_2026080608",
+  "league": "AFL",
+  "team": "Western Bulldogs",
+  "opponent": "North Melbourne Kangaroos",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-06T09:30:00Z"
+},
+
+{
+  "id": "afl_2026080709",
+  "league": "AFL",
+  "team": "Brisbane Lions",
+  "opponent": "Hawthorn Hawks",
+  "arena": "The Gabba",
+  "city": "Woolloongabba, QLD",
+  "date": "2026-08-07T09:40:00Z"
+},
+
+{
+  "id": "afl_2026080810",
+  "league": "AFL",
+  "team": "Melbourne Demons",
+  "opponent": "Fremantle Dockers",
+  "arena": "MCG",
+  "city": "East Melbourne, VIC",
+  "date": "2026-08-08T03:15:00Z"
+},
+
+{
+  "id": "afl_2026080811",
+  "league": "AFL",
+  "team": "Sydney Swans",
+  "opponent": "Port Adelaide Power",
+  "arena": "SCG",
+  "city": "Moore Park, NSW",
+  "date": "2026-08-08T06:15:00Z"
+},
+
+{
+  "id": "afl_2026080812",
+  "league": "AFL",
+  "team": "Geelong Cats",
+  "opponent": "Essendon Bombers",
+  "arena": "GMHBA Stadium",
+  "city": "South Geelong, VIC",
+  "date": "2026-08-08T06:35:00Z"
+},
+
+{
+  "id": "afl_2026080813",
+  "league": "AFL",
+  "team": "Adelaide Crows",
+  "opponent": "Richmond Tigers",
+  "arena": "Adelaide Oval",
+  "city": "North Adelaide, SA",
+  "date": "2026-08-08T09:35:00Z"
+},
+
+{
+  "id": "afl_2026080914",
+  "league": "AFL",
+  "team": "GWS Giants",
+  "opponent": "Gold Coast Suns",
+  "arena": "Corroboree Group Oval Manuka",
+  "city": "Griffith, ACT",
+  "date": "2026-08-09T03:10:00Z"
+},
+
+{
+  "id": "afl_2026080915",
+  "league": "AFL",
+  "team": "West Coast Eagles",
+  "opponent": "Collingwood Magpies",
+  "arena": "Optus Stadium",
+  "city": "Burswood, WA",
+  "date": "2026-08-09T06:10:00Z"
+},
+
+{
+  "id": "afl_2026080916",
+  "league": "AFL",
+  "team": "St Kilda Saints",
+  "opponent": "Carlton Blues",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-09T09:20:00Z"
+},
+
+{
+  "id": "afl_2026081417",
+  "league": "AFL",
+  "team": "Fremantle Dockers",
+  "opponent": "Adelaide Crows",
+  "arena": "Optus Stadium",
+  "city": "Burswood, WA",
+  "date": "2026-08-14T10:10:00Z"
+},
+
+{
+  "id": "afl_2026081518",
+  "league": "AFL",
+  "team": "Richmond Tigers",
+  "opponent": "St Kilda Saints",
+  "arena": "MCG",
+  "city": "East Melbourne, VIC",
+  "date": "2026-08-15T02:35:00Z"
+},
+
+{
+  "id": "afl_2026081519",
+  "league": "AFL",
+  "team": "North Melbourne Kangaroos",
+  "opponent": "Geelong Cats",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-15T05:45:00Z"
+},
+
+{
+  "id": "afl_2026081520",
+  "league": "AFL",
+  "team": "Brisbane Lions",
+  "opponent": "Gold Coast Suns",
+  "arena": "The Gabba",
+  "city": "Woolloongabba, QLD",
+  "date": "2026-08-15T06:15:00Z"
+},
+
+{
+  "id": "afl_2026081521",
+  "league": "AFL",
+  "team": "Hawthorn Hawks",
+  "opponent": "Collingwood Magpies",
+  "arena": "MCG",
+  "city": "East Melbourne, VIC",
+  "date": "2026-08-15T09:40:00Z"
+},
+
+{
+  "id": "afl_2026081522",
+  "league": "AFL",
+  "team": "Port Adelaide Power",
+  "opponent": "Melbourne Demons",
+  "arena": "Adelaide Oval",
+  "city": "North Adelaide, SA",
+  "date": "2026-08-15T10:10:00Z"
+},
+
+{
+  "id": "afl_2026081623",
+  "league": "AFL",
+  "team": "GWS Giants",
+  "opponent": "West Coast Eagles",
+  "arena": "Engie Stadium",
+  "city": "Sydney Olympic Park, NSW",
+  "date": "2026-08-16T03:40:00Z"
+},
+
+{
+  "id": "afl_2026081624",
+  "league": "AFL",
+  "team": "Western Bulldogs",
+  "opponent": "Carlton Blues",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-16T05:15:00Z"
+},
+
+{
+  "id": "afl_2026081625",
+  "league": "AFL",
+  "team": "Essendon Bombers",
+  "opponent": "Sydney Swans",
+  "arena": "MCG",
+  "city": "East Melbourne, VIC",
+  "date": "2026-08-16T06:40:00Z"
+},
+
+{
+  "id": "afl_2026082026",
+  "league": "AFL",
+  "team": "St Kilda Saints",
+  "opponent": "Gold Coast Suns",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-20T09:30:00Z"
+},
+
+{
+  "id": "afl_2026082127",
+  "league": "AFL",
+  "team": "Collingwood Magpies",
+  "opponent": "Brisbane Lions",
+  "arena": "MCG",
+  "city": "East Melbourne, VIC",
+  "date": "2026-08-21T09:40:00Z"
+},
+
+{
+  "id": "afl_2026082228",
+  "league": "AFL",
+  "team": "Carlton Blues",
+  "opponent": "Fremantle Dockers",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-22T03:15:00Z"
+},
+
+{
+  "id": "afl_2026082229",
+  "league": "AFL",
+  "team": "Melbourne Demons",
+  "opponent": "Western Bulldogs",
+  "arena": "MCG",
+  "city": "East Melbourne, VIC",
+  "date": "2026-08-22T06:15:00Z"
+},
+
+{
+  "id": "afl_2026082230",
+  "league": "AFL",
+  "team": "Geelong Cats",
+  "opponent": "Richmond Tigers",
+  "arena": "GMHBA Stadium",
+  "city": "South Geelong, VIC",
+  "date": "2026-08-22T09:45:00Z"
+},
+
+{
+  "id": "afl_2026082231",
+  "league": "AFL",
+  "team": "Adelaide Crows",
+  "opponent": "GWS Giants",
+  "arena": "Adelaide Oval",
+  "city": "North Adelaide, SA",
+  "date": "2026-08-22T10:10:00Z"
+},
+
+{
+  "id": "afl_2026082332",
+  "league": "AFL",
+  "team": "Essendon Bombers",
+  "opponent": "Port Adelaide Power",
+  "arena": "Marvel Stadium",
+  "city": "Docklands, VIC",
+  "date": "2026-08-23T02:20:00Z"
+},
+
+{
+  "id": "afl_2026082333",
+  "league": "AFL",
+  "team": "Sydney Swans",
+  "opponent": "North Melbourne Kangaroos",
+  "arena": "SCG",
+  "city": "Moore Park, NSW",
+  "date": "2026-08-23T05:20:00Z"
+},
+
+{
+  "id": "afl_2026082334",
+  "league": "AFL",
+  "team": "West Coast Eagles",
+  "opponent": "Hawthorn Hawks",
+  "arena": "Optus Stadium",
+  "city": "Burswood, WA",
+  "date": "2026-08-23T09:20:00Z"
+} 
 
 ]
   
