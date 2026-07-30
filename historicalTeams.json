@@ -948,7 +948,7 @@
     "teamCode": "ESS",
     "arena": "TIO Stadium",
     "arenaId": "tio_stadium_marrara",
-    "city": "Marrara, VIC",
+    "city": "Marrara, NT",
     "address": "70 Abala Rd, Marrara NT 0812, Australia",
     "website": "essendonfc.com.au",
     "latitude": -12.399129403641556,  
@@ -956,7 +956,7 @@
     "colorCode": "#FF0000",
 	"colorCode2": "#000000",
     "league": "AFLW",
-    "timezone": "Australia/Melbourne",
+    "timezone": "Australia/Darwin",
 	"startDate": "2026-08-30",
     "endDate": "2026-09-01"
   },	
@@ -1046,7 +1046,7 @@
     "league": "AFLW",
     "timezone": "Australia/Sydney",
 	"startDate": "2017-02-01",
-    "endDate": 2026-05-31"
+    "endDate": "2026-05-31"
   },	
   {
     "teamName": "Hawthorn Hawks Women",
@@ -2374,7 +2374,7 @@
     "longitude": -92.904913,
     "league": "USAFL",
     "timezone": "America/Chicago",
-    "": "2026-07-11",
+    "startDate": "2026-07-11",
     "endDate": "2026-07-12"
   },
 {
@@ -2393,7 +2393,7 @@
   "endDate": "2026-07-26",
   "colorCode": "#20539D",
   "colorCode2": "#BD002B",
-  "colorcode3": "#FFFFFF"
+  "colorCode3": "#FFFFFF"
 },
 {
   "teamName": "Seattle Grizzlies",
@@ -2411,7 +2411,7 @@
   "endDate": "2026-07-26",
   "colorCode": "#000000",
   "colorCode2": "#006400",
-  "colorcode3": "#FFFFFF"
+  "colorCode3": "#FFFFFF"
 },
 {
 	  "teamName": "Golden Gate Roos",
@@ -2447,7 +2447,7 @@
 	  "endDate": "2026-07-26",
 	  "colorCode": "#4D2004",
 	  "colorCode2": "#FBBF15",
-	  "colorcode3": "#FFFFFF"
+	  "colorCode3": "#FFFFFF"
 	},
 	{
 	  "teamName": "Portland Sockeyes",
@@ -2465,7 +2465,7 @@
 	  "endDate": "2026-07-26",
 	  "colorCode": "#006400",
 	  "colorCode2": "#FFD700",
-	  "colorcode3": "#FFFFFF"
+	  "colorCode3": "#FFFFFF"
 	},
   {
     "teamName": "Wasatch WarGulls",
@@ -2483,6 +2483,6 @@
     "endDate": "2026-07-26",
     "colorCode": "#002868",
     "colorCode2": "#FFFFFF",
-    "colorcode3": "#000000"
+    "colorCode3": "#000000"
   }	
 ]
