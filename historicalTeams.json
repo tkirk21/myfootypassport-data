@@ -1860,6 +1860,23 @@
     "endDate": "2019-10-01"
   },
   {
+    "teamName": "South West Sydney Blues",
+    "teamCode": "SWS",
+    "arena": "Rosedale Oval",
+    "arenaId": "rosedale_oval_warwick_farm",
+    "city": "Warwick Farm, NSW",
+    "address": "16 Stroud Ave, Warwick Farm NSW 2170, Australia",
+    "website": "southwestsydneyblues.com.au/",
+    "latitude": -33.916136929278196, 
+    "longitude": 150.9395830383505,
+    "colorCode": "#031829",
+	"colorCode2": "#FFFFFF",
+    "league": "AFLS",
+    "timezone": "Australia/Sydney",
+    "startDate": "2022-02-01",
+    "endDate": null
+  },	
+  {
     "teamName": "St George Dragons",
     "teamCode": "SG",
     "arena": "Blacktown ISP Oval",
