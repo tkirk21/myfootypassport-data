@@ -1627,7 +1627,7 @@
   {
     "teamName": "Darwin Buffaloes",
     "teamCode": "DAR",
-    "arena": "Tio Stadium",
+    "arena": "TIO Stadium",
     "arenaId": "tio_stadium_marrara",
     "city": "Marrara, NT",
     "address": "70 Abala Rd, Marrara NT 0812",
@@ -1678,7 +1678,7 @@
   {
     "teamName": "Palmerston Magpies",
     "teamCode": "PAL",
-    "arena": "Cazaly's Arena",
+    "arena": "Cazalys Arena",
     "arenaId": "cazalys_arena_durack",
     "city": "Durack, NT",
     "address": "Palmerston Sporting Ground, Durack NT 0830",
@@ -1730,7 +1730,7 @@
   {
     "teamName": "St Mary's Saints",
     "teamCode": "STM",
-    "arena": "Tio Stadium",
+    "arena": "TIO Stadium",
     "arenaId": "tio_stadium_marrara",
     "city": "Marrara, NT",
     "address": "70 Abala Rd, Marrara NT 0812",
@@ -1782,7 +1782,7 @@
   {
     "teamName": "Wanderers Eagles",
     "teamCode": "WAR",
-    "arena": "Tio Stadium",
+    "arena": "TIO Stadium",
     "arenaId": "tio_stadium_marrara",
     "city": "Marrara, NT",
     "address": "70 Abala Rd, Marrara NT 0812",
@@ -1848,7 +1848,7 @@
     "endDate": null
   },
   {
-    "teamName": "Manly-Warringah Wolves",
+    "teamName": "Manly Warringah Wolves",
     "teamCode": "MW",
     "arena": "Weldon Oval",
     "arenaId": "weldon_oval_curl_curl",
@@ -1908,23 +1908,6 @@
     "website": "southwestsydneyblues.com.au/",
     "latitude": -33.99724769471465,  
     "longitude": 150.88221038265633,
-    "colorCode": "#031829",
-	"colorCode2": "#FFFFFF",
-    "league": "AFLS",
-    "timezone": "Australia/Sydney",
-    "startDate": "2022-02-01",
-    "endDate": null
-  },
-{
-    "teamName": "South West Sydney Blues",
-    "teamCode": "SWS",
-    "arena": "Rosedale Oval",
-    "arenaId": "rosedale_oval_warwick_farm",
-    "city": "Warwick Farm, NSW",
-    "address": "16 Stroud Ave, Warwick Farm NSW 2170, Australia",
-    "website": "southwestsydneyblues.com.au/",
-    "latitude": -33.916136929278196, 
-    "longitude": 150.9395830383505,
     "colorCode": "#031829",
 	"colorCode2": "#FFFFFF",
     "league": "AFLS",
@@ -2584,7 +2567,7 @@
   {
     "teamName": "Northern Territory Thunder Academy",
     "teamCode": "NTTA",
-    "arena": "Tio Stadium",
+    "arena": "TIO Stadium",
     "arenaId": "tio_stadium_marrara",
     "city": "Marrara, NT",
     "address": "70 Abala Rd, Marrara NT 0812",
