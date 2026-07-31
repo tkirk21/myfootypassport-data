@@ -1519,8 +1519,8 @@
   {
     "teamName": "Werribee Tigers",
     "teamCode": "WER",
-    "arena": "Chirnside Park",
-    "arenaId": "chirnside_park_werribee",
+    "arena": "Avalon Airport Oval",
+    "arenaId": "avalon_airport_oval_werribee",
     "city": "Werribee, VIC",
     "address": "1220 Watton St, Werribee VIC 3030, Australia",
     "website": "tasmaniafc.com",
@@ -2086,8 +2086,8 @@
   {
     "teamName": "Geelong Falcons",
     "teamCode": "GFFC",
-    "arena": "Chirnside Park",
-    "arenaId": "chirnside_park_werribee",
+    "arena": "Avalon Airport Oval",
+    "arenaId": "avalon_airport_oval_werribee",
     "city": "Werribee, VIC",
     "address": "220 Watton St, Werribee VIC 3030, Australia",
     "website": "https://www.playhq.com/afl/org/geelong-falcons-talent-league/3f9e13be",
@@ -2261,8 +2261,8 @@
 	{
     "teamName": "Western Jets",
     "teamCode": "WJFC",
-    "arena": "Chirnside Park",
-    "arenaId": "chirnside_park_werribee",
+    "arena": "Avalon Airport Oval",
+    "arenaId": "avalon_airport_oval_werribee",
     "city": "Werribee, VIC",
     "address": "220 Watton St, Werribee VIC 3030, Australia",
     "website": "https://www.afl.com.au/talent-league/clubs/western-jets",
