@@ -2475,7 +2475,7 @@
     "league": "USAFL",
     "timezone": "America/Chicago",
     "startDate": "2026-05-15",
-    "endDate": "2026-05-17"
+    "endDate": null
   },	
   {
     "teamName": "Kansas City Power",
