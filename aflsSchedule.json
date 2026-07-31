@@ -1,614 +1,203 @@
 [
   {
-    "id": "afls_2026050901",
-    "league": "AFLS",
-    "team": "South West Sydney Blues",
-    "opponent": "Manly-Warringah Wolves",
-    "arena": "Bob Prenter Reserve",
-    "city": "Macquarie Fields, NSW",
-    "date": "2026-05-09T03:40:00Z"
-  },
-  {
-    "id": "afls_2026050902",
-    "league": "AFLS",
-    "team": "UNSW-Eastern Suburbs Bulldogs",
-    "opponent": "Inner West Magpies",
-    "arena": "Henson Park",
-    "city": "Marrickville, NSW",
-    "date": "2026-05-09T04:00:00Z"
-  },
-  {
-    "id": "afls_2026050903",
-    "league": "AFLS",
-    "team": "St George Dragons",
-    "opponent": "East Coast Eagles",
-    "arena": "Kelso Oval",
-    "city": "Panania, NSW",
-    "date": "2026-05-09T04:25:00Z"
-  },
-  {
-    "id": "afls_2026050904",
-    "league": "AFLS",
-    "team": "Pennant Hills Demons",
-    "opponent": "University of Technology Bats",
-    "arena": "Mike Kenny Oval",
-    "city": "Cherrybrook, NSW",
-    "date": "2026-05-09T04:35:00Z"
-  },
-  {
-    "id": "afls_2026050905",
-    "league": "AFLS",
-    "team": "Sydney University Students",
-    "opponent": "North Shore Bombers",
-    "arena": "University Oval",
-    "city": "Sydney, NSW",
-    "date": "2026-05-09T04:55:00Z"
-  },
-  {
-    "id": "afls_2026052301",
-    "league": "AFLS",
-    "team": "Manly-Warringah Wolves",
-    "opponent": "St George Dragons",
-    "arena": "Weldon Oval",
-    "city": "Curl Curl, NSW",
-    "date": "2026-05-23T04:00:00Z"
-  },
-  {
-    "id": "afls_2026052302",
-    "league": "AFLS",
-    "team": "UNSW-Eastern Suburbs Bulldogs",
-    "opponent": "South West Sydney Blues",
-    "arena": "Henson Park",
-    "city": "Marrickville, NSW",
-    "date": "2026-05-23T04:10:00Z"
-  },
-  {
-    "id": "afls_2026052303",
-    "league": "AFLS",
-    "team": "University of Technology Bats",
-    "opponent": "East Coast Eagles",
-    "arena": "Waverley Oval",
-    "city": "Paddington, NSW",
-    "date": "2026-05-23T04:30:00Z"
-  },
-  {
-    "id": "afls_2026052304",
-    "league": "AFLS",
-    "team": "Sydney University Students",
-    "opponent": "Pennant Hills Demons",
-    "arena": "University Oval",
-    "city": "Sydney, NSW",
-    "date": "2026-05-23T04:55:00Z"
-  },
-  {
-    "id": "afls_2026052305",
-    "league": "AFLS",
-    "team": "North Shore Bombers",
-    "opponent": "Inner West Magpies",
-    "arena": "Gore Hill Oval",
-    "city": "St Leonards, NSW",
-    "date": "2026-05-23T05:00:00Z"
-  },
-  {
-    "id": "afls_2026053001",
-    "league": "AFLS",
-    "team": "North Shore Bombers",
-    "opponent": "University of Technology Bats",
-    "arena": "Gore Hill Oval",
-    "city": "St Leonards, NSW",
-    "date": "2026-05-30T02:30:00Z"
-  },
-  {
-    "id": "afls_2026053002",
-    "league": "AFLS",
-    "team": "Inner West Magpies",
-    "opponent": "Manly-Warringah Wolves",
-    "arena": "Picken Oval",
-    "city": "Croydon Park, NSW",
-    "date": "2026-05-30T02:45:00Z"
-  },
-  {
-    "id": "afls_2026053003",
-    "league": "AFLS",
-    "team": "East Coast Eagles",
-    "opponent": "UNSW-Eastern Suburbs Bulldogs",
-    "arena": "Bruce Purser Reserve",
-    "city": "Rouse Hill, NSW",
-    "date": "2026-05-30T03:40:00Z"
-  },
-  {
-    "id": "afls_2026053004",
-    "league": "AFLS",
-    "team": "St George Dragons",
-    "opponent": "Sydney University Students",
-    "arena": "Kelso Oval",
-    "city": "Panania, NSW",
-    "date": "2026-05-30T03:40:00Z"
-  },
-  {
-    "id": "afls_2026053005",
-    "league": "AFLS",
-    "team": "Pennant Hills Demons",
-    "opponent": "South West Sydney Blues",
-    "arena": "Mike Kenny Oval",
-    "city": "Cherrybrook, NSW",
-    "date": "2026-05-30T04:45:00Z"
-  },
-  {
-    "id": "afls_2026061301",
-    "league": "AFLS",
-    "team": "St George Dragons",
-    "opponent": "Pennant Hills Demons",
-    "arena": "Kelso Oval",
-    "city": "Panania, NSW",
-    "date": "2026-06-13T01:00:00Z"
-  },
-  {
-    "id": "afls_2026061302",
-    "league": "AFLS",
-    "team": "Manly-Warringah Wolves",
-    "opponent": "University of Technology Bats",
-    "arena": "Weldon Oval",
-    "city": "Curl Curl, NSW",
-    "date": "2026-06-13T02:10:00Z"
-  },
-  {
-    "id": "afls_2026061303",
-    "league": "AFLS",
-    "team": "East Coast Eagles",
-    "opponent": "Inner West Magpies",
-    "arena": "Bruce Purser Reserve",
-    "city": "Rouse Hill, NSW",
-    "date": "2026-06-13T02:40:00Z"
-  },
-  {
-    "id": "afls_2026061304",
-    "league": "AFLS",
-    "team": "UNSW-Eastern Suburbs Bulldogs",
-    "opponent": "Sydney University Students",
-    "arena": "Henson Park",
-    "city": "Marrickville, NSW",
-    "date": "2026-06-13T03:50:00Z"
-  },
-  {
-    "id": "afls_2026061305",
-    "league": "AFLS",
-    "team": "South West Sydney Blues",
-    "opponent": "North Shore Bombers",
-    "arena": "Rosedale Oval",
-    "city": "Warwick Farm, NSW",
-    "date": "2026-06-13T03:50:00Z"
-  },
-  {
-    "id": "afls_2026062001",
-    "league": "AFLS",
-    "team": "University of Technology Bats",
-    "opponent": "South West Sydney Blues",
-    "arena": "Waverley Oval",
-    "city": "Paddington, NSW",
-    "date": "2026-06-20T02:30:00Z"
-  },
-  {
-    "id": "afls_2026062002",
-    "league": "AFLS",
-    "team": "Inner West Magpies",
-    "opponent": "St George Dragons",
-    "arena": "Picken Oval",
-    "city": "Croydon Park, NSW",
-    "date": "2026-06-20T02:45:00Z"
-  },
-  {
-    "id": "afls_2026062003",
-    "league": "AFLS",
-    "team": "UNSW-Eastern Suburbs Bulldogs",
-    "opponent": "Manly-Warringah Wolves",
-    "arena": "Henson Park",
-    "city": "Marrickville, NSW",
-    "date": "2026-06-20T04:00:00Z"
-  },
-  {
-    "id": "afls_2026062004",
-    "league": "AFLS",
-    "team": "Pennant Hills Demons",
-    "opponent": "North Shore Bombers",
-    "arena": "Mike Kenny Oval",
-    "city": "Cherrybrook, NSW",
-    "date": "2026-06-20T04:45:00Z"
-  },
-  {
-    "id": "afls_2026062005",
-    "league": "AFLS",
-    "team": "Sydney University Students",
-    "opponent": "East Coast Eagles",
-    "arena": "University Oval",
-    "city": "Sydney, NSW",
-    "date": "2026-06-20T05:05:00Z"
-  },
+  "id": "afls_2026080101",
+  "league": "AFLS",
+  "team": "North Shore Bombers",
+  "opponent": "Sydney University Students",
+  "arena": "Gore Hill Oval",
+  "city": "St Leonards, NSW",
+  "date": "2026-08-01T04:00:00Z"
+},
 
+{
+  "id": "afls_2026080102",
+  "league": "AFLS",
+  "team": "South West Sydney Blues",
+  "opponent": "UNSW-Eastern Suburbs Bulldogs",
+  "arena": "Bob Prenter Reserve",
+  "city": "Macquarie Fields, NSW",
+  "date": "2026-08-01T04:10:00Z"
+},
 
-  {
-    "id": "afls_2026062701",
-    "league": "AFLS",
-    "team": "St George Dragons",
-    "opponent": "University of Technology Bats",
-    "arena": "Kelso Oval",
-    "city": "Panania, NSW",
-    "date": "2026-06-27T02:40:00Z"
-  },
-  {
-    "id": "afls_2026062702",
-    "league": "AFLS",
-    "team": "East Coast Eagles",
-    "opponent": "North Shore Bombers",
-    "arena": "Bruce Purser Reserve",
-    "city": "Rouse Hill, NSW",
-    "date": "2026-06-27T03:30:00Z"
-  },
-  {
-    "id": "afls_2026062703",
-    "league": "AFLS",
-    "team": "UNSW-Eastern Suburbs Bulldogs",
-    "opponent": "Pennant Hills Demons",
-    "arena": "Henson Park",
-    "city": "Marrickville, NSW",
-    "date": "2026-06-27T04:00:00Z"
-  },
-  {
-    "id": "afls_2026062704",
-    "league": "AFLS",
-    "team": "Inner West Magpies",
-    "opponent": "South West Sydney Blues",
-    "arena": "Picken Oval",
-    "city": "Croydon Park, NSW",
-    "date": "2026-06-27T04:30:00Z"
-  },
-  {
-    "id": "afls_2026062705",
-    "league": "AFLS",
-    "team": "Manly-Warringah Wolves",
-    "opponent": "Sydney University Students",
-    "arena": "Weldon Oval",
-    "city": "Curl Curl, NSW",
-    "date": "2026-06-27T04:40:00Z"
-  },
+{
+  "id": "afls_2026080103",
+  "league": "AFLS",
+  "team": "Inner West Magpies",
+  "opponent": "East Coast Eagles",
+  "arena": "Picken Oval",
+  "city": "Croydon Park, NSW",
+  "date": "2026-08-01T04:30:00Z"
+},
 
-  
-  
-  {
-    "id": "afls_2026070401",
-    "league": "AFLS",
-    "team": "UNSW-Eastern Suburbs Bulldogs",
-    "opponent": "St George Dragons",
-    "arena": "Henson Park",
-    "city": "Marrickville, NSW",
-    "date": "2026-07-04T02:20:00Z"
-  },
-  {
-    "id": "afls_2026070402",
-    "league": "AFLS",
-    "team": "University of Technology Bats",
-    "opponent": "Pennant Hills Demons",
-    "arena": "Waverley Oval",
-    "city": "Paddington, NSW",
-    "date": "2026-07-04T02:20:00Z"
-  },
-  {
-    "id": "afls_2026070403",
-    "league": "AFLS",
-    "team": "North Shore Bombers",
-    "opponent": "Manly-Warringah Wolves",
-    "arena": "Gore Hill Oval",
-    "city": "St Leonards, NSW",
-    "date": "2026-07-04T04:50:00Z"
-  },
-  {
-    "id": "afls_2026070404",
-    "league": "AFLS",
-    "team": "Sydney University Students",
-    "opponent": "Inner West Magpies",
-    "arena": "University Oval",
-    "city": "Sydney, NSW",
-    "date": "2026-07-04T05:05:00Z"
-  },
-  {
-    "id": "afls_2026070405",
-    "league": "AFLS",
-    "team": "South West Sydney Blues",
-    "opponent": "East Coast Eagles",
-    "arena": "Bob Prenter Reserve",
-    "city": "Macquarie Fields, NSW",
-    "date": "2026-07-04T05:30:00Z"
-  },
+{
+  "id": "afls_2026080104",
+  "league": "AFLS",
+  "team": "University of Technology Bats",
+  "opponent": "Manly Warringah Wolves",
+  "arena": "Waverley Oval",
+  "city": "Paddington, NSW",
+  "date": "2026-08-01T04:30:00Z"
+},
 
+{
+  "id": "afls_2026080105",
+  "league": "AFLS",
+  "team": "Pennant Hills Demons",
+  "opponent": "St George Dragons",
+  "arena": "Mike Kenny Oval",
+  "city": "Cherrybrook, NSW",
+  "date": "2026-08-01T04:45:00Z"
+},
 
+{
+  "id": "afls_2026080806",
+  "league": "AFLS",
+  "team": "St George Dragons",
+  "opponent": "Inner West Magpies",
+  "arena": "Kelso Oval",
+  "city": "Panania, NSW",
+  "date": "2026-08-08T01:00:00Z"
+},
 
-  {
-    "id": "afls_2026071801",
-    "league": "AFLS",
-    "team": "East Coast Eagles",
-    "opponent": "Manly-Warringah Wolves",
-    "arena": "Bruce Purser Reserve",
-    "city": "Rouse Hill, NSW",
-    "date": "2026-07-18T03:40:00Z"
-  },
-  {
-    "id": "afls_2026071802",
-    "league": "AFLS",
-    "team": "South West Sydney Blues",
-    "opponent": "St George Dragons",
-    "arena": "Rosedale Oval",
-    "city": "Warwick Farm, NSW",
-    "date": "2026-07-18T04:00:00Z"
-  },
-  {
-    "id": "afls_2026071803",
-    "league": "AFLS",
-    "team": "North Shore Bombers",
-    "opponent": "UNSW-Eastern Suburbs Bulldogs",
-    "arena": "Gore Hill Oval",
-    "city": "St Leonards, NSW",
-    "date": "2026-07-18T04:40:00Z"
-  },
-  {
-    "id": "afls_2026071804",
-    "league": "AFLS",
-    "team": "Sydney University Students",
-    "opponent": "University of Technology Bats",
-    "arena": "University Oval",
-    "city": "Sydney, NSW",
-    "date": "2026-07-18T04:45:00Z"
-  },
-  {
-    "id": "afls_2026071805",
-    "league": "AFLS",
-    "team": "Pennant Hills Demons",
-    "opponent": "Inner West Magpies",
-    "arena": "Mike Kenny Oval",
-    "city": "Cherrybrook, NSW",
-    "date": "2026-07-18T04:55:00Z"
-  },
+{
+  "id": "afls_2026080807",
+  "league": "AFLS",
+  "team": "North Shore Bombers",
+  "opponent": "South West Sydney Blues",
+  "arena": "Gore Hill Oval",
+  "city": "St Leonards, NSW",
+  "date": "2026-08-08T03:20:00Z"
+},
 
+{
+  "id": "afls_2026080808",
+  "league": "AFLS",
+  "team": "East Coast Eagles",
+  "opponent": "Sydney University Students",
+  "arena": "Bruce Purser Reserve",
+  "city": "Rouse Hill, NSW",
+  "date": "2026-08-08T03:40:00Z"
+},
 
+{
+  "id": "afls_2026080809",
+  "league": "AFLS",
+  "team": "UNSW-Eastern Suburbs Bulldogs",
+  "opponent": "University of Technology Bats",
+  "arena": "Henson Park",
+  "city": "Marrickville, NSW",
+  "date": "2026-08-08T03:40:00Z"
+},
 
-  {
-    "id": "afls_2026072501",
-    "league": "AFLS",
-    "team": "Inner West Magpies",
-    "opponent": "University of Technology Bats",
-    "arena": "Picken Oval",
-    "city": "Croydon Park, NSW",
-    "date": "2026-07-25T02:45:00Z"
-  },
-  {
-    "id": "afls_2026072502",
-    "league": "AFLS",
-    "team": "UNSW-Eastern Suburbs Bulldogs",
-    "opponent": "East Coast Eagles",
-    "arena": "Henson Park",
-    "city": "Marrickville, NSW",
-    "date": "2026-07-25T04:20:00Z"
-  },
-  {
-    "id": "afls_2026072503",
-    "league": "AFLS",
-    "team": "Manly-Warringah Wolves",
-    "opponent": "South West Sydney Blues",
-    "arena": "Weldon Oval",
-    "city": "Curl Curl, NSW",
-    "date": "2026-07-25T04:20:00Z"
-  },
-  {
-    "id": "afls_2026072504",
-    "league": "AFLS",
-    "team": "St George Dragons",
-    "opponent": "North Shore Bombers",
-    "arena": "Kelso Oval",
-    "city": "Panania, NSW",
-    "date": "2026-07-25T04:25:00Z"
-  },
-  {
-    "id": "afls_2026072505",
-    "league": "AFLS",
-    "team": "Pennant Hills Demons",
-    "opponent": "Sydney University Students",
-    "arena": "Mike Kenny Oval",
-    "city": "Cherrybrook, NSW",
-    "date": "2026-07-25T04:45:00Z"
-  },
+{
+  "id": "afls_2026080810",
+  "league": "AFLS",
+  "team": "Manly Warringah Wolves",
+  "opponent": "Pennant Hills Demons",
+  "arena": "Weldon Oval",
+  "city": "Curl Curl, NSW",
+  "date": "2026-08-08T04:00:00Z"
+},
 
+{
+  "id": "afls_2026081511",
+  "league": "AFLS",
+  "team": "St George Dragons",
+  "opponent": "Manly Warringah Wolves",
+  "arena": "Kelso Oval",
+  "city": "Panania, NSW",
+  "date": "2026-08-15T01:00:00Z"
+},
 
+{
+  "id": "afls_2026081512",
+  "league": "AFLS",
+  "team": "Inner West Magpies",
+  "opponent": "UNSW-Eastern Suburbs Bulldogs",
+  "arena": "Picken Oval",
+  "city": "Croydon Park, NSW",
+  "date": "2026-08-15T03:45:00Z"
+},
 
-  {
-    "id": "afls_2026080101",
-    "league": "AFLS",
-    "team": "Inner West Magpies",
-    "opponent": "East Coast Eagles",
-    "arena": "Picken Oval",
-    "city": "Croydon Park, NSW",
-    "date": "2026-08-01T04:30:00Z"
-  },
-  {
-    "id": "afls_2026080102",
-    "league": "AFLS",
-    "team": "North Shore Bombers",
-    "opponent": "Sydney University Students",
-    "arena": "Gore Hill Oval",
-    "city": "St Leonards, NSW",
-    "date": "2026-08-01T04:40:00Z"
-  },
-  {
-    "id": "afls_2026080103",
-    "league": "AFLS",
-    "team": "Pennant Hills Demons",
-    "opponent": "St George Dragons",
-    "arena": "Mike Kenny Oval",
-    "city": "Cherrybrook, NSW",
-    "date": "2026-08-01T04:45:00Z"
-  },
-  {
-    "id": "afls_2026080104",
-    "league": "AFLS",
-    "team": "University of Technology Bats",
-    "opponent": "Manly-Warringah Wolves",
-    "arena": "Waverley Oval",
-    "city": "Paddington, NSW",
-    "date": "2026-08-01T04:45:00Z"
-  },
-  {
-    "id": "afls_2026080105",
-    "league": "AFLS",
-    "team": "South West Sydney Blues",
-    "opponent": "UNSW-Eastern Suburbs Bulldogs",
-    "arena": "Bob Prenter Reserve",
-    "city": "Macquarie Fields, NSW",
-    "date": "2026-08-01T05:40:00Z"
-  },
+{
+  "id": "afls_2026081513",
+  "league": "AFLS",
+  "team": "University of Technology Bats",
+  "opponent": "North Shore Bombers",
+  "arena": "Waverley Oval",
+  "city": "Paddington, NSW",
+  "date": "2026-08-15T04:40:00Z"
+},
 
+{
+  "id": "afls_2026081514",
+  "league": "AFLS",
+  "team": "Pennant Hills Demons",
+  "opponent": "East Coast Eagles",
+  "arena": "Mike Kenny Oval",
+  "city": "Cherrybrook, NSW",
+  "date": "2026-08-15T04:45:00Z"
+},
 
-  {
-    "id": "afls_2026080801",
-    "league": "AFLS",
-    "team": "St George Dragons",
-    "opponent": "Inner West Magpies",
-    "arena": "Kelso Oval",
-    "city": "Panania, NSW",
-    "date": "2026-08-08T01:00:00Z"
-  },
-  {
-    "id": "afls_2026080802",
-    "league": "AFLS",
-    "team": "North Shore Bombers",
-    "opponent": "South West Sydney Blues",
-    "arena": "Gore Hill Oval",
-    "city": "St Leonards, NSW",
-    "date": "2026-08-08T03:20:00Z"
-  },
-  {
-    "id": "afls_2026080803",
-    "league": "AFLS",
-    "team": "East Coast Eagles",
-    "opponent": "Sydney University Students",
-    "arena": "Bruce Purser Reserve",
-    "city": "Rouse Hill, NSW",
-    "date": "2026-08-08T03:40:00Z"
-  },
-  {
-    "id": "afls_2026080804",
-    "league": "AFLS",
-    "team": "UNSW-Eastern Suburbs Bulldogs",
-    "opponent": "University of Technology Bats",
-    "arena": "Henson Park",
-    "city": "Marrickville, NSW",
-    "date": "2026-08-08T03:40:00Z"
-  },
-  {
-    "id": "afls_2026080805",
-    "league": "AFLS",
-    "team": "Manly-Warringah Wolves",
-    "opponent": "Pennant Hills Demons",
-    "arena": "Weldon Oval",
-    "city": "Curl Curl, NSW",
-    "date": "2026-08-08T04:00:00Z"
-  },
-  
-  
+{
+  "id": "afls_2026081515",
+  "league": "AFLS",
+  "team": "Sydney University Students",
+  "opponent": "South West Sydney Blues",
+  "arena": "University Oval",
+  "city": "Sydney, NSW",
+  "date": "2026-08-15T05:05:00Z"
+},
 
-  
-  {
-    "id": "afls_2026081501",
-    "league": "AFLS",
-    "team": "St George Dragons",
-    "opponent": "Manly-Warringah Wolves",
-    "arena": "Kelso Oval",
-    "city": "Panania, NSW",
-    "date": "2026-08-15T01:00:00Z"
-  },
-  {
-    "id": "afls_2026081502",
-    "league": "AFLS",
-    "team": "Inner West Magpies",
-    "opponent": "UNSW-Eastern Suburbs Bulldogs",
-    "arena": "Picken Oval",
-    "city": "Croydon Park, NSW",
-    "date": "2026-08-15T03:45:00Z"
-  },
-  {
-    "id": "afls_2026081503",
-    "league": "AFLS",
-    "team": "Pennant Hills Demons",
-    "opponent": "East Coast Eagles",
-    "arena": "Mike Kenny Oval",
-    "city": "Cherrybrook, NSW",
-    "date": "2026-08-15T04:45:00Z"
-  },
-  {
-    "id": "afls_2026081504",
-    "league": "AFLS",
-    "team": "University of Technology Bats",
-    "opponent": "North Shore Bombers",
-    "arena": "Waverley Oval",
-    "city": "Paddington, NSW",
-    "date": "2026-08-15T04:45:00Z"
-  },
-  {
-    "id": "afls_2026081505",
-    "league": "AFLS",
-    "team": "Sydney University Students",
-    "opponent": "South West Sydney Blues",
-    "arena": "University Oval",
-    "city": "Sydney, NSW",
-    "date": "2026-08-15T05:05:00Z"
-  },
+{
+  "id": "afls_2026082216",
+  "league": "AFLS",
+  "team": "Manly Warringah Wolves",
+  "opponent": "Inner West Magpies",
+  "arena": "Weldon Oval",
+  "city": "Curl Curl, NSW",
+  "date": "2026-08-22T02:20:00Z"
+},
 
+{
+  "id": "afls_2026082217",
+  "league": "AFLS",
+  "team": "East Coast Eagles",
+  "opponent": "St George Dragons",
+  "arena": "Bruce Purser Reserve",
+  "city": "Rouse Hill, NSW",
+  "date": "2026-08-22T03:40:00Z"
+},
 
+{
+  "id": "afls_2026082218",
+  "league": "AFLS",
+  "team": "North Shore Bombers",
+  "opponent": "Pennant Hills Demons",
+  "arena": "Gore Hill Oval",
+  "city": "St Leonards, NSW",
+  "date": "2026-08-22T04:00:00Z"
+},
 
+{
+  "id": "afls_2026082219",
+  "league": "AFLS",
+  "team": "South West Sydney Blues",
+  "opponent": "University of Technology Bats",
+  "arena": "Rosedale Oval",
+  "city": "Warwick Farm, NSW",
+  "date": "2026-08-22T04:10:00Z"
+},
 
-
-  {
-    "id": "afls_2026082201",
-    "league": "AFLS",
-    "team": "Manly-Warringah Wolves",
-    "opponent": "Inner West Magpies",
-    "arena": "Weldon Oval",
-    "city": "Curl Curl, NSW",
-    "date": "2026-08-22T02:20:00Z"
-  },
-  {
-    "id": "afls_2026082202",
-    "league": "AFLS",
-    "team": "East Coast Eagles",
-    "opponent": "St George Dragons",
-    "arena": "Bruce Purser Reserve",
-    "city": "Rouse Hill, NSW",
-    "date": "2026-08-22T03:40:00Z"
-  },
-  {
-    "id": "afls_2026082203",
-    "league": "AFLS",
-    "team": "North Shore Bombers",
-    "opponent": "Pennant Hills Demons",
-    "arena": "Gore Hill Oval",
-    "city": "St Leonards, NSW",
-    "date": "2026-08-22T04:00:00Z"
-  },
-  {
-    "id": "afls_2026082204",
-    "league": "AFLS",
-    "team": "South West Sydney Blues",
-    "opponent": "University of Technology Bats",
-    "arena": "Rosedale Oval",
-    "city": "Warwick Farm, NSW",
-    "date": "2026-08-22T04:10:00Z"
-  },
-  {
-    "id": "afls_2026082205",
-    "league": "AFLS",
-    "team": "Sydney University Students",
-    "opponent": "UNSW-Eastern Suburbs Bulldogs",
-    "arena": "University Oval",
-    "city": "Sydney, NSW",
-    "date": "2026-08-22T04:55:00Z"
-  }
+{
+  "id": "afls_2026082220",
+  "league": "AFLS",
+  "team": "Sydney University Students",
+  "opponent": "UNSW-Eastern Suburbs Bulldogs",
+  "arena": "University Oval",
+  "city": "Sydney, NSW",
+  "date": "2026-08-22T04:55:00Z"
+}
 
 
   
