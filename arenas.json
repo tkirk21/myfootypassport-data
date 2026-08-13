@@ -673,6 +673,8 @@
     "website": "carltonfc.com.au",
     "latitude": -37.78299535472717, 
     "longitude": 144.96221523663868,
+	"colorCode": "#031829",
+	"colorCode2": "#FFFFFF",  
     "league": "VFL",
     "timezone": "Australia/Melbourne",
 	"startDate": "2021-02-01",
