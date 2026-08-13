@@ -735,23 +735,6 @@
   {
     "teamName": "Essendon Bombers Reserves",
     "teamCode": "ESS",
-    "arena": "Windy Hill",
-    "arenaId": "windy_hill_essendon",
-    "city": "Essendon, VIC",
-    "address": "Cnr Napier &, Brewster St, Essendon VIC 3040",
-    "website": "essendonfc.com.au",
-    "latitude": -37.751981470312366, 
-    "longitude": 144.91971015450667,
-    "colorCode": "#000000",
-	"colorCode2": "#CC2031", 
-    "league": "VFL",
-    "timezone": "Australia/Melbourne",
-	"startDate": "2013-02-01",
-    "endDate": null
-  },
-  {
-    "teamName": "Essendon Bombers Reserves",
-    "teamCode": "ESS",
     "arena": "NEC Hangar",
     "arenaId": "nec_hanger_essendon",
     "city": "Melbourne Airport, VIC",
