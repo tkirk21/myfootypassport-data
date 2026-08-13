@@ -1430,6 +1430,23 @@
     "endDate": "1973-10-01"
   },
   {
+    "teamName": "Collingwood Magpies Reserves",
+    "teamCode": "COLL",
+    "arena": "KMG Centre",
+    "arenaId": "kmg_centre_olympic_park",
+    "city": "Olympic Park, VIC",
+    "address": "Olympic Blvd, Melbourne VIC 3000",
+    "website": "collingwoodfc.com.au",
+    "latitude": -37.824652769186905, 
+    "longitude": 144.9811212658999,
+    "colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+    "league": "VFL",
+    "timezone": "Australia/Melbourne",
+	"startDate": "2016-02-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Essendon Bombers",
     "teamCode": "ESS",
     "arena": "Windy Hill",
