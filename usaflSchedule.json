@@ -1,3 +1,137 @@
 [
- 
+  {
+   "id": "usafl_2026081501",
+   "league": "USAFL",
+   "team": "Wisconsin Wombats",
+   "opponent": "Columbus Cats",
+   "arena": "Jackson Park",
+   "city": "Chicago, IL",
+   "date": "2026-08-15T05:00:00Z"
+ },
+ {
+   "id": "usafl_2026081502",
+   "league": "USAFL",
+   "team": "Chicago Swans",
+   "opponent": "Wisconsin Wombats",
+   "arena": "Jackson Park",
+   "city": "Chicago, IL",
+   "date": "2026-08-15T15:00:00Z"
+ },
+ {
+   "id": "usafl_2026081503",
+   "league": "USAFL",
+   "team": "Chicago Swans",
+   "opponent": "Saint Louis Blues",
+   "arena": "Jackson Park",
+   "city": "Chicago, IL",
+   "date": "2026-08-15T16:00:00Z"
+ },
+ {
+   "id": "usafl_2026081504",
+   "league": "USAFL",
+   "team": "Golden Gate Roos",
+   "opponent": "Sacramento Suns",
+   "arena": "West Sunset Fields",
+   "city": "San Francisco, CA",
+   "date": "2026-08-15T17:00:00Z"
+ },
+ {
+   "id": "usafl_2026081505",
+   "league": "USAFL",
+   "team": "Virginia Lions",
+   "opponent": "North Carolina Tigers",
+   "arena": "King Family Vineyards - Roseland Farm",
+   "city": "Crozet, VA",
+   "date": "2026-08-15T16:00:00Z"
+ },
+ {
+   "id": "usafl_2026081506",
+   "league": "USAFL",
+   "team": "Saint Louis Blues",
+   "opponent": "Columbus Cats",
+   "arena": "Jackson Park",
+   "city": "Chicago, IL",
+   "date": "2026-08-15T18:00:00Z"
+ },
+ {
+   "id": "usafl_2026081507",
+   "league": "USAFL",
+   "team": "DC Eagles",
+   "opponent": "Baltimore Dockers",
+   "arena": "West Potomac Park",
+   "city": "Washington, DC",
+   "date": "2026-08-15T18:00:00Z"
+ },
+ {
+   "id": "usafl_2026081508",
+   "league": "USAFL",
+   "team": "Virginia Lions",
+   "opponent": "North Carolina Tigers",
+   "arena": "King Family Vineyards - Roseland Farm",
+   "city": "Crozet, VA",
+   "date": "2026-08-15T18:00:00Z"
+ },
+ {
+   "id": "usafl_2026081509",
+   "league": "USAFL",
+   "team": "Wisconsin Wombats",
+   "opponent": "Saint Louis Blues",
+   "arena": "Jackson Park",
+   "city": "Chicago, IL",
+   "date": "2026-08-15T19:00:00Z"
+ },
+ {
+   "id": "usafl_2026081510",
+   "league": "USAFL",
+   "team": "Golden Gate Roos",
+   "opponent": "Portland Steelheads",
+   "arena": "West Sunset Fields",
+   "city": "San Francisco, CA",
+   "date": "2026-08-15T19:00:00Z"
+ },
+ {
+   "id": "usafl_2026081511",
+   "league": "USAFL",
+   "team": "Virginia Lions",
+   "opponent": "Wilmington Bombers",
+   "arena": "King Family Vineyards - Roseland Farm",
+   "city": "Crozet, VA",
+   "date": "2026-08-15T19:00:00Z"
+ },
+ {
+   "id": "usafl_2026081512",
+   "league": "USAFL",
+   "team": "Chicago Swans",
+   "opponent": "Columbus Cats",
+   "arena": "Jackson Park",
+   "city": "Chicago, IL",
+   "date": "2026-08-15T20:00:00Z"
+ },
+ {
+   "id": "usafl_2026081513",
+   "league": "USAFL",
+   "team": "North Carolina Tigers",
+   "opponent": "Wilmington Bombers",
+   "arena": "King Family Vineyards - Roseland Farm",
+   "city": "Crozet, VA",
+   "date": "2026-08-15T20:00:00Z"
+ },
+ {
+   "id": "usafl_2026081514",
+   "league": "USAFL",
+   "team": "Virginia Lions",
+   "opponent": "Charlotte Blue Heelers",
+   "arena": "King Family Vineyards - Roseland Farm",
+   "city": "Crozet, VA",
+   "date": "2026-08-15T21:00:00Z"
+ },
+ {
+   "id": "usafl_2026081515",
+   "league": "USAFL",
+   "team": "Charlotte Blue Heelers",
+   "opponent": "North Carolina Tigers",
+   "arena": "King Family Vineyards - Roseland Farm",
+   "city": "Crozet, VA",
+   "date": "2026-08-15T22:00:00Z"
+ }
 ]
