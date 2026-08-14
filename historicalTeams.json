@@ -2954,5 +2954,40 @@
     "timezone": "America/Chicago",
     "startDate": "2026-08-15",
     "endDate": "2026-08-16"
+  },
+  {
+    "teamName": "Portland Steelheads",
+    "teamCode": "POR",
+    "arena": "West Sunset Fields",
+    "arenaId": "west-sunset_fields_san_francisco",
+    "city": "San Francisco, California",
+    "address": "2100 39th Ave, San Francisco, CA 94116",
+    "website": "https://www.portlandfooty.com/",
+    "latitude": 37.74853201405697, 
+    "longitude": -122.49749052258879, 
+    "colorCode": "#4C91AE",
+    "colorCode2": "#212333",
+    "colorCode3": "#CD232D",
+    "league": "USAFL",
+    "timezone": "America/Los_Angeles",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-16"
+  },
+{
+    "teamName": "Sacramento Suns",
+    "teamCode": "SAC",
+    "arena": "West Sunset Fields",
+    "arenaId": "west-sunset_fields_san_francisco",
+    "city": "San Francisco, California",
+    "address": "2100 39th Ave, San Francisco, CA 94116",
+    "website": "sacfooty.webs.com",
+    "latitude": 37.74853201405697, 
+    "longitude": -122.49749052258879, 
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFF00",
+    "league": "USAFL",
+    "timezone": "America/Los_Angeles",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-16"
   }	
 ]
