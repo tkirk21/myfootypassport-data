@@ -2885,7 +2885,7 @@
 	  "colorCode2": "#FFD700",
 	  "colorCode3": "#FFFFFF"
 	},
-  {
+   {
     "teamName": "Wasatch WarGulls",
     "teamCode": "WAS",
     "arena": "Pioneer Sports",
@@ -2902,5 +2902,57 @@
     "colorCode": "#002868",
     "colorCode2": "#FFFFFF",
     "colorCode3": "#000000"
+  },
+  {
+    "teamName": "Columbus Cats",
+    "teamCode": "COL",
+    "arena": "Jackosn Park",
+    "arenaId": "jackson_park_chicago",
+    "city": "Chicago, Illinois",
+    "address": "E Hayes Dr, Chicago, IL 60613",
+    "website": "columbusafc.com/",
+    "latitude": 41.78172257505094, 
+    "longitude": -87.58001435041244,
+    "colorCode": "#0E2D52",
+    "colorCode2": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/New_York",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-16"
+  },
+  {
+    "teamName": "St. Louis Blues",
+    "teamCode": "STL",
+    "arena": "Jackosn Park",
+    "arenaId": "jackson_park_chicago",
+    "city": "Chicago, Illinois",
+    "address": "E Hayes Dr, Chicago, IL 60613",
+    "website": "bluesfooty.com",
+    "latitude": 41.78172257505094, 
+    "longitude": -87.58001435041244,
+    "colorCode": "#031829",
+	"colorCode2": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-16"
+  },
+  {
+    "teamName": "Wisconsin Wombats",
+    "teamCode": "WIS",
+    "arena": "Jackosn Park",
+    "arenaId": "jackson_park_chicago",
+    "city": "Chicago, Illinois",
+    "address": "E Hayes Dr, Chicago, IL 60613",
+    "website": null,
+    "latitude": 41.78172257505094, 
+    "longitude": -87.58001435041244,
+    "colorCode2": "#F20010",
+    "colorCode": "#000000",
+	"colorCode3": "#ffffff",   
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-16"
   }	
 ]
