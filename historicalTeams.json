@@ -3113,7 +3113,25 @@
     "timezone": "America/Chicago",
     "startDate": "2013-10-19",
     "endDate": "2013-10-21"
-  }
+  },
+  {
+	  "teamName": "Denver Bulldogs",
+	  "teamCode": "DEN",
+	  "arena": "Onion Creek Soccer Complex",
+    "arenaId": "onion_creek_soccer_complex_austin",
+    "city": "Austin, Texas",
+    "address": "5600 E William Cannon Dr, Austin, TX 78744",
+	  "website": "https://www.denverbulldogs.com/",
+	  "latitude": 30.17650188394824, 
+      "longitude": -97.74052870687647,
+	  "league": "USAFL",
+	  "timezone": "America/Denver",
+	  "startDate": "2015-10-17",
+	  "endDate": "2015-10-18",
+	  "colorCode": "#20539D",
+	  "colorCode2": "#BD002B",
+	  "colorCode3": "#FFFFFF"
+	}
 
 
 
