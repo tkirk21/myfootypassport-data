@@ -3021,7 +3021,7 @@
 	  "league": "USAFL",
 	  "timezone": "America/Denver",
 	  "startDate": "2015-08-29",
-	  "endDate": "2026-08-30",
+	  "endDate": "2016-08-30",
 	  "colorCode": "#20539D",
 	  "colorCode2": "#BD002B",
 	  "colorCode3": "#FFFFFF"
@@ -3040,6 +3040,24 @@
 	  "timezone": "America/Denver",
 	  "startDate": "2017-07-08",
 	  "endDate": "2017-07-09",
+	  "colorCode": "#20539D",
+	  "colorCode2": "#BD002B",
+	  "colorCode3": "#FFFFFF"
+	},
+	{
+	  "teamName": "Denver Bulldogs",
+	  "teamCode": "DEN",
+	  "arena": "Cranmer Park",
+	  "arenaId": "cranmer_park_denver",
+	  "city": "Denver, Colorado",
+	  "address": "4501 E 1st Ave, Denver, CO 80220",
+	  "website": "https://www.denverbulldogs.com/",
+	  "latitude": 39.71937430371553, 
+	  "longitude": -104.9359181519271,
+	  "league": "USAFL",
+	  "timezone": "America/Denver",
+	  "startDate": "2018-08-18",
+	  "endDate": "2018-08-19",
 	  "colorCode": "#20539D",
 	  "colorCode2": "#BD002B",
 	  "colorCode3": "#FFFFFF"
