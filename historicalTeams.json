@@ -3127,13 +3127,63 @@
 	  "league": "USAFL",
 	  "timezone": "America/Denver",
 	  "startDate": "2015-10-17",
-	  "endDate": "2015-10-18",
+	  "endDate": "2015-10-19",
 	  "colorCode": "#20539D",
 	  "colorCode2": "#BD002B",
 	  "colorCode3": "#FFFFFF"
+	},
+	{
+	  "teamName": "Dallas Outlaws",
+	  "teamCode": "DAL",
+	  "arena": "Lake Highlands Park",
+    "arenaId": "lake_highlands_Park_dallas",
+    "city": "Dallas, Texas",
+    "address": "9500 E Lake Highlands Dr, Dallas, TX 75218",
+	  "website": null,
+	  "latitude": 32.84137965809048, 
+      "longitude": -96.70624791352833,
+	  "league": "USAFL",
+	  "timezone": "America/Denver",
+	  "startDate": "1997-01-01",
+	  "endDate": "1999-12-31",
+	  "colorCode": "#000000",
+	  "colorCode2": "#FFFFFF"
+	},
+	{
+	  "teamName": "Dallas Magpies",
+	  "teamCode": "DAL",
+	  "arena": "Lake Highlands Park",
+    "arenaId": "lake_highlands_Park_dallas",
+    "city": "Dallas, Texas",
+    "address": "9500 E Lake Highlands Dr, Dallas, TX 75218",
+	  "website": null,
+	  "latitude": 32.84137965809048, 
+      "longitude": -96.70624791352833,
+	  "league": "USAFL",
+	  "timezone": "America/Denver",
+	  "startDate": "2000-01-01",
+	  "endDate": "2018-12-31",
+	  "colorCode": "#000000",
+	  "colorCode2": "#FFFFFF"
+	},
+	{
+	  "teamName": "Dallas Dingos",
+	  "teamCode": "DAL",
+	  "arena": "Lake Highlands Park",
+    "arenaId": "lake_highlands_Park_dallas",
+    "city": "Dallas, Texas",
+    "address": "9500 E Lake Highlands Dr, Dallas, TX 75218",
+	  "website": null,
+	  "latitude": 32.84137965809048, 
+      "longitude": -96.70624791352833,
+	  "league": "USAFL",
+	  "timezone": "America/Denver",
+	  "startDate": "2019-01-01",
+	  "endDate": "2023-12-31",
+	  "colorCode": "#00113F",
+	  "colorCode2": "#FDB90B",
+	  "colorCode3": "#FFFFFF"	
 	}
-
-
 
 
 
