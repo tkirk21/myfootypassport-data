@@ -3079,6 +3079,25 @@
 	  "colorCode": "#FF0000",
 	  "colorCode2": "#ffffff",
       "colorCode3": "#000000"
-	}
+	},
+   {
+    "teamName": "Minnesota Freeze",
+    "teamCode": "MIN",
+    "arena": "Lake Nokomis",
+    "arenaId": "lake_nokomis_minnepolis",
+    "city": "Minneapolis, Minnesota",
+    "address": "4955 W Lake Nokomis Pkwy, Minneapolis, MN 55417",
+    "website": "mnfreeze.com",
+    "latitude": 44.91394705474537, 
+    "longitude": -93.24591413877644, 
+    "colorCode2": "#ffffff",
+    "colorCode": "#012556",
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "2013-02-01",
+    "endDate": "2020-12-31"
+  }
+
+	
 	
 ]
