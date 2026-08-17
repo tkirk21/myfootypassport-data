@@ -3096,7 +3096,31 @@
     "timezone": "America/Chicago",
     "startDate": "2013-02-01",
     "endDate": "2020-12-31"
-  }
+  },
+  {
+    "teamName": "Minnesota Freeze",
+    "teamCode": "MIN",
+    "arena": "Onion Creek Soccer Complex",
+    "arenaId": "onion_creek_soccer_complex_austin",
+    "city": "Austin, Texas",
+    "address": "5600 E William Cannon Dr, Austin, TX 78744",
+    "website": "mnfreeze.com",
+    "latitude": 30.17650188394824, 
+    "longitude": -97.74052870687647, 
+    "colorCode2": "#ffffff",
+    "colorCode": "#012556",
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "2013-10-19,
+    "endDate": "2013-10-21"
+  },
+
+
+
+
+
+
+	
 
 	
 	
