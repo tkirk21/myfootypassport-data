@@ -3200,14 +3200,47 @@
     "timezone": "America/Chicago",
     "startDate": "2023-01-01",
     "endDate": "2025-12-31"
-  }	
-	
+  },
+  {
+    "teamName": "St. Louis Blues",
+    "teamCode": "STL",
+    "arena": "Premier Sports Campus",
+    "arenaId": "premier_sports_campus_lakewood_ranch",
+    "city": "Lakewood Ranch, Florida",
+    "address": "5895 Post Blvd, Lakewood Ranch, FL 34211",
+    "website": "bluesfooty.com",
+    "latitude": 27.438924120263966, 
+    "longitude": -82.38102315590139,
+    "colorCode": "#031829",
+	"colorCode2": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "2023-10-14",
+    "endDate": "2023-12-16"
+  },
+  {
+    "teamName": "St. Louis Blues",
+    "teamCode": "STL",
+    "arena": "Premier Sports Campus",
+    "arenaId": "premier_sports_campus_lakewood_ranch",
+    "city": "Lakewood Ranch, Florida",
+    "address": "5895 Post Blvd, Lakewood Ranch, FL 34211",
+    "website": "bluesfooty.com",
+    "latitude": 27.438924120263966, 
+    "longitude": -82.38102315590139,
+    "colorCode": "#031829",
+	"colorCode2": "#FFFFFF",
+    "league": "USAFL",
+    "timezone": "America/Chicago",
+    "startDate": "2026-10-17",
+    "endDate": "2026-12-20"
+  }			
 
 
 
 
 	
-
+ 
 	
 	
 ]
