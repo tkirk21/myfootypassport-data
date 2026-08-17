@@ -3069,16 +3069,16 @@
 	  "arenaId": "des_moines_rugby_club_west_des_moines",
 	  "city": "West Des Moines, Iowa",
 	  "address": "120 39th St, West Des Moines, IA 50266",
-	  "website": null,
+	  "website": "desmoinesroosters.com",
 	  "latitude": 41.57176666431459, 
 	  "longitude": -93.75797671482276,
 	  "league": "USAFL",
 	  "timezone": "America/Denver",
-	  "startDate": "2013-08-18",
+	  "startDate": "2013-04-01",
 	  "endDate": "2023-08-19",
-	  "colorCode": "#20539D",
-	  "colorCode2": "#BD002B",
-	  "colorCode3": "#FFFFFF"
+	  "colorCode": "#FF0000",
+	  "colorCode2": "#ffffff",
+      "colorCode3": "#000000",
 	}
 	
 ]
