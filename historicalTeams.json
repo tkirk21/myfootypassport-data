@@ -1894,6 +1894,23 @@
     "endDate": "2019-10-01"
   },
   {
+    "teamName": "Pennant Hills Demons",
+    "teamCode": "PH",
+    "arena": "Blacktown International Sportspark",
+    "arenaId": "blacktown_international_sportspark_rooty_hill",
+    "city": "Rooty Hill, NSW",
+    "address": "Eastern Rd, Rooty Hill NSW 2766, Australia",
+    "website": "phafl.com.au",
+    "latitude": -33.7692664309194,  
+    "longitude": 150.85930718079,
+    "colorCode": "#FFCD00",
+	"colorCode2": "#000099",
+    "league": "AFLS",
+    "timezone": "Australia/Sydney",
+    "startDate": "2026-08-30",
+    "endDate": "2026-09-01"
+  },		
+  {
     "teamName": "South West Sydney Blues",
     "teamCode": "SWS",
     "arena": "Rosedale Oval",
@@ -1943,6 +1960,23 @@
     "timezone": "Australia/Sydney",
     "startDate": "2026-03-28",
     "endDate": "2026-04-01"
+  },
+  {
+    "teamName": "Sydney University Students",
+    "teamCode": "SU",
+    "arena": "Blacktown International Sportspark",
+    "arenaId": "blacktown_international_sportspark_rooty_hill",
+    "city": "Rooty Hill, NSW",
+    "address": "Eastern Rd, Rooty Hill NSW 2766, Australia",
+    "website": "suanfc.com",
+    "latitude": -33.7692664309194,  
+    "longitude": 150.85930718079,
+    "colorCode": "#FFCD00",
+	"colorCode2": "#000099",
+    "league": "AFLS",
+    "timezone": "Australia/Sydney",
+    "startDate": "2026-08-29",
+    "endDate": "2026-08-30"
   },	
   {
     "teamName": "Sydney University Students",
