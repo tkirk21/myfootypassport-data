@@ -1,101 +1,36 @@
 [
   {
-    "id": "qafl_2026081501",
-    "league": "QAFL",
-    "team": "Noosa Tigers",
-    "opponent": "Palm Beach Currumbin Lions",
-    "arena": "Rococo Oval",
-    "date": "2026-08-15T03:00:00Z"
-  },
-  {
-    "id": "qafl_2026081502",
-    "league": "QAFL",
-    "team": "Maroochydore Roos",
-    "opponent": "Broadbeach Cats",
-    "arena": "Neil Upton Oval",
-    "date": "2026-08-15T04:00:00Z"
-  },
-  {
-    "id": "qafl_2026081503",
-    "league": "QAFL",
-    "team": "Coorparoo Blues",
-    "opponent": "Redland-Victoria Point Sharks",
-    "arena": "Griffen Park",
-    "date": "2026-08-15T04:00:00Z"
-  },
-  {
-    "id": "qafl_2026081504",
-    "league": "QAFL",
-    "team": "Sherwood Districts Magpies",
-    "opponent": "Labrador Tigers",
-    "arena": "Powenyenna Oval",
-    "date": "2026-08-15T04:00:00Z"
-  },
-  {
-    "id": "qafl_2026081505",
-    "league": "QAFL",
-    "team": "Surfers Paradise Demons",
-    "opponent": "Aspley Hornets",
-    "arena": "Kallibr Homes Oval",
-    "date": "2026-08-15T04:00:00Z"
-  },
-  {
-    "id": "qafl_2026081506",
-    "league": "QAFL",
-    "team": "Wilston Grange Gorillas",
-    "opponent": "Mount Gravatt Vultures",
-    "arena": "Hickey Park",
-    "date": "2026-08-15T04:00:00Z"
-  },
-  {
-    "id": "qafl_2026082201",
-    "league": "QAFL",
-    "team": "Labrador Tigers",
-    "opponent": "Coorparoo Blues",
-    "arena": "Cooke-Murphy Oval",
-    "date": "2026-08-22T04:00:00Z"
-  },
-  {
-    "id": "qafl_2026082202",
-    "league": "QAFL",
-    "team": "Mount Gravatt Vultures",
-    "opponent": "Noosa Tigers",
-    "arena": "Dittmer Park",
-    "date": "2026-08-22T04:00:00Z"
-  },
-  {
-    "id": "qafl_2026082203",
+    "id": "qafl_2026082901",
     "league": "QAFL",
     "team": "Palm Beach Currumbin Lions",
-    "opponent": "Broadbeach Cats",
+    "opponent": "Maroochydore Roos",
     "arena": "Salk Oval",
-    "date": "2026-08-22T04:00:00Z"
+    "date": "2026-08-29T04:10:00Z"
   },
   {
-    "id": "qafl_2026082204",
-    "league": "QAFL",
-    "team": "Maroochydore Roos",
-    "opponent": "Redland-Victoria Point Sharks",
-    "arena": "Neil Upton Oval",
-    "date": "2026-08-22T04:00:00Z"
-  },
-  {
-    "id": "qafl_2026082205",
+    "id": "qafl_2026082902",
     "league": "QAFL",
     "team": "Morningside Panthers",
     "opponent": "Surfers Paradise Demons",
     "arena": "Jack Esplen Oval",
-    "date": "2026-08-22T04:00:00Z"
+    "date": "2026-08-29T04:10:00Z"
   },
   {
-    "id": "qafl_2026082206",
+    "id": "qafl_2026082903",
     "league": "QAFL",
-    "team": "Wilston Grange Gorillas",
-    "opponent": "Aspley Hornets",
-    "arena": "Hickey Park",
-    "date": "2026-08-22T04:00:00Z"
+    "team": "Redland-Victoria Point Sharks",
+    "opponent": "Noosa Tigers",
+    "arena": "Totally Workwear Park",
+    "date": "2026-08-29T04:10:00Z"
+  },
+  {
+    "id": "qafl_2026082904",
+    "league": "QAFL",
+    "team": "Labrador Tigers",
+    "opponent": "Broadbeach Cats",
+    "arena": "Cooke-Murphy Oval",
+    "date": "2026-08-29T04:10:00Z"
   }
-
 
   
 ]
