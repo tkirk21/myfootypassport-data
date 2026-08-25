@@ -1,1 +1,542 @@
-[]
+[
+  {
+    "id": "ntfl_202610021030",
+    "league": "NTFL",
+    "team": "Nightcliff Tigers",
+    "opponent": "St Mary's Saints",
+    "arena": "Bendigo Community Bank Oval",
+    "city": "Nightcliff, NT",
+    "date": "2026-10-02T10:30:00Z"
+  },
+  {
+    "id": "ntfl_202610030730",
+    "league": "NTFL",
+    "team": "Palmerston Magpies",
+    "opponent": "Tiwi Bombers",
+    "arena": "Cazalys Arena",
+    "city": "Durack, NT",
+    "date": "2026-10-03T07:30:00Z"
+  },
+  {
+    "id": "ntfl_202610030900",
+    "league": "NTFL",
+    "team": "Darwin Buffaloes",
+    "opponent": "Wanderers Eagles",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-10-03T09:00:00Z"
+  },
+  {
+    "id": "ntfl_202610031000",
+    "league": "NTFL",
+    "team": "Southern Districts Crocs",
+    "opponent": "Waratah Warriors",
+    "arena": "Norbuilt Oval",
+    "city": "Freds Pass, NT",
+    "date": "2026-10-03T10:00:00Z"
+  },
+  {
+    "id": "ntfl_202610040630",
+    "league": "NTFL",
+    "team": "Banks Bulldogs",
+    "opponent": "PINT Greenants",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-10-04T06:30:00Z"
+  },
+  {
+    "id": "ntfl_202610091030",
+    "league": "NTFL",
+    "team": "Palmerston Magpies",
+    "opponent": "Waratah Warriors",
+    "arena": "Cazalys Arena",
+    "city": "Durack, NT",
+    "date": "2026-10-09T10:30:00Z"
+  },
+  {
+    "id": "ntfl_202610100300",
+    "league": "NTFL",
+    "team": "Tiwi Bombers",
+    "opponent": "Nightcliff Tigers",
+    "arena": "Stanley Tipiloura Oval",
+    "city": "Wurrumiyanga, NT",
+    "date": "2026-10-10T03:00:00Z"
+  },
+  {
+    "id": "ntfl_202610100530",
+    "league": "NTFL",
+    "team": "Darwin Buffaloes",
+    "opponent": "PINT Greenants",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-10-10T05:30:00Z"
+  },
+  {
+    "id": "ntfl_202610100800",
+    "league": "NTFL",
+    "team": "St Mary's Saints",
+    "opponent": "Wanderers Eagles",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-10-10T08:00:00Z"
+  },
+  {
+    "id": "ntfl_202610100900",
+    "league": "NTFL",
+    "team": "Banks Bulldogs",
+    "opponent": "Southern Districts Crocs",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-10-10T09:00:00Z"
+  },
+  {
+    "id": "ntfl_202610160930",
+    "league": "NTFL",
+    "team": "Tiwi Bombers",
+    "opponent": "Darwin Buffaloes",
+    "arena": "Stanley Tipiloura Oval",
+    "city": "Wurrumiyanga, NT",
+    "date": "2026-10-16T09:30:00Z"
+  },
+  {
+    "id": "ntfl_202610170745",
+    "league": "NTFL",
+    "team": "Palmerston Magpies",
+    "opponent": "PINT Greenants",
+    "arena": "Cazalys Arena",
+    "city": "Durack, NT",
+    "date": "2026-10-17T07:45:00Z"
+  },
+  {
+    "id": "ntfl_202610170900",
+    "league": "NTFL",
+    "team": "Waratah Warriors",
+    "opponent": "Banks Bulldogs",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-10-17T09:00:00Z"
+  },
+  {
+    "id": "ntfl_202610170930",
+    "league": "NTFL",
+    "team": "St Mary's Saints",
+    "opponent": "Southern Districts Crocs",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-10-17T09:30:00Z"
+  },
+  {
+    "id": "ntfl_202610180830",
+    "league": "NTFL",
+    "team": "Nightcliff Tigers",
+    "opponent": "Wanderers Eagles",
+    "arena": "Bendigo Community Bank Oval",
+    "city": "Nightcliff, NT",
+    "date": "2026-10-18T08:30:00Z"
+  },
+  {
+    "id": "ntfl_202610230930",
+    "league": "NTFL",
+    "team": "Waratah Warriors",
+    "opponent": "Tiwi Bombers",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-10-23T09:30:00Z"
+  },
+  {
+    "id": "ntfl_202610240630",
+    "league": "NTFL",
+    "team": "Nightcliff Tigers",
+    "opponent": "Darwin Buffaloes",
+    "arena": "Bendigo Community Bank Oval",
+    "city": "Nightcliff, NT",
+    "date": "2026-10-24T06:30:00Z"
+  },
+  {
+    "id": "ntfl_202610240730",
+    "league": "NTFL",
+    "team": "Banks Bulldogs",
+    "opponent": "Wanderers Eagles",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-10-24T07:30:00Z"
+  },
+  {
+    "id": "ntfl_202610240900",
+    "league": "NTFL",
+    "team": "Southern Districts Crocs",
+    "opponent": "PINT Greenants",
+    "arena": "Norbuilt Oval",
+    "city": "Freds Pass, NT",
+    "date": "2026-10-24T09:00:00Z"
+  },
+  {
+    "id": "ntfl_202610241000",
+    "league": "NTFL",
+    "team": "St Mary's Saints",
+    "opponent": "Palmerston Magpies",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-10-24T10:00:00Z"
+  },
+  {
+    "id": "ntfl_202610300930",
+    "league": "NTFL",
+    "team": "Nightcliff Tigers",
+    "opponent": "Southern Districts Crocs",
+    "arena": "Bendigo Community Bank Oval",
+    "city": "Nightcliff, NT",
+    "date": "2026-10-30T09:30:00Z"
+  },
+  {
+    "id": "ntfl_202610310400",
+    "league": "NTFL",
+    "team": "Tiwi Bombers",
+    "opponent": "Banks Bulldogs",
+    "arena": "Stanley Tipiloura Oval",
+    "city": "Wurrumiyanga, NT",
+    "date": "2026-10-31T04:00:00Z"
+  },
+  {
+    "id": "ntfl_202610310730",
+    "league": "NTFL",
+    "team": "Darwin Buffaloes",
+    "opponent": "St Mary's Saints",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-10-31T07:30:00Z"
+  },
+  {
+    "id": "ntfl_202610310730_2",
+    "league": "NTFL",
+    "team": "PINT Greenants",
+    "opponent": "Waratah Warriors",
+    "arena": "DXC Arena",
+    "city": "Marrara, NT",
+    "date": "2026-10-31T07:30:00Z"
+  },
+  {
+    "id": "ntfl_202610311000",
+    "league": "NTFL",
+    "team": "Wanderers Eagles",
+    "opponent": "Palmerston Magpies",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-10-31T10:00:00Z"
+  },
+  {
+    "id": "ntfl_202611061030",
+    "league": "NTFL",
+    "team": "St Mary's Saints",
+    "opponent": "Banks Bulldogs",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-11-06T10:30:00Z"
+  },
+  {
+    "id": "ntfl_202611070400",
+    "league": "NTFL",
+    "team": "Tiwi Bombers",
+    "opponent": "PINT Greenants",
+    "arena": "Stanley Tipiloura Oval",
+    "city": "Wurrumiyanga, NT",
+    "date": "2026-11-07T04:00:00Z"
+  },
+  {
+    "id": "ntfl_202611070630",
+    "league": "NTFL",
+    "team": "Palmerston Magpies",
+    "opponent": "Nightcliff Tigers",
+    "arena": "Cazalys Arena",
+    "city": "Durack, NT",
+    "date": "2026-11-07T06:30:00Z"
+  },
+  {
+    "id": "ntfl_202611070630_2",
+    "league": "NTFL",
+    "team": "Waratah Warriors",
+    "opponent": "Wanderers Eagles",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-11-07T06:30:00Z"
+  },
+  {
+    "id": "ntfl_202611080630",
+    "league": "NTFL",
+    "team": "Southern Districts Crocs",
+    "opponent": "Darwin Buffaloes",
+    "arena": "Norbuilt Oval",
+    "city": "Freds Pass, NT",
+    "date": "2026-11-08T06:30:00Z"
+  },
+  {
+    "id": "ntfl_202611140730",
+    "league": "NTFL",
+    "team": "Wanderers Eagles",
+    "opponent": "Tiwi Bombers",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-11-14T07:30:00Z"
+  },
+  {
+    "id": "ntfl_202611140900",
+    "league": "NTFL",
+    "team": "Southern Districts Crocs",
+    "opponent": "Palmerston Magpies",
+    "arena": "Norbuilt Oval",
+    "city": "Freds Pass, NT",
+    "date": "2026-11-14T09:00:00Z"
+  },
+  {
+    "id": "ntfl_202611140930",
+    "league": "NTFL",
+    "team": "PINT Greenants",
+    "opponent": "St Mary's Saints",
+    "arena": "DXC Arena",
+    "city": "Marrara, NT",
+    "date": "2026-11-14T09:30:00Z"
+  },
+  {
+    "id": "ntfl_202611141000",
+    "league": "NTFL",
+    "team": "Darwin Buffaloes",
+    "opponent": "Banks Bulldogs",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-11-14T10:00:00Z"
+  },
+  {
+    "id": "ntfl_202611150800",
+    "league": "NTFL",
+    "team": "Waratah Warriors",
+    "opponent": "Nightcliff Tigers",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-11-15T08:00:00Z"
+  },
+  {
+    "id": "ntfl_202611210400",
+    "league": "NTFL",
+    "team": "Tiwi Bombers",
+    "opponent": "Southern Districts Crocs",
+    "arena": "Stanley Tipiloura Oval",
+    "city": "Wurrumiyanga, NT",
+    "date": "2026-11-21T04:00:00Z"
+  },
+  {
+    "id": "ntfl_202611210730",
+    "league": "NTFL",
+    "team": "Wanderers Eagles",
+    "opponent": "PINT Greenants",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-11-21T07:30:00Z"
+  },
+  {
+    "id": "ntfl_202611210930",
+    "league": "NTFL",
+    "team": "Nightcliff Tigers",
+    "opponent": "Banks Bulldogs",
+    "arena": "Bendigo Community Bank Oval",
+    "city": "Nightcliff, NT",
+    "date": "2026-11-21T09:30:00Z"
+  },
+  {
+    "id": "ntfl_202611211000",
+    "league": "NTFL",
+    "team": "St Mary's Saints",
+    "opponent": "Waratah Warriors",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-11-21T10:00:00Z"
+  },
+  {
+    "id": "ntfl_202611220630",
+    "league": "NTFL",
+    "team": "Darwin Buffaloes",
+    "opponent": "Palmerston Magpies",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-11-22T06:30:00Z"
+  },
+  {
+    "id": "ntfl_202611280700",
+    "league": "NTFL",
+    "team": "PINT Greenants",
+    "opponent": "Nightcliff Tigers",
+    "arena": "DXC Arena",
+    "city": "Marrara, NT",
+    "date": "2026-11-28T07:00:00Z"
+  },
+  {
+    "id": "ntfl_202611280730",
+    "league": "NTFL",
+    "team": "Waratah Warriors",
+    "opponent": "Darwin Buffaloes",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-11-28T07:30:00Z"
+  },
+  {
+    "id": "ntfl_202611280830",
+    "league": "NTFL",
+    "team": "Southern Districts Crocs",
+    "opponent": "Wanderers Eagles",
+    "arena": "Norbuilt Oval",
+    "city": "Freds Pass, NT",
+    "date": "2026-11-28T08:30:00Z"
+  },
+  {
+    "id": "ntfl_202611281000",
+    "league": "NTFL",
+    "team": "St Mary's Saints",
+    "opponent": "Tiwi Bombers",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-11-28T10:00:00Z"
+  },
+  {
+    "id": "ntfl_202611290630",
+    "league": "NTFL",
+    "team": "Banks Bulldogs",
+    "opponent": "Palmerston Magpies",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-11-29T06:30:00Z"
+  },
+  {
+    "id": "ntfl_202612040930",
+    "league": "NTFL",
+    "team": "Tiwi Bombers",
+    "opponent": "Palmerston Magpies",
+    "arena": "Stanley Tipiloura Oval",
+    "city": "Wurrumiyanga, NT",
+    "date": "2026-12-04T09:30:00Z"
+  },
+  {
+    "id": "ntfl_202612050630",
+    "league": "NTFL",
+    "team": "Wanderers Eagles",
+    "opponent": "Darwin Buffaloes",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-12-05T06:30:00Z"
+  },
+  {
+    "id": "ntfl_202612050630_2",
+    "league": "NTFL",
+    "team": "Waratah Warriors",
+    "opponent": "Southern Districts Crocs",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-12-05T06:30:00Z"
+  },
+  {
+    "id": "ntfl_202612050900",
+    "league": "NTFL",
+    "team": "St Mary's Saints",
+    "opponent": "Nightcliff Tigers",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-12-05T09:00:00Z"
+  },
+  {
+    "id": "ntfl_202612050930",
+    "league": "NTFL",
+    "team": "PINT Greenants",
+    "opponent": "Banks Bulldogs",
+    "arena": "DXC Arena",
+    "city": "Marrara, NT",
+    "date": "2026-12-05T09:30:00Z"
+  },
+  {
+    "id": "ntfl_202612120500",
+    "league": "NTFL",
+    "team": "Southern Districts Crocs",
+    "opponent": "Banks Bulldogs",
+    "arena": "Norbuilt Oval",
+    "city": "Freds Pass, NT",
+    "date": "2026-12-12T05:00:00Z"
+  },
+  {
+    "id": "ntfl_202612120630",
+    "league": "NTFL",
+    "team": "Wanderers Eagles",
+    "opponent": "St Mary's Saints",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-12-12T06:30:00Z"
+  },
+  {
+    "id": "ntfl_202612120730",
+    "league": "NTFL",
+    "team": "Nightcliff Tigers",
+    "opponent": "Tiwi Bombers",
+    "arena": "Bendigo Community Bank Oval",
+    "city": "Nightcliff, NT",
+    "date": "2026-12-12T07:30:00Z"
+  },
+  {
+    "id": "ntfl_202612120930",
+    "league": "NTFL",
+    "team": "PINT Greenants",
+    "opponent": "Darwin Buffaloes",
+    "arena": "DXC Arena",
+    "city": "Marrara, NT",
+    "date": "2026-12-12T09:30:00Z"
+  },
+  {
+    "id": "ntfl_202612121000",
+    "league": "NTFL",
+    "team": "Waratah Warriors",
+    "opponent": "Palmerston Magpies",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-12-12T10:00:00Z"
+  },
+  {
+    "id": "ntfl_202612181030",
+    "league": "NTFL",
+    "team": "Tiwi Bombers",
+    "opponent": "Wanderers Eagles",
+    "arena": "Stanley Tipiloura Oval",
+    "city": "Wurrumiyanga, NT",
+    "date": "2026-12-18T10:30:00Z"
+  },
+  {
+    "id": "ntfl_202612190700",
+    "league": "NTFL",
+    "team": "Banks Bulldogs",
+    "opponent": "Darwin Buffaloes",
+    "arena": "Gardens Oval",
+    "city": "The Gardens, NT",
+    "date": "2026-12-19T07:00:00Z"
+  },
+  {
+    "id": "ntfl_202612190830",
+    "league": "NTFL",
+    "team": "Nightcliff Tigers",
+    "opponent": "Waratah Warriors",
+    "arena": "Bendigo Community Bank Oval",
+    "city": "Nightcliff, NT",
+    "date": "2026-12-19T08:30:00Z"
+  },
+  {
+    "id": "ntfl_202612190930",
+    "league": "NTFL",
+    "team": "Palmerston Magpies",
+    "opponent": "Southern Districts Crocs",
+    "arena": "Cazalys Arena",
+    "city": "Durack, NT",
+    "date": "2026-12-19T09:30:00Z"
+  },
+  {
+    "id": "ntfl_202612200730",
+    "league": "NTFL",
+    "team": "St Mary's Saints",
+    "opponent": "PINT Greenants",
+    "arena": "TIO Stadium",
+    "city": "Marrara, NT",
+    "date": "2026-12-20T07:30:00Z"
+  }  
+]
