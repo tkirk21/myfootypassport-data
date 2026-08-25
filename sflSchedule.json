@@ -1,58 +1,5 @@
 [
-  {
-    "id": "sfl_2026081501",
-    "league": "SFL",
-    "team": "North Hobart Demons",
-    "opponent": "Glenorchy Magpies",
-    "arena": "North Hobart Oval",
-    "city": "North Hobart, TAS",
-    "date": "2026-08-15T03:00:00Z"
-  },
-  {
-    "id": "sfl_2026081502",
-    "league": "SFL",
-    "team": "Clarence Roos",
-    "opponent": "Kingborough Tigers",
-    "arena": "Ninja Stadium",
-    "city": "Bellerive, TAS",
-    "date": "2026-08-15T03:00:00Z"
-  },
-  {
-    "id": "sfl_2026081503",
-    "league": "SFL",
-    "team": "Brighton Robins",
-    "opponent": "Lauderdale Bombers",
-    "arena": "Brighton Regional Sports Complex",
-    "city": "Brighton, TAS",
-    "date": "2026-08-15T03:00:00Z"
-  },
-  {
-    "id": "sfl_2026082201",
-    "league": "SFL",
-    "team": "Glenorchy Magpies",
-    "opponent": "Kingborough Tigers",
-    "arena": "KGV Oval",
-    "city": "Glenorchy, TAS",
-    "date": "2026-08-22T03:00:00Z"
-  },
-  {
-    "id": "sfl_2026082202",
-    "league": "SFL",
-    "team": "Brighton Robins",
-    "opponent": "Clarence Roos",
-    "arena": "Brighton Regional Sports Complex",
-    "city": "Brighton, TAS",
-    "date": "2026-08-22T03:00:00Z"
-  },
-  {
-    "id": "sfl_2026082203",
-    "league": "SFL",
-    "team": "Lauderdale Bombers",
-    "opponent": "North Hobart Demons",
-    "arena": "Lauderdale Oval",
-    "city": "Lauderdale, TAS",
-    "date": "2026-08-22T04:00:00Z"
-  },
+  
   {
     "id": "sfl_2026082901",
     "league": "SFL",
