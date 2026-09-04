@@ -1,26 +1,23 @@
 [
 
   {
-    "homeTeam": "Claremont Tigers",
-    "awayTeam": "Perth Demons",
-    "date": "2026-08-29",
-    "time": "13:10",
-    "arena": "Revo Fitness Stadium",
-    "arenaId": "revo_fitness_stadium_claremont",
-    "city": "Claremont, WA",
-    "timezone": "Australia/Perth",
-    "league": "WAFL"
+    "id": "wafl_2026090501",
+    "league": "WAFL",
+    "team": "Peel Thunder",
+    "opponent": "Claremont Tigers",
+    "arena": "Lane Group Stadium",
+    "city": "Mandurah, WA",
+    "date": "2026-09-05T06:30:02Z"
   },
+  
   {
-    "homeTeam": "South Fremantle Bulldogs",
-    "awayTeam": "East Perth Royals",
-    "date": "2026-08-30",
-    "time": "13:10",
-    "arena": "Fremantle Community Bank Oval",
-    "arenaId": "fremantle_community_bank_oval_fremantle",
-    "city": "Fremantle, WA",
-    "timezone": "Australia/Perth",
-    "league": "WAFL"
+    "id": "wafl_2026090502",
+    "league": "WAFL",
+    "team": "Perth Demons",
+    "opponent": "East Perth Royals",
+    "arena": "Mineral Resources Park",
+    "city": "Lathlain, WA",
+    "date": "2026-09-05T06:30:05Z"
   }
   
 
