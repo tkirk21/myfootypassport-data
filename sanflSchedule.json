@@ -1,20 +1,21 @@
 [
  {
-    "id": "sanfl_2026083001",
-    "league": "SANFL",
-    "team": "Woodville-West Torrens Eagles",
-    "opponent": "West Adelaide Bloods",
-    "arena": "Adelaide Oval",
-    "city": "North Adelaide, SA",
-    "date": "2026-08-30T02:45:00Z"
-  },
-  {
-    "id": "sanfl_2026083002",
-    "league": "SANFL",
-    "team": "Glenelg Tigers",
-    "opponent": "Sturt Double Blues",
-    "arena": "Adelaide Oval",
-    "city": "North Adelaide, SA",
-    "date": "2026-08-30T05:45:00Z"
-  }
+   "id": "sanfl_2026090601",
+   "league": "SANFL",
+   "team": "Glenelg Tigers",
+   "opponent": "Woodville-West Torrens Eagles",
+   "arena": "Adelaide Oval",
+   "city": "North Adelaide, SA",
+   "date": "2026-09-06T02:45:00Z"
+ },
+ 
+ {
+   "id": "sanfl_2026090602",
+   "league": "SANFL",
+   "team": "Norwood Redlegs",
+   "opponent": "Sturt Double Blues",
+   "arena": "Adelaide Oval",
+   "city": "North Adelaide, SA",
+   "date": "2026-09-06T05:45:00Z"
+ }
 ]
