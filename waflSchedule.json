@@ -1,23 +1,13 @@
 [
 
   {
-    "id": "wafl_2026090501",
+    "id": "wafl_2026091303",
     "league": "WAFL",
-    "team": "Peel Thunder",
-    "opponent": "Claremont Tigers",
-    "arena": "Lane Group Stadium",
-    "city": "Mandurah, WA",
-    "date": "2026-09-05T06:30:02Z"
-  },
-  
-  {
-    "id": "wafl_2026090502",
-    "league": "WAFL",
-    "team": "Perth Demons",
+    "team": "Claremont Tigers",
     "opponent": "East Perth Royals",
-    "arena": "Mineral Resources Park",
-    "city": "Lathlain, WA",
-    "date": "2026-09-05T06:30:05Z"
+    "arena": "Revo Fitness Stadium",
+    "city": "Claremont, WA",
+    "date": "2026-09-13T06:10:09Z"
   }
   
 
