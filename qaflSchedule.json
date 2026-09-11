@@ -1,36 +1,43 @@
 [
   {
-    "id": "qafl_2026082901",
-    "league": "QAFL",
-    "team": "Palm Beach Currumbin Lions",
-    "opponent": "Maroochydore Roos",
-    "arena": "Salk Oval",
-    "date": "2026-08-29T04:10:00Z"
-  },
-  {
-    "id": "qafl_2026082902",
-    "league": "QAFL",
-    "team": "Morningside Panthers",
-    "opponent": "Surfers Paradise Demons",
-    "arena": "Jack Esplen Oval",
-    "date": "2026-08-29T04:10:00Z"
-  },
-  {
-    "id": "qafl_2026082903",
-    "league": "QAFL",
-    "team": "Redland-Victoria Point Sharks",
-    "opponent": "Noosa Tigers",
-    "arena": "Totally Workwear Park",
-    "date": "2026-08-29T04:10:00Z"
-  },
-  {
-    "id": "qafl_2026082904",
-    "league": "QAFL",
-    "team": "Labrador Tigers",
-    "opponent": "Broadbeach Cats",
-    "arena": "Cooke-Murphy Oval",
-    "date": "2026-08-29T04:10:00Z"
-  }
+  "id": "qafl_2026090501",
+  "league": "QAFL",
+  "team": "Maroochydore Roos",
+  "opponent": "Redland-Victoria Point Sharks",
+  "arena": "Neil Upton Oval",
+  "city": "Maroochydore, QLD",
+  "date": "2026-09-05T04:10:00Z"
+},
+
+{
+  "id": "qafl_2026090502",
+  "league": "QAFL",
+  "team": "Surfers Paradise Demons",
+  "opponent": "Labrador Tigers",
+  "arena": "Kallibr Homes Oval",
+  "city": "Benowa, QLD",
+  "date": "2026-09-05T04:10:00Z"
+},
+
+{
+  "id": "qafl_2026091203",
+  "league": "QAFL",
+  "team": "Palm Beach Currumbin Lions",
+  "opponent": "Surfers Paradise Demons",
+  "arena": "Salk Oval",
+  "city": "Palm Beach, QLD",
+  "date": "2026-09-12T04:10:00Z"
+},
+
+{
+  "id": "qafl_2026091204",
+  "league": "QAFL",
+  "team": "Morningside Panthers",
+  "opponent": "Redland-Victoria Point Sharks",
+  "arena": "Jack Esplen Oval",
+  "city": "Hawthorne, QLD",
+  "date": "2026-09-12T04:10:00Z"
+}
 
   
 ]
