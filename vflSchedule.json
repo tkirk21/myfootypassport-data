@@ -1,21 +1,21 @@
 [
   {
-    "id": "vfl_2026090501",
+    "id": "vfl_2026091203",
     "league": "VFL",
-    "team": "Tasmania Devils",
+    "team": "Box Hill Hawks",
     "opponent": "Essendon Bombers Reserves",
-    "arena": "North Hobart Oval",
-    "city": "North Hobart, TAS",
-    "date": "2026-09-05T01:05:00Z"
+    "arena": "Box Hill City Oval",
+    "city": "Box Hill, VIC",
+    "date": "2026-09-12T01:05:00Z"
   },
   
   {
-    "id": "vfl_2026090502",
+    "id": "vfl_2026091304",
     "league": "VFL",
-    "team": "Werribee Tigers",
+    "team": "Geelong Cats Reserves",
     "opponent": "Port Melbourne Borough",
-    "arena": "Avalon Airport Oval",
-    "city": "Werribee, VIC",
-    "date": "2026-09-05T02:05:00Z"
+    "arena": "GMHBA Stadium",
+    "city": "South Geelong, VIC",
+    "date": "2026-09-13T03:35:00Z"
   }
 ]
