@@ -1,22 +1,22 @@
 [
   {
-    "id": "afl_2026091105",
+    "id": "afl_2026091807",
     "league": "AFL",
-    "team": "Fremantle Dockers",
-    "opponent": "Geelong Cats",
-    "arena": "Optus Stadium",
-    "city": "Burswood, WA",
-    "date": "2026-09-11T10:10:00Z"
+    "team": "Sydney Swans",
+    "opponent": "Fremantle Dockers",
+    "arena": "SCG",
+    "city": "Moore Park, NSW",
+    "date": "2026-09-18T09:40:00Z"
   },
   
   {
-    "id": "afl_2026091206",
+    "id": "afl_2026091908",
     "league": "AFL",
-    "team": "Brisbane Lions",
-    "opponent": "Adelaide Crows",
-    "arena": "The Gabba",
-    "city": "Woolloongabba, QLD",
-    "date": "2026-09-12T09:35:00Z"
+    "team": "Hawthorn Hawks",
+    "opponent": "Brisbane Lions",
+    "arena": "MCG",
+    "city": "East Melbourne, VIC",
+    "date": "2026-09-19T07:15:00Z"
   }
 ]
   
