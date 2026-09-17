@@ -1,21 +1,11 @@
 [
-  {
-    "id": "vfl_2026091203",
-    "league": "VFL",
-    "team": "Box Hill Hawks",
-    "opponent": "Essendon Bombers Reserves",
-    "arena": "Box Hill City Oval",
-    "city": "Box Hill, VIC",
-    "date": "2026-09-12T01:05:00Z"
-  },
-  
-  {
-    "id": "vfl_2026091304",
+ {
+    "id": "vfl_2026092005",
     "league": "VFL",
     "team": "Geelong Cats Reserves",
-    "opponent": "Port Melbourne Borough",
-    "arena": "GMHBA Stadium",
-    "city": "South Geelong, VIC",
-    "date": "2026-09-13T03:35:00Z"
+    "opponent": "Box Hill Hawks",
+    "arena": "IKON Park",
+    "city": "Carlton North, VIC",
+    "date": "2026-09-20T04:05:00Z"
   }
 ]
