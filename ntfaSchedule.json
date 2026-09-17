@@ -1,75 +1,11 @@
 [
   {
-    "id": "ntfa_2026081501",
-    "league": "NTFA",
-    "team": "North Launceston Bombers",
-    "opponent": "Longford Tigers",
-    "arena": "University of Tasmania Stadium",
-    "date": "2026-08-15T04:30:00Z"
-  },
-  {
-    "id": "ntfa_2026081502",
+    "id": "ntfa_2026091901",
     "league": "NTFA",
     "team": "South Launceston Bulldogs",
-    "opponent": "Scottsdale Magpies",
-    "arena": "Youngtown Memorial Oval",
-    "date": "2026-08-15T04:30:00Z"
-  },
-  {
-    "id": "ntfa_2026081503",
-    "league": "NTFA",
-    "team": "Deloraine Kangaroos",
     "opponent": "Launceston Blues",
-    "arena": "Deloraine Recreation Ground",
-    "date": "2026-08-15T04:30:00Z"
-  },
-  {
-    "id": "ntfa_2026082201",
-    "league": "NTFA",
-    "team": "South Launceston Bulldogs",
-    "opponent": "North Launceston Bombers",
-    "arena": "Youngtown Memorial Oval",
-    "date": "2026-08-22T04:30:00Z"
-  },
-  {
-    "id": "ntfa_2026082202",
-    "league": "NTFA",
-    "team": "Longford Tigers",
-    "opponent": "Deloraine Kangaroos",
-    "arena": "Longford Recreation Ground",
-    "date": "2026-08-22T04:30:00Z"
-  },
-  {
-    "id": "ntfa_2026082203",
-    "league": "NTFA",
-    "team": "Scottsdale Magpies",
-    "opponent": "Launceston Blues",
-    "arena": "Scottsdale Recreation Ground",
-    "date": "2026-08-22T04:30:00Z"
-  },
-  {
-    "id": "ntfa_2026082901",
-    "league": "NTFA",
-    "team": "Scottsdale Magpies",
-    "opponent": "North Launceston Bombers",
-    "arena": "Scottsdale Recreation Ground",
-    "date": "2026-08-29T04:00:00Z"
-  },
-  {
-    "id": "ntfa_2026082902",
-    "league": "NTFA",
-    "team": "Launceston Blues",
-    "opponent": "Longford Tigers",
-    "arena": "Windsor Park",
-    "date": "2026-08-29T04:00:00Z"
-  },
-  {
-    "id": "ntfa_2026082903",
-    "league": "NTFA",
-    "team": "Deloraine Kangaroos",
-    "opponent": "South Launceston Bulldogs",
-    "arena": "Deloraine Recreation Ground",
-    "date": "2026-08-29T04:00:00Z"
+    "arena": "University Of Tasmana Stadium",
+    "date": "2026-09-19T05:45:00Z"
   }
 
   
