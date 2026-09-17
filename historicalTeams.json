@@ -2048,7 +2048,42 @@
     "timezone": "Australia/Brisbane",
 	"startDate": "2026-09-19",
     "endDate": "2026-09-20"
+  },
+  {
+    "teamName": "Norwood Redlegs",
+    "teamCode": "NOR",
+    "arena": "Adelaide Oval",
+    "arenaId": "adelaide_oval_north_adelaide",
+    "city": "North Adelaide, SA",
+    "address": "War Memorial Dr, North Adelaide SA 5006",
+    "website": "norwoodfc.com.au",
+    "latitude": -34.91550167060423, 
+    "longitude": 138.5962579786785,
+    "colorCode": "#001448",
+	"colorCode2": "#EE0F49",
+    "league": "SANFL",
+    "timezone": "Australia/Adelaide",
+	"startDate": "2026-09-20",
+    "endDate": "2026-09-21"
   },	
+  {
+    "teamName": "Sturt Double Blues",
+    "teamCode": "STU",
+    "arena": "Adelaide Oval",
+    "arenaId": "adelaide_oval_north_adelaide",
+    "city": "North Adelaide, SA",
+    "address": "War Memorial Dr, North Adelaide SA 5006",
+    "website": "sturtfc.com.au",
+    "latitude": -34.91550167060423, 
+    "longitude": 138.5962579786785,
+    "colorCode": "#6CACE4",
+	"colorCode2": "#041E42",
+    "league": "SANFL",
+    "timezone": "Australia/Adelaide",
+	"startDate": "2026-09-20",
+    "endDate": "2026-09-21"
+  },
+  	
   {
     "teamName": "Brighton Robins",
     "teamCode": "BRI",
