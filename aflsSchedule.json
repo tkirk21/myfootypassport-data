@@ -1,14 +1,11 @@
 [
-  
-
-{
-  "id": "afls_2026091901",
-  "league": "AFLS",
-  "team": "North Shore Bombers",
-  "opponent": "Manly Warringah Wolves",
-  "arena": "Blacktown International Sportspark",
-  "city": "Rooty Hill, NSW",
-  "date": "2026-09-19T06:00:00Z"
-}
-  
+  {
+    "id": "afls_2026091901",
+    "league": "AFLS",
+    "team": "North Shore Bombers",
+    "opponent": "Manly Warringah Wolves",
+    "arena": "Blacktown International Sportspark",
+    "city": "Rooty Hill, NSW",
+    "date": "2026-09-19T06:00:00Z"
+  } 
 ]
