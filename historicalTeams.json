@@ -2572,6 +2572,42 @@
     "endDate": null
   },
 
+  {
+    "teamName": "Claremont Tigers",
+    "teamCode": "CLA",
+    "arena": "Optus Stadium",
+    "arenaId": "optus_stadium_burswood",
+    "city": "Burswood, WA",
+    "address": "333 Victoria Park Dr, Burswood WA 6100",
+    "website": "claremontfc.com.au",
+    "latitude": -31.951136436883317, 
+    "longitude": 115.88904328842611,
+    "colorCode": "#0C2340",
+	  "colorCode2": "#FFC62B",
+    "league": "WAFL",
+    "timezone": "Australia/Perth",
+	"startDate": "2026-09-20",
+    "endDate": "2026-09-21"
+  },	
+  {
+    "teamName": "Peel Thunder",
+    "teamCode": "PEE",
+    "arena": "Optus Stadium",
+    "arenaId": "optus_stadium_burswood",
+    "city": "Burswood, WA",
+    "address": "333 Victoria Park Dr, Burswood WA 6100",
+    "website": "peelthunder.com.au",
+    "latitude": -31.951136436883317, 
+    "longitude": 115.88904328842611,
+    "colorCode": "#008080",
+	"colorCode2": "#00008B",
+    "colorCode3": "#ffffff",
+    "league": "WAFL",
+    "timezone": "Australia/Perth",
+	"startDate": "2026-09-20",
+    "endDate": "2026-09-21"
+  },	
+
 
 
 
