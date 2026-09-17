@@ -2088,6 +2088,23 @@
     "timezone": "Australia/Tasmania",
     "startDate": "2025-02-01",
     "endDate": null
+  },
+  {
+    "teamName": "Launceston Blues",
+    "teamCode": "LFC",
+    "arena": "University of Tasmania Stadium",
+    "arenaId": "university_of_tasmania_stadium_invermay",
+    "city": "Invermay, TAS",
+    "address": "2 Invermay Rd, Invermay TAS 7248, Australia",
+    "website": "launcestonfc.com.au",
+    "latitude": -41.42593414533484,  
+    "longitude": 147.13891558457894,
+    "colorCode": "#0F1C2D",
+    "colorCode2": "#ffffff",
+    "league": "NTFA",
+    "timezone": "Australia/Tasmania",
+    "startDate": "2025-09-19",
+    "endDate": "2026-09-20"
   },	
   {
     "teamName": "Longford Tigers",
@@ -2140,6 +2157,24 @@
     "startDate": "2000-02-01",
     "endDate": null
   },
+  {
+    "teamName": "South Launceston Bulldogs",
+    "teamCode": "SLFC",
+    "arena": "University of Tasmania Stadium",
+    "arenaId": "university_of_tasmania_stadium_invermay",
+    "city": "Invermay, TAS",
+    "address": "2 Invermay Rd, Invermay TAS 7248, Australia",
+    "website": "launcestonfc.com.au",
+    "latitude": -41.42593414533484,  
+    "longitude": 147.13891558457894,
+    "colorCode": "#0036A8",
+    "colorCode2": "#F20010",
+    "colorCode3": "#FFFFFF",
+    "league": "NTFA",
+    "timezone": "Australia/Tasmania",
+    "startDate": "2025-09-19",
+    "endDate": "2026-09-20"
+  },		
   {
     "teamName": "South Launceston Bulldogs",
     "teamCode": "SLFC",
