@@ -1,30 +1,12 @@
 [
-  
+
   {
-    "id": "sfl_2026082901",
-    "league": "SFL",
-    "team": "Glenorchy Magpies",
-    "opponent": "Brighton Robins",
-    "arena": "KGV Oval",
-    "city": "Glenorchy, TAS",
-    "date": "2026-08-29T03:30:00Z"
-  },
-  {
-    "id": "sfl_2026082902",
-    "league": "SFL",
-    "team": "Kingborough Tigers",
-    "opponent": "North Hobart Demons",
-    "arena": "Kingston Twin Ovals",
-    "city": "Kingston, TAS",
-    "date": "2026-08-29T03:30:00Z"
-  },
-  {
-    "id": "sfl_2026082903",
+    "id": "sfl_2026091901",
     "league": "SFL",
     "team": "Clarence Roos",
     "opponent": "Lauderdale Bombers",
-    "arena": "Ninja Stadium",
-    "city": "Bellerive, TAS",
-    "date": "2026-08-29T08:00:00Z"
+    "arena": "North Hobart OVal",
+    "city": "North Hobart, TAS",
+    "date": "2026-09-19T04:30:00Z"
   }
 ]
