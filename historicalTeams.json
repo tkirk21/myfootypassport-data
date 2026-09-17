@@ -2133,6 +2133,24 @@
     "endDate": "2008-10-01"
   },
   {
+    "teamName": "Dandenong Stingrays",
+    "teamCode": "DSFC",
+    "arena": "Mission Whitten Oval",
+    "arenaId": "mission_whitten_oval_footscray",
+    "city": "Footscray, VIC",
+    "address": "417 Barkly St, Footscray VIC 3011, Australia",
+    "website": "https://www.playhq.com/afl/org/gippsland-power-talent-league/7806a477",
+    "latitude": -37.80010401274547, 
+    "longitude": 144.88686568683676,
+    "colorCode": "#F9B524",
+	"colorCode2": "#E7292E", 
+	"colorCode3": "#000000",    
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20"
+  },		
+  {
     "teamName": "Eastern Ranges",
     "teamCode": "FRFC",
     "arena": "Kennedy Community Centre",
@@ -2220,6 +2238,24 @@
     "startDate": "1993-02-01",
     "endDate": null
   },
+  {
+    "teamName": "Gippsland Power",
+    "teamCode": "GPFC",
+    "arena": "Mission Whitten Oval",
+    "arenaId": "mission_whitten_oval_footscray",
+    "city": "Footscray, VIC",
+    "address": "417 Barkly St, Footscray VIC 3011, Australia",
+    "website": "https://www.playhq.com/afl/org/gippsland-power-talent-league/7806a477",
+    "latitude": -37.80010401274547, 
+    "longitude": 144.88686568683676,
+    "colorCode": "#FF0000",
+	"colorCode2": "#0000FF", 
+	"colorCode3": "#FFFFFF",    
+    "league": "TL",
+    "timezone": "Australia/Melbourne",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20"
+  },	
   {
     "teamName": "Murray Bushrangers",
     "teamCode": "MBFC",
