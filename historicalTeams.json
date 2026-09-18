@@ -3463,7 +3463,26 @@
     "timezone": "America/Chicago",
     "startDate": "2026-10-17",
     "endDate": "2026-12-20"
-  }			
+  },
+
+  {
+  "teamName": "USAFL Nationals",
+  "teamCode": "USA",
+  "arena": "Premier Sports Campus",
+  "arenaId": "premier_sports_campus_lakewood_ranch",
+  "city": "Lakewood Ranch, FL",
+  "address": "5895 Post Blvd, Lakewood Ranch, FL 34211",
+  "website": "https://aussierulesusa.com/upcoming-events/",
+  "latitude": 27.438953258345826,
+  "longitude": -82.38092495587983,
+  "colorCode": "#EA202C",
+  "colorCode2": "#283593",
+  "colorCode3": "#FFFFFF",
+  "league": "USAFL",
+  "timezone": "America/New_York",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-19"
+}	
 
 
 
