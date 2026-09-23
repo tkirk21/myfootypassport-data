@@ -1,22 +1,12 @@
 [
   {
-    "id": "afl_2026091807",
+    "id": "afl_2026092609",
     "league": "AFL",
-    "team": "Sydney Swans",
-    "opponent": "Fremantle Dockers",
-    "arena": "SCG",
-    "city": "Moore Park, NSW",
-    "date": "2026-09-18T09:40:00Z"
-  },
-  
-  {
-    "id": "afl_2026091908",
-    "league": "AFL",
-    "team": "Hawthorn Hawks",
+    "team": "Fremantle Dockers",
     "opponent": "Brisbane Lions",
     "arena": "MCG",
     "city": "East Melbourne, VIC",
-    "date": "2026-09-19T07:15:00Z"
+    "date": "2026-09-26T04:30:00Z"
   }
 ]
   
