@@ -1187,7 +1187,24 @@
     "timezone": "Australia/Melbourne",
 	"startDate": "2026-10-25",
     "endDate": "2026-10-26"
-  },		
+  },
+  {
+    "teamName": "North Melbourne Kangaroos Women",
+    "teamCode": "NM",
+    "arena": "IKON Park",
+    "arenaId": "ikon_park_carlton_north",
+    "city": "Carlton North, VIC",
+    "address": "400 Royal Parade, Carlton North VIC 3054",
+    "website": "nmfc.com.au",
+    "latitude": -37.78299535472717, 
+    "longitude": 144.96221523663868,
+    "colorCode": "#2F54A5",
+	"colorCode2": "#FFFFFF",
+    "league": "AFLW",
+    "timezone": "Australia/Melbourne",
+	"startDate": "2026-11-07",
+    "endDate": "2026-11-08"
+  },	
   {
     "teamName": "Richmond Tigers Women",
     "teamCode": "RICH",
