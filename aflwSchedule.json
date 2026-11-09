@@ -1,43 +1,23 @@
 [
 
 {
-  "id": "aflw_2026110705",
+  "id": "aflw_2026111409",
   "league": "AFLW",
   "team": "Geelong Cats Women",
-  "opponent": "Melbourne Demons Women",
-  "arena": "IKON Park",
-  "city": "Carlton North, VIC",
-  "date": "2026-11-07T02:05:00Z"
+  "opponent": "Sydney Swans Women",
+  "arena": "GMHBA Stadium",
+  "city": "South Geelong, VIC",
+  "date": "2026-11-14T05:05:00Z"
 },
 
 {
-  "id": "aflw_2026110706",
+  "id": "aflw_2026111410",
   "league": "AFLW",
-  "team": "North Melbourne Kangaroos Women",
-  "opponent": "Carlton Blues Women",
-  "arena": "IKON Park",
-  "city": "Carlton North, VIC",
-  "date": "2026-11-07T05:05:00Z"
-},
-
-{
-  "id": "aflw_2026110807",
-  "league": "AFLW",
-  "team": "Sydney Swans Women",
-  "opponent": "Western Bulldogs Women",
-  "arena": "Henson Park",
-  "city": "Marrickville, NSW",
-  "date": "2026-11-08T02:05:00Z"
-},
-
-{
-  "id": "aflw_2026110808",
-  "league": "AFLW",
-  "team": "Gold Coast Suns Women",
+  "team": "Carlton Blues Women",
   "opponent": "Hawthorn Hawks Women",
-  "arena": "People First Stadium",
-  "city": "Carrara, QLD",
-  "date": "2026-11-08T04:05:00Z"
+  "arena": "IKON Park",
+  "city": "Carlton North, VIC",
+  "date": "2026-11-14T08:15:00Z"
 }
   
 ]
